@@ -1,8 +1,7 @@
 {
 	"configs": [
 		{
-			"needinit": true,
-			"cnt": 1694
+			"cnt": 1695
 		}
 	],
 	"songs": [
@@ -38918,6 +38917,31 @@
 			"mxm": {
 				"level": 18,
 				"jacket_link": "/game/sdvx/vi/common/jacket.html?img=3H6hLXPd7aj8Sucw870PVw",
+				"jacket_downloaded": true
+			}
+		},
+		{
+			"num": 1695,
+			"title": "R.I.P.ゴシップの海",
+			"composer": "cosMo＠暴走P",
+			"nov": {
+				"level": 5,
+				"jacket_link": "/game/sdvx/vi/common/jacket.html?img=USasjO-gVgmhMwBcmnpOpg",
+				"jacket_downloaded": true
+			},
+			"adv": {
+				"level": 13,
+				"jacket_link": "/game/sdvx/vi/common/jacket.html?img=2d40wa5WYV_W50kgJqk_Ag",
+				"jacket_downloaded": true
+			},
+			"exh": {
+				"level": 16,
+				"jacket_link": "/game/sdvx/vi/common/jacket.html?img=Jvo245ZsUDIDm2p1SlpiFg",
+				"jacket_downloaded": true
+			},
+			"mxm": {
+				"level": 18,
+				"jacket_link": "/game/sdvx/vi/common/jacket.html?img=7-RnaSjArLU7xMjs8BrNDw",
 				"jacket_downloaded": true
 			}
 		}
