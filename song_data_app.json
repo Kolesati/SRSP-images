@@ -1,7 +1,7 @@
 {
 	"configs": [
 		{
-			"cnt": 1695
+			"cnt": 1697
 		}
 	],
 	"songs": [
@@ -38942,6 +38942,56 @@
 			"mxm": {
 				"level": 18,
 				"jacket_link": "/illust/1695_mxm.jpeg",
+				"jacket_downloaded": false
+			}
+		},
+		{
+			"num": 1696,
+			"title": "《Re:miniscence》",
+			"composer": "かねこちはる",
+			"nov": {
+				"level": 8,
+				"jacket_link": "/illust/1696_nov.jpeg",
+				"jacket_downloaded": false
+			},
+			"adv": {
+				"level": 15,
+				"jacket_link": "/illust/1696_adv.jpeg",
+				"jacket_downloaded": false
+			},
+			"exh": {
+				"level": 18,
+				"jacket_link": "/illust/1696_exh.jpeg",
+				"jacket_downloaded": false
+			},
+			"mxm": {
+				"level": 20,
+				"jacket_link": "/illust/1696_mxm.jpeg",
+				"jacket_downloaded": false
+			}
+		},
+		{
+			"num": 1697,
+			"title": "Triple Cross",
+			"composer": "BEMANI Sound Team \"dj TAKA & DJ YOSHITAKA & SYUNN\"",
+			"nov": {
+				"level": 6,
+				"jacket_link": "/illust/1697_nov.jpeg",
+				"jacket_downloaded": false
+			},
+			"adv": {
+				"level": 13,
+				"jacket_link": "/illust/1697_adv.jpeg",
+				"jacket_downloaded": false
+			},
+			"exh": {
+				"level": 16,
+				"jacket_link": "/illust/1697_exh.jpeg",
+				"jacket_downloaded": false
+			},
+			"mxm": {
+				"level": 18,
+				"jacket_link": "/illust/1697_mxm.jpeg",
 				"jacket_downloaded": false
 			}
 		}
