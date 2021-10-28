@@ -1,8 +1,8 @@
 {
 	"configs": [
 		{
-			"cnt": 1699,
-			"totalcnt": 6109
+			"cnt": 1701,
+			"totalcnt": 6117
 		}
 	],
 	"songs": [
@@ -34635,6 +34635,50 @@
 				"jacket_link": "/illust/1699_mxm.jpeg"
 			},
 			"date": "2021-10-14"
+		},
+		{
+			"num": 1700,
+			"title": "Love Love Scarlet",
+			"composer": "イノライfeat.怜花",
+			"nov": {
+				"level": 4,
+				"jacket_link": "/illust/1700_nov.jpeg"
+			},
+			"adv": {
+				"level": 11,
+				"jacket_link": "/illust/1700_adv.jpeg"
+			},
+			"exh": {
+				"level": 14,
+				"jacket_link": "/illust/1700_exh.jpeg"
+			},
+			"mxm": {
+				"level": 17,
+				"jacket_link": "/illust/1700_mxm.jpeg"
+			},
+			"date": "2021-10-28"
+		},
+		{
+			"num": 1701,
+			"title": "PRESERVED VAMPIRE",
+			"composer": "SOUND HOLIC feat. Nana Takahashi",
+			"nov": {
+				"level": 5,
+				"jacket_link": "/illust/1701_nov.jpeg"
+			},
+			"adv": {
+				"level": 12,
+				"jacket_link": "/illust/1701_adv.jpeg"
+			},
+			"exh": {
+				"level": 15,
+				"jacket_link": "/illust/1701_exh.jpeg"
+			},
+			"mxm": {
+				"level": 17,
+				"jacket_link": "/illust/1701_mxm.jpeg"
+			},
+			"date": "2021-10-28"
 		}
 	]
 }
