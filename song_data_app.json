@@ -1,8 +1,8 @@
 {
 	"configs": [
 		{
-			"cnt": 1701,
-			"totalcnt": 6117
+			"cnt": 1702,
+			"totalcnt": 6121
 		}
 	],
 	"songs": [
@@ -34679,6 +34679,28 @@
 				"jacket_link": "/illust/1701_mxm.jpeg"
 			},
 			"date": "2021-10-28"
+		},
+		{
+			"num": 1702,
+			"title": "竹",
+			"composer": "立秋 feat.ちょこ",
+			"nov": {
+				"level": 6,
+				"jacket_link": "/illust/1702_nov.jpeg"
+			},
+			"adv": {
+				"level": 14,
+				"jacket_link": "/illust/1702_adv.jpeg"
+			},
+			"exh": {
+				"level": 17,
+				"jacket_link": "/illust/1702_exh.jpeg"
+			},
+			"mxm": {
+				"level": 19,
+				"jacket_link": "/illust/1702_mxm.jpeg"
+			},
+			"date": "2021-11-02"
 		}
 	]
 }
