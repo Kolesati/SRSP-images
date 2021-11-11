@@ -1,8 +1,8 @@
 {
 	"configs": [
 		{
-			"cnt": 1702,
-			"totalcnt": 6121
+			"cnt": 1705,
+			"totalcnt": 6133
 		}
 	],
 	"songs": [
@@ -34701,6 +34701,72 @@
 				"jacket_link": "/illust/1702_mxm.jpeg"
 			},
 			"date": "2021-11-02"
+		},
+		{
+			"num": 1703,
+			"title": "フェアリーテイル・ラヴァーズ",
+			"composer": "みーに＠メルヘン風紀委員会書記",
+			"nov": {
+				"level": 5,
+				"jacket_link": "/illust/1703_nov.jpeg"
+			},
+			"adv": {
+				"level": 12,
+				"jacket_link": "/illust/1703_adv.jpeg"
+			},
+			"exh": {
+				"level": 15,
+				"jacket_link": "/illust/1703_exh.jpeg"
+			},
+			"mxm": {
+				"level": 17,
+				"jacket_link": "/illust/1703_mxm.jpeg"
+			},
+			"date": "2021-11-11"
+		},
+		{
+			"num": 1704,
+			"title": "Going My Future!",
+			"composer": "#EmoCosine",
+			"nov": {
+				"level": 6,
+				"jacket_link": "/illust/1704_nov.jpeg"
+			},
+			"adv": {
+				"level": 13,
+				"jacket_link": "/illust/1704_adv.jpeg"
+			},
+			"exh": {
+				"level": 16,
+				"jacket_link": "/illust/1704_exh.jpeg"
+			},
+			"mxm": {
+				"level": 18,
+				"jacket_link": "/illust/1704_mxm.jpeg"
+			},
+			"date": "2021-11-11"
+		},
+		{
+			"num": 1705,
+			"title": "Archangelio",
+			"composer": "Juggernaut.",
+			"nov": {
+				"level": 6,
+				"jacket_link": "/illust/1705_nov.jpeg"
+			},
+			"adv": {
+				"level": 13,
+				"jacket_link": "/illust/1705_adv.jpeg"
+			},
+			"exh": {
+				"level": 16,
+				"jacket_link": "/illust/1705_exh.jpeg"
+			},
+			"mxm": {
+				"level": 18,
+				"jacket_link": "/illust/1705_mxm.jpeg"
+			},
+			"date": "2021-11-11"
 		}
 	]
 }
