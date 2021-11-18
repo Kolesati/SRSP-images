@@ -1,8 +1,8 @@
 {
 	"configs": [
 		{
-			"cnt": 1705,
-			"totalcnt": 6133
+			"cnt": 1709,
+			"totalcnt": 6149
 		}
 	],
 	"songs": [
@@ -34767,6 +34767,94 @@
 				"jacket_link": "/illust/1705_mxm.jpeg"
 			},
 			"date": "2021-11-11"
+		},
+		{
+			"num": 1706,
+			"title": "LUCKY CAT",
+			"composer": "ちょこふぁん",
+			"nov": {
+				"level": 3,
+				"jacket_link": "/illust/1706_nov.jpeg"
+			},
+			"adv": {
+				"level": 11,
+				"jacket_link": "/illust/1706_adv.jpeg"
+			},
+			"exh": {
+				"level": 14,
+				"jacket_link": "/illust/1706_exh.jpeg"
+			},
+			"mxm": {
+				"level": 17,
+				"jacket_link": "/illust/1706_mxm.jpeg"
+			},
+			"date": "2021-11-18"
+		},
+		{
+			"num": 1707,
+			"title": "デンデラパーティーナイト",
+			"composer": "森羅万象",
+			"nov": {
+				"level": 5,
+				"jacket_link": "/illust/1707_nov.jpeg"
+			},
+			"adv": {
+				"level": 11,
+				"jacket_link": "/illust/1707_adv.jpeg"
+			},
+			"exh": {
+				"level": 15,
+				"jacket_link": "/illust/1707_exh.jpeg"
+			},
+			"mxm": {
+				"level": 17,
+				"jacket_link": "/illust/1707_mxm.jpeg"
+			},
+			"date": "2021-11-18"
+		},
+		{
+			"num": 1708,
+			"title": "天弓天華オトハナビ",
+			"composer": "ビートまりおとまろん",
+			"nov": {
+				"level": 5,
+				"jacket_link": "/illust/1708_nov.jpeg"
+			},
+			"adv": {
+				"level": 12,
+				"jacket_link": "/illust/1708_adv.jpeg"
+			},
+			"exh": {
+				"level": 16,
+				"jacket_link": "/illust/1708_exh.jpeg"
+			},
+			"mxm": {
+				"level": 18,
+				"jacket_link": "/illust/1708_mxm.jpeg"
+			},
+			"date": "2021-11-18"
+		},
+		{
+			"num": 1709,
+			"title": "スカーレット警察のゲットーパトロール24時",
+			"composer": "七条レタスグループ",
+			"nov": {
+				"level": 4,
+				"jacket_link": "/illust/1709_nov.jpeg"
+			},
+			"adv": {
+				"level": 11,
+				"jacket_link": "/illust/1709_adv.jpeg"
+			},
+			"exh": {
+				"level": 15,
+				"jacket_link": "/illust/1709_exh.jpeg"
+			},
+			"mxm": {
+				"level": 18,
+				"jacket_link": "/illust/1709_mxm.jpeg"
+			},
+			"date": "2021-11-18"
 		}
 	]
 }
