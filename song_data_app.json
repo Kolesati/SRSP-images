@@ -1,8 +1,8 @@
 {
 	"configs": [
 		{
-			"cnt": 1709,
-			"totalcnt": 6149
+			"cnt": 1712,
+			"totalcnt": 6161
 		}
 	],
 	"songs": [
@@ -34855,6 +34855,72 @@
 				"jacket_link": "/illust/1709_mxm.jpeg"
 			},
 			"date": "2021-11-18"
+		},
+		{
+			"num": 1710,
+			"title": "Mr.VIRTUALIZER",
+			"composer": "HIMEHINA",
+			"nov": {
+				"level": 3,
+				"jacket_link": "/illust/1710_nov.jpeg"
+			},
+			"adv": {
+				"level": 8,
+				"jacket_link": "/illust/1710_adv.jpeg"
+			},
+			"exh": {
+				"level": 13,
+				"jacket_link": "/illust/1710_exh.jpeg"
+			},
+			"mxm": {
+				"level": 16,
+				"jacket_link": "/illust/1710_mxm.jpeg"
+			},
+			"date": "2021-11-25"
+		},
+		{
+			"num": 1711,
+			"title": "ヒトガタ",
+			"composer": "HIMEHINA",
+			"nov": {
+				"level": 1,
+				"jacket_link": "/illust/1711_nov.jpeg"
+			},
+			"adv": {
+				"level": 10,
+				"jacket_link": "/illust/1711_adv.jpeg"
+			},
+			"exh": {
+				"level": 14,
+				"jacket_link": "/illust/1711_exh.jpeg"
+			},
+			"mxm": {
+				"level": 17,
+				"jacket_link": "/illust/1711_mxm.jpeg"
+			},
+			"date": "2021-11-25"
+		},
+		{
+			"num": 1712,
+			"title": "藍の華",
+			"composer": "HIMEHINA",
+			"nov": {
+				"level": 5,
+				"jacket_link": "/illust/1712_nov.jpeg"
+			},
+			"adv": {
+				"level": 12,
+				"jacket_link": "/illust/1712_adv.jpeg"
+			},
+			"exh": {
+				"level": 15,
+				"jacket_link": "/illust/1712_exh.jpeg"
+			},
+			"mxm": {
+				"level": 18,
+				"jacket_link": "/illust/1712_mxm.jpeg"
+			},
+			"date": "2021-11-25"
 		}
 	]
 }
