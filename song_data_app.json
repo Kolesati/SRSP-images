@@ -1,8 +1,8 @@
 {
 	"configs": [
 		{
-			"cnt": 1712,
-			"totalcnt": 6161
+			"cnt": 1717,
+			"totalcnt": 6181
 		}
 	],
 	"songs": [
@@ -34921,6 +34921,116 @@
 				"jacket_link": "/illust/1712_mxm.jpeg"
 			},
 			"date": "2021-11-25"
+		},
+		{
+			"num": 1713,
+			"title": "Red＋White＝Kawaii",
+			"composer": "こすも８ｂｉｔ",
+			"nov": {
+				"level": 6,
+				"jacket_link": "/illust/1713_nov.jpeg"
+			},
+			"adv": {
+				"level": 13,
+				"jacket_link": "/illust/1713_adv.jpeg"
+			},
+			"exh": {
+				"level": 16,
+				"jacket_link": "/illust/1713_exh.jpeg"
+			},
+			"mxm": {
+				"level": 18,
+				"jacket_link": "/illust/1713_mxm.jpeg"
+			},
+			"date": "2021-12-01"
+		},
+		{
+			"num": 1714,
+			"title": "みたらしプラトニック (feat. nicamoq)",
+			"composer": "Yunomi",
+			"nov": {
+				"level": 5,
+				"jacket_link": "/illust/1714_nov.jpeg"
+			},
+			"adv": {
+				"level": 11,
+				"jacket_link": "/illust/1714_adv.jpeg"
+			},
+			"exh": {
+				"level": 14,
+				"jacket_link": "/illust/1714_exh.jpeg"
+			},
+			"mxm": {
+				"level": 17,
+				"jacket_link": "/illust/1714_mxm.jpeg"
+			},
+			"date": "2021-12-01"
+		},
+		{
+			"num": 1715,
+			"title": "スノウイコン",
+			"composer": "mazuka153",
+			"nov": {
+				"level": 4,
+				"jacket_link": "/illust/1715_nov.jpeg"
+			},
+			"adv": {
+				"level": 11,
+				"jacket_link": "/illust/1715_adv.jpeg"
+			},
+			"exh": {
+				"level": 14,
+				"jacket_link": "/illust/1715_exh.jpeg"
+			},
+			"mxm": {
+				"level": 17,
+				"jacket_link": "/illust/1715_mxm.jpeg"
+			},
+			"date": "2021-12-01"
+		},
+		{
+			"num": 1716,
+			"title": "Star☆Beat",
+			"composer": "PandaBoY feat.ななひら",
+			"nov": {
+				"level": 6,
+				"jacket_link": "/illust/1716_nov.jpeg"
+			},
+			"adv": {
+				"level": 13,
+				"jacket_link": "/illust/1716_adv.jpeg"
+			},
+			"exh": {
+				"level": 16,
+				"jacket_link": "/illust/1716_exh.jpeg"
+			},
+			"mxm": {
+				"level": 18,
+				"jacket_link": "/illust/1716_mxm.jpeg"
+			},
+			"date": "2021-12-01"
+		},
+		{
+			"num": 1717,
+			"title": "eXtridia",
+			"composer": "unatra×Nego_tiator",
+			"nov": {
+				"level": 5,
+				"jacket_link": "/illust/1717_nov.jpeg"
+			},
+			"adv": {
+				"level": 13,
+				"jacket_link": "/illust/1717_adv.jpeg"
+			},
+			"exh": {
+				"level": 15,
+				"jacket_link": "/illust/1717_exh.jpeg"
+			},
+			"mxm": {
+				"level": 17,
+				"jacket_link": "/illust/1717_mxm.jpeg"
+			},
+			"date": "2021-12-01"
 		}
 	]
 }
