@@ -1,8 +1,8 @@
 {
 	"configs": [
 		{
-			"cnt": 1717,
-			"totalcnt": 6181
+			"cnt": 1718,
+			"totalcnt": 6185
 		}
 	],
 	"songs": [
@@ -35031,6 +35031,28 @@
 				"jacket_link": "/illust/1717_mxm.jpeg"
 			},
 			"date": "2021-12-01"
+		},
+		{
+			"num": 1718,
+			"title": "Halloween Is Chaos",
+			"composer": "RoughSketch feat.北小路ヒスイ",
+			"nov": {
+				"level": 5,
+				"jacket_link": "/illust/1718_nov.jpeg"
+			},
+			"adv": {
+				"level": 11,
+				"jacket_link": "/illust/1718_adv.jpeg"
+			},
+			"exh": {
+				"level": 15,
+				"jacket_link": "/illust/1718_exh.jpeg"
+			},
+			"mxm": {
+				"level": 18,
+				"jacket_link": "/illust/1718_mxm.jpeg"
+			},
+			"date": "2021-12-09"
 		}
 	]
 }
