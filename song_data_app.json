@@ -1,8 +1,8 @@
 {
 	"configs": [
 		{
-			"cnt": 1718,
-			"totalcnt": 6185
+			"cnt": 1724,
+			"totalcnt": 6209
 		}
 	],
 	"songs": [
@@ -35053,6 +35053,138 @@
 				"jacket_link": "/illust/1718_mxm.jpeg"
 			},
 			"date": "2021-12-09"
+		},
+		{
+			"num": 1719,
+			"title": "Refrain",
+			"composer": "お月さま交響曲",
+			"nov": {
+				"level": 6,
+				"jacket_link": "/illust/1719_nov.jpeg"
+			},
+			"adv": {
+				"level": 13,
+				"jacket_link": "/illust/1719_adv.jpeg"
+			},
+			"exh": {
+				"level": 16,
+				"jacket_link": "/illust/1719_exh.jpeg"
+			},
+			"mxm": {
+				"level": 18,
+				"jacket_link": "/illust/1719_mxm.jpeg"
+			},
+			"date": "2021-12-16"
+		},
+		{
+			"num": 1720,
+			"title": "NIN-NIN-NIN!!",
+			"composer": "よああああ（ああああ＋yoa）",
+			"nov": {
+				"level": 5,
+				"jacket_link": "/illust/1720_nov.jpeg"
+			},
+			"adv": {
+				"level": 12,
+				"jacket_link": "/illust/1720_adv.jpeg"
+			},
+			"exh": {
+				"level": 14,
+				"jacket_link": "/illust/1720_exh.jpeg"
+			},
+			"mxm": {
+				"level": 17,
+				"jacket_link": "/illust/1720_mxm.jpeg"
+			},
+			"date": "2021-12-16"
+		},
+		{
+			"num": 1721,
+			"title": "～仔羊のナヴァラン・クリシェを添えて～",
+			"composer": "PiyoPiyo Kitchen",
+			"nov": {
+				"level": 6,
+				"jacket_link": "/illust/1721_nov.jpeg"
+			},
+			"adv": {
+				"level": 13,
+				"jacket_link": "/illust/1721_adv.jpeg"
+			},
+			"exh": {
+				"level": 16,
+				"jacket_link": "/illust/1721_exh.jpeg"
+			},
+			"mxm": {
+				"level": 18,
+				"jacket_link": "/illust/1721_mxm.jpeg"
+			},
+			"date": "2021-12-16"
+		},
+		{
+			"num": 1722,
+			"title": "キカイノミルユメ",
+			"composer": "はがね",
+			"nov": {
+				"level": 4,
+				"jacket_link": "/illust/1722_nov.jpeg"
+			},
+			"adv": {
+				"level": 10,
+				"jacket_link": "/illust/1722_adv.jpeg"
+			},
+			"exh": {
+				"level": 13,
+				"jacket_link": "/illust/1722_exh.jpeg"
+			},
+			"mxm": {
+				"level": 16,
+				"jacket_link": "/illust/1722_mxm.jpeg"
+			},
+			"date": "2021-12-16"
+		},
+		{
+			"num": 1723,
+			"title": "オリガミカル・スウィートラヴ",
+			"composer": "かめりあ feat. ななひら",
+			"nov": {
+				"level": 5,
+				"jacket_link": "/illust/1723_nov.jpeg"
+			},
+			"adv": {
+				"level": 12,
+				"jacket_link": "/illust/1723_adv.jpeg"
+			},
+			"exh": {
+				"level": 15,
+				"jacket_link": "/illust/1723_exh.jpeg"
+			},
+			"mxm": {
+				"level": 17,
+				"jacket_link": "/illust/1723_mxm.jpeg"
+			},
+			"date": "2021-12-16"
+		},
+		{
+			"num": 1724,
+			"title": "Aftermath",
+			"composer": "BEMANI Sound Team \"猫叉Master & あさき & Yvya\"",
+			"nov": {
+				"level": 5,
+				"jacket_link": "/illust/1724_nov.jpeg"
+			},
+			"adv": {
+				"level": 12,
+				"jacket_link": "/illust/1724_adv.jpeg"
+			},
+			"exh": {
+				"level": 15,
+				"jacket_link": "/illust/1724_exh.jpeg"
+			},
+			"mxm": {
+				"level": 17,
+				"jacket_link": "/illust/1724_mxm.jpeg"
+			},
+			"date": "2021-12-16"
 		}
 	]
 }
