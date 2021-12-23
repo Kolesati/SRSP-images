@@ -1,8 +1,8 @@
 {
 	"configs": [
 		{
-			"cnt": 1724,
-			"totalcnt": 6209
+			"cnt": 1727,
+			"totalcnt": 6221
 		}
 	],
 	"songs": [
@@ -35185,6 +35185,72 @@
 				"jacket_link": "/illust/1724_mxm.jpeg"
 			},
 			"date": "2021-12-16"
+		},
+		{
+			"num": 1725,
+			"title": "Rapsodia d'amore",
+			"composer": "xi",
+			"nov": {
+				"level": 7,
+				"jacket_link": "/illust/1725_nov.jpeg"
+			},
+			"adv": {
+				"level": 14,
+				"jacket_link": "/illust/1725_adv.jpeg"
+			},
+			"exh": {
+				"level": 17,
+				"jacket_link": "/illust/1725_exh.jpeg"
+			},
+			"mxm": {
+				"level": 19,
+				"jacket_link": "/illust/1725_mxm.jpeg"
+			},
+			"date": "2021-12-23"
+		},
+		{
+			"num": 1726,
+			"title": "party:stage",
+			"composer": "かゆき",
+			"nov": {
+				"level": 6,
+				"jacket_link": "/illust/1726_nov.jpeg"
+			},
+			"adv": {
+				"level": 12,
+				"jacket_link": "/illust/1726_adv.jpeg"
+			},
+			"exh": {
+				"level": 16,
+				"jacket_link": "/illust/1726_exh.jpeg"
+			},
+			"mxm": {
+				"level": 18,
+				"jacket_link": "/illust/1726_mxm.jpeg"
+			},
+			"date": "2021-12-23"
+		},
+		{
+			"num": 1727,
+			"title": "Unleashed Redness",
+			"composer": "DecisionS (kanone + nora2r)",
+			"nov": {
+				"level": 6,
+				"jacket_link": "/illust/1727_nov.jpeg"
+			},
+			"adv": {
+				"level": 13,
+				"jacket_link": "/illust/1727_adv.jpeg"
+			},
+			"exh": {
+				"level": 16,
+				"jacket_link": "/illust/1727_exh.jpeg"
+			},
+			"mxm": {
+				"level": 18,
+				"jacket_link": "/illust/1727_mxm.jpeg"
+			},
+			"date": "2021-12-23"
 		}
 	]
 }
