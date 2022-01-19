@@ -1,8 +1,8 @@
 {
 	"configs": [
 		{
-			"cnt": 1727,
-			"totalcnt": 6221
+			"cnt": 1734,
+			"totalcnt": 6249
 		}
 	],
 	"songs": [
@@ -35251,6 +35251,160 @@
 				"jacket_link": "/illust/1727_mxm.jpeg"
 			},
 			"date": "2021-12-23"
+		},
+		{
+			"num": 1728,
+			"title": "夢の終わり、世界のはじまり。",
+			"composer": "TAKU1175 ft.駄々子",
+			"nov": {
+				"level": 4,
+				"jacket_link": "/illust/1728_nov.jpeg"
+			},
+			"adv": {
+				"level": 11,
+				"jacket_link": "/illust/1728_adv.jpeg"
+			},
+			"exh": {
+				"level": 14,
+				"jacket_link": "/illust/1728_exh.jpeg"
+			},
+			"mxm": {
+				"level": 17,
+				"jacket_link": "/illust/1728_mxm.jpeg"
+			},
+			"date": "2022-01-18"
+		},
+		{
+			"num": 1729,
+			"title": "PLANISPHERE",
+			"composer": "SOUND HOLIC feat. Nana Takahashi",
+			"nov": {
+				"level": 4,
+				"jacket_link": "/illust/1729_nov.jpeg"
+			},
+			"adv": {
+				"level": 11,
+				"jacket_link": "/illust/1729_adv.jpeg"
+			},
+			"exh": {
+				"level": 14,
+				"jacket_link": "/illust/1729_exh.jpeg"
+			},
+			"mxm": {
+				"level": 17,
+				"jacket_link": "/illust/1729_mxm.jpeg"
+			},
+			"date": "2022-01-18"
+		},
+		{
+			"num": 1730,
+			"title": "Foolish Again",
+			"composer": "lapix",
+			"nov": {
+				"level": 5,
+				"jacket_link": "/illust/1730_nov.jpeg"
+			},
+			"adv": {
+				"level": 12,
+				"jacket_link": "/illust/1730_adv.jpeg"
+			},
+			"exh": {
+				"level": 15,
+				"jacket_link": "/illust/1730_exh.jpeg"
+			},
+			"mxm": {
+				"level": 17,
+				"jacket_link": "/illust/1730_mxm.jpeg"
+			},
+			"date": "2022-01-18"
+		},
+		{
+			"num": 1731,
+			"title": "Perfect Ultimate Celebration!!",
+			"composer": "2時間でPUCされたかぼちゃ",
+			"nov": {
+				"level": 6,
+				"jacket_link": "/illust/1731_nov.jpeg"
+			},
+			"adv": {
+				"level": 13,
+				"jacket_link": "/illust/1731_adv.jpeg"
+			},
+			"exh": {
+				"level": 16,
+				"jacket_link": "/illust/1731_exh.jpeg"
+			},
+			"mxm": {
+				"level": 18,
+				"jacket_link": "/illust/1731_mxm.jpeg"
+			},
+			"date": "2022-01-18"
+		},
+		{
+			"num": 1732,
+			"title": "Test Flight",
+			"composer": "黒魔",
+			"nov": {
+				"level": 5,
+				"jacket_link": "/illust/1732_nov.jpeg"
+			},
+			"adv": {
+				"level": 12,
+				"jacket_link": "/illust/1732_adv.jpeg"
+			},
+			"exh": {
+				"level": 15,
+				"jacket_link": "/illust/1732_exh.jpeg"
+			},
+			"mxm": {
+				"level": 18,
+				"jacket_link": "/illust/1732_mxm.jpeg"
+			},
+			"date": "2022-01-18"
+		},
+		{
+			"num": 1733,
+			"title": "sparky spark",
+			"composer": "kamome sano",
+			"nov": {
+				"level": 6,
+				"jacket_link": "/illust/1733_nov.jpeg"
+			},
+			"adv": {
+				"level": 12,
+				"jacket_link": "/illust/1733_adv.jpeg"
+			},
+			"exh": {
+				"level": 15,
+				"jacket_link": "/illust/1733_exh.jpeg"
+			},
+			"mxm": {
+				"level": 17,
+				"jacket_link": "/illust/1733_mxm.jpeg"
+			},
+			"date": "2022-01-18"
+		},
+		{
+			"num": 1734,
+			"title": "ゔぉるみっくす!!!!",
+			"composer": "かめりあ feat. ななひら",
+			"nov": {
+				"level": 6,
+				"jacket_link": "/illust/1734_nov.jpeg"
+			},
+			"adv": {
+				"level": 13,
+				"jacket_link": "/illust/1734_adv.jpeg"
+			},
+			"exh": {
+				"level": 16,
+				"jacket_link": "/illust/1734_exh.jpeg"
+			},
+			"mxm": {
+				"level": 18,
+				"jacket_link": "/illust/1734_mxm.jpeg"
+			},
+			"date": "2022-01-18"
 		}
 	]
 }
