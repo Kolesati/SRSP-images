@@ -1,8 +1,8 @@
 {
 	"configs": [
 		{
-			"cnt": 1734,
-			"totalcnt": 6249
+			"cnt": 1737,
+			"totalcnt": 6261
 		}
 	],
 	"songs": [
@@ -35405,6 +35405,72 @@
 				"jacket_link": "/illust/1734_mxm.jpeg"
 			},
 			"date": "2022-01-18"
+		},
+		{
+			"num": 1735,
+			"title": "Fegrix",
+			"composer": "Xceon vs DJ Command (Eurobeat Union)",
+			"nov": {
+				"level": 6,
+				"jacket_link": "/illust/1735_nov.jpeg"
+			},
+			"adv": {
+				"level": 13,
+				"jacket_link": "/illust/1735_adv.jpeg"
+			},
+			"exh": {
+				"level": 16,
+				"jacket_link": "/illust/1735_exh.jpeg"
+			},
+			"mxm": {
+				"level": 18,
+				"jacket_link": "/illust/1735_mxm.jpeg"
+			},
+			"date": "2022-01-27"
+		},
+		{
+			"num": 1736,
+			"title": "ピアノ協奏曲第１番”蠍火”",
+			"composer": "virkato",
+			"nov": {
+				"level": 7,
+				"jacket_link": "/illust/1736_nov.jpeg"
+			},
+			"adv": {
+				"level": 14,
+				"jacket_link": "/illust/1736_adv.jpeg"
+			},
+			"exh": {
+				"level": 17,
+				"jacket_link": "/illust/1736_exh.jpeg"
+			},
+			"mxm": {
+				"level": 19,
+				"jacket_link": "/illust/1736_mxm.jpeg"
+			},
+			"date": "2022-01-27"
+		},
+		{
+			"num": 1737,
+			"title": "2 Beasts Unchained",
+			"composer": "kors k vs Yooh",
+			"nov": {
+				"level": 7,
+				"jacket_link": "/illust/1737_nov.jpeg"
+			},
+			"adv": {
+				"level": 14,
+				"jacket_link": "/illust/1737_adv.jpeg"
+			},
+			"exh": {
+				"level": 17,
+				"jacket_link": "/illust/1737_exh.jpeg"
+			},
+			"mxm": {
+				"level": 19,
+				"jacket_link": "/illust/1737_mxm.jpeg"
+			},
+			"date": "2022-01-27"
 		}
 	]
 }
