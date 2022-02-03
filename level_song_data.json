@@ -2349,6 +2349,13 @@
 			"jacket_link": "/illust/1710_nov.jpeg",
 			"difficulty": "nov",
 			"date": "2021-11-25"
+		},
+		{
+			"title": "↑↑↓↓←→←→BA",
+			"composer": "meiyo",
+			"jacket_link": "/illust/1738_nov.jpeg",
+			"difficulty": "nov",
+			"date": "2022-02-03"
 		}
 	],
 	[
@@ -17539,6 +17546,13 @@
 			"jacket_link": "/illust/1722_adv.jpeg",
 			"difficulty": "adv",
 			"date": "2021-12-16"
+		},
+		{
+			"title": "↑↑↓↓←→←→BA",
+			"composer": "meiyo",
+			"jacket_link": "/illust/1738_adv.jpeg",
+			"difficulty": "adv",
+			"date": "2022-02-03"
 		}
 	],
 	[
@@ -29321,6 +29335,13 @@
 			"jacket_link": "/illust/1737_adv.jpeg",
 			"difficulty": "adv",
 			"date": "2022-01-27"
+		},
+		{
+			"title": "↑↑↓↓←→←→BA",
+			"composer": "meiyo",
+			"jacket_link": "/illust/1738_exh.jpeg",
+			"difficulty": "exh",
+			"date": "2022-02-03"
 		}
 	],
 	[
@@ -40051,6 +40072,13 @@
 			"jacket_link": "/illust/1737_exh.jpeg",
 			"difficulty": "exh",
 			"date": "2022-01-27"
+		},
+		{
+			"title": "↑↑↓↓←→←→BA",
+			"composer": "meiyo",
+			"jacket_link": "/illust/1738_mxm.jpeg",
+			"difficulty": "mxm",
+			"date": "2022-02-03"
 		}
 	],
 	[

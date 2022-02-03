@@ -1,8 +1,8 @@
 {
 	"configs": [
 		{
-			"cnt": 1737,
-			"totalcnt": 6261
+			"cnt": 1738,
+			"totalcnt": 6265
 		}
 	],
 	"songs": [
@@ -35471,6 +35471,28 @@
 				"jacket_link": "/illust/1737_mxm.jpeg"
 			},
 			"date": "2022-01-27"
+		},
+		{
+			"num": 1738,
+			"title": "↑↑↓↓←→←→BA",
+			"composer": "meiyo",
+			"nov": {
+				"level": 3,
+				"jacket_link": "/illust/1738_nov.jpeg"
+			},
+			"adv": {
+				"level": 10,
+				"jacket_link": "/illust/1738_adv.jpeg"
+			},
+			"exh": {
+				"level": 14,
+				"jacket_link": "/illust/1738_exh.jpeg"
+			},
+			"mxm": {
+				"level": 17,
+				"jacket_link": "/illust/1738_mxm.jpeg"
+			},
+			"date": "2022-02-03"
 		}
 	]
 }
