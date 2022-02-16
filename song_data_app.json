@@ -1,8 +1,8 @@
 {
 	"configs": [
 		{
-			"cnt": 1738,
-			"totalcnt": 6265
+			"cnt": 1745,
+			"totalcnt": 6293
 		}
 	],
 	"songs": [
@@ -35493,6 +35493,160 @@
 				"jacket_link": "/illust/1738_mxm.jpeg"
 			},
 			"date": "2022-02-03"
+		},
+		{
+			"num": 1739,
+			"title": "ZEUS",
+			"composer": "BlackY",
+			"nov": {
+				"level": 7,
+				"jacket_link": "/illust/1739_nov.jpeg"
+			},
+			"adv": {
+				"level": 14,
+				"jacket_link": "/illust/1739_adv.jpeg"
+			},
+			"exh": {
+				"level": 17,
+				"jacket_link": "/illust/1739_exh.jpeg"
+			},
+			"mxm": {
+				"level": 19,
+				"jacket_link": "/illust/1739_mxm.jpeg"
+			},
+			"date": "2022-02-15"
+		},
+		{
+			"num": 1740,
+			"title": "XHRONOXAPSULΞ",
+			"composer": "Silentroom",
+			"nov": {
+				"level": 8,
+				"jacket_link": "/illust/1740_nov.jpeg"
+			},
+			"adv": {
+				"level": 15,
+				"jacket_link": "/illust/1740_adv.jpeg"
+			},
+			"exh": {
+				"level": 18,
+				"jacket_link": "/illust/1740_exh.jpeg"
+			},
+			"mxm": {
+				"level": 20,
+				"jacket_link": "/illust/1740_mxm.jpeg"
+			},
+			"date": "2022-02-15"
+		},
+		{
+			"num": 1741,
+			"title": "AμreoLe ~for Triumph~",
+			"composer": "Ashrount",
+			"nov": {
+				"level": 7,
+				"jacket_link": "/illust/1741_nov.jpeg"
+			},
+			"adv": {
+				"level": 14,
+				"jacket_link": "/illust/1741_adv.jpeg"
+			},
+			"exh": {
+				"level": 17,
+				"jacket_link": "/illust/1741_exh.jpeg"
+			},
+			"mxm": {
+				"level": 19,
+				"jacket_link": "/illust/1741_mxm.jpeg"
+			},
+			"date": "2022-02-15"
+		},
+		{
+			"num": 1742,
+			"title": "All for One",
+			"composer": "CANVAS feat. Quimär",
+			"nov": {
+				"level": 6,
+				"jacket_link": "/illust/1742_nov.jpeg"
+			},
+			"adv": {
+				"level": 13,
+				"jacket_link": "/illust/1742_adv.jpeg"
+			},
+			"exh": {
+				"level": 16,
+				"jacket_link": "/illust/1742_exh.jpeg"
+			},
+			"mxm": {
+				"level": 18,
+				"jacket_link": "/illust/1742_mxm.jpeg"
+			},
+			"date": "2022-02-15"
+		},
+		{
+			"num": 1743,
+			"title": "AIM HIGHER",
+			"composer": "U-ske feat. 棗いつき",
+			"nov": {
+				"level": 6,
+				"jacket_link": "/illust/1743_nov.jpeg"
+			},
+			"adv": {
+				"level": 13,
+				"jacket_link": "/illust/1743_adv.jpeg"
+			},
+			"exh": {
+				"level": 16,
+				"jacket_link": "/illust/1743_exh.jpeg"
+			},
+			"mxm": {
+				"level": 18,
+				"jacket_link": "/illust/1743_mxm.jpeg"
+			},
+			"date": "2022-02-15"
+		},
+		{
+			"num": 1744,
+			"title": "Wings to fly high",
+			"composer": "Noah",
+			"nov": {
+				"level": 6,
+				"jacket_link": "/illust/1744_nov.jpeg"
+			},
+			"adv": {
+				"level": 13,
+				"jacket_link": "/illust/1744_adv.jpeg"
+			},
+			"exh": {
+				"level": 16,
+				"jacket_link": "/illust/1744_exh.jpeg"
+			},
+			"mxm": {
+				"level": 18,
+				"jacket_link": "/illust/1744_mxm.jpeg"
+			},
+			"date": "2022-02-15"
+		},
+		{
+			"num": 1745,
+			"title": "EncorE & cALL",
+			"composer": "CHUBAY",
+			"nov": {
+				"level": 7,
+				"jacket_link": "/illust/1745_nov.jpeg"
+			},
+			"adv": {
+				"level": 14,
+				"jacket_link": "/illust/1745_adv.jpeg"
+			},
+			"exh": {
+				"level": 17,
+				"jacket_link": "/illust/1745_exh.jpeg"
+			},
+			"mxm": {
+				"level": 19,
+				"jacket_link": "/illust/1745_mxm.jpeg"
+			},
+			"date": "2022-02-15"
 		}
 	]
 }
