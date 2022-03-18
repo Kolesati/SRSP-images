@@ -11749,6 +11749,27 @@
 			"jacket_link": "/illust/1744_nov.jpeg",
 			"difficulty": "nov",
 			"date": "2022-02-15"
+		},
+		{
+			"title": "refluxio",
+			"composer": "Juggernaut.",
+			"jacket_link": "/illust/1746_nov.jpeg",
+			"difficulty": "nov",
+			"date": "2022-03-10"
+		},
+		{
+			"title": "火狐之舞",
+			"composer": "影虎。",
+			"jacket_link": "/illust/1749_nov.jpeg",
+			"difficulty": "nov",
+			"date": "2022-03-10"
+		},
+		{
+			"title": "蝕",
+			"composer": "めと（Metomate）",
+			"jacket_link": "/illust/1752_nov.jpeg",
+			"difficulty": "nov",
+			"date": "2022-03-10"
 		}
 	],
 	[
@@ -12780,6 +12801,27 @@
 			"jacket_link": "/illust/1745_nov.jpeg",
 			"difficulty": "nov",
 			"date": "2022-02-15"
+		},
+		{
+			"title": "Rhapsody ⚙f Triumph",
+			"composer": "かめりあ・超機裝旋楽隊",
+			"jacket_link": "/illust/1747_nov.jpeg",
+			"difficulty": "nov",
+			"date": "2022-03-10"
+		},
+		{
+			"title": "Xb10r",
+			"composer": "隣の庭は青い(庭師+Aoi)",
+			"jacket_link": "/illust/1750_nov.jpeg",
+			"difficulty": "nov",
+			"date": "2022-03-10"
+		},
+		{
+			"title": "十の試煉",
+			"composer": "打打だいず vs. siromaru",
+			"jacket_link": "/illust/1751_nov.jpeg",
+			"difficulty": "nov",
+			"date": "2022-03-10"
 		}
 	],
 	[
@@ -13888,6 +13930,13 @@
 			"jacket_link": "/illust/1740_nov.jpeg",
 			"difficulty": "nov",
 			"date": "2022-02-15"
+		},
+		{
+			"title": "MixxioN",
+			"composer": "MisoilePunch♪",
+			"jacket_link": "/illust/1748_nov.jpeg",
+			"difficulty": "nov",
+			"date": "2022-03-10"
 		}
 	],
 	[
@@ -26869,6 +26918,27 @@
 			"jacket_link": "/illust/1744_adv.jpeg",
 			"difficulty": "adv",
 			"date": "2022-02-15"
+		},
+		{
+			"title": "refluxio",
+			"composer": "Juggernaut.",
+			"jacket_link": "/illust/1746_adv.jpeg",
+			"difficulty": "adv",
+			"date": "2022-03-10"
+		},
+		{
+			"title": "火狐之舞",
+			"composer": "影虎。",
+			"jacket_link": "/illust/1749_adv.jpeg",
+			"difficulty": "adv",
+			"date": "2022-03-10"
+		},
+		{
+			"title": "蝕",
+			"composer": "めと（Metomate）",
+			"jacket_link": "/illust/1752_adv.jpeg",
+			"difficulty": "adv",
+			"date": "2022-03-10"
 		}
 	],
 	[
@@ -29433,6 +29503,27 @@
 			"jacket_link": "/illust/1745_adv.jpeg",
 			"difficulty": "adv",
 			"date": "2022-02-15"
+		},
+		{
+			"title": "Rhapsody ⚙f Triumph",
+			"composer": "かめりあ・超機裝旋楽隊",
+			"jacket_link": "/illust/1747_adv.jpeg",
+			"difficulty": "adv",
+			"date": "2022-03-10"
+		},
+		{
+			"title": "Xb10r",
+			"composer": "隣の庭は青い(庭師+Aoi)",
+			"jacket_link": "/illust/1750_adv.jpeg",
+			"difficulty": "adv",
+			"date": "2022-03-10"
+		},
+		{
+			"title": "十の試煉",
+			"composer": "打打だいず vs. siromaru",
+			"jacket_link": "/illust/1751_adv.jpeg",
+			"difficulty": "adv",
+			"date": "2022-03-10"
 		}
 	],
 	[
@@ -32277,6 +32368,13 @@
 			"jacket_link": "/illust/1740_adv.jpeg",
 			"difficulty": "adv",
 			"date": "2022-02-15"
+		},
+		{
+			"title": "MixxioN",
+			"composer": "MisoilePunch♪",
+			"jacket_link": "/illust/1748_adv.jpeg",
+			"difficulty": "adv",
+			"date": "2022-03-10"
 		}
 	],
 	[
@@ -36066,6 +36164,27 @@
 			"jacket_link": "/illust/1744_exh.jpeg",
 			"difficulty": "exh",
 			"date": "2022-02-15"
+		},
+		{
+			"title": "refluxio",
+			"composer": "Juggernaut.",
+			"jacket_link": "/illust/1746_exh.jpeg",
+			"difficulty": "exh",
+			"date": "2022-03-10"
+		},
+		{
+			"title": "火狐之舞",
+			"composer": "影虎。",
+			"jacket_link": "/illust/1749_exh.jpeg",
+			"difficulty": "exh",
+			"date": "2022-03-10"
+		},
+		{
+			"title": "蝕",
+			"composer": "めと（Metomate）",
+			"jacket_link": "/illust/1752_exh.jpeg",
+			"difficulty": "exh",
+			"date": "2022-03-10"
 		}
 	],
 	[
@@ -40219,6 +40338,27 @@
 			"jacket_link": "/illust/1745_exh.jpeg",
 			"difficulty": "exh",
 			"date": "2022-02-15"
+		},
+		{
+			"title": "Rhapsody ⚙f Triumph",
+			"composer": "かめりあ・超機裝旋楽隊",
+			"jacket_link": "/illust/1747_exh.jpeg",
+			"difficulty": "exh",
+			"date": "2022-03-10"
+		},
+		{
+			"title": "Xb10r",
+			"composer": "隣の庭は青い(庭師+Aoi)",
+			"jacket_link": "/illust/1750_exh.jpeg",
+			"difficulty": "exh",
+			"date": "2022-03-10"
+		},
+		{
+			"title": "十の試煉",
+			"composer": "打打だいず vs. siromaru",
+			"jacket_link": "/illust/1751_exh.jpeg",
+			"difficulty": "exh",
+			"date": "2022-03-10"
 		}
 	],
 	[
@@ -43287,6 +43427,34 @@
 			"jacket_link": "/illust/1744_mxm.jpeg",
 			"difficulty": "mxm",
 			"date": "2022-02-15"
+		},
+		{
+			"title": "refluxio",
+			"composer": "Juggernaut.",
+			"jacket_link": "/illust/1746_mxm.jpeg",
+			"difficulty": "mxm",
+			"date": "2022-03-10"
+		},
+		{
+			"title": "MixxioN",
+			"composer": "MisoilePunch♪",
+			"jacket_link": "/illust/1748_exh.jpeg",
+			"difficulty": "exh",
+			"date": "2022-03-10"
+		},
+		{
+			"title": "火狐之舞",
+			"composer": "影虎。",
+			"jacket_link": "/illust/1749_mxm.jpeg",
+			"difficulty": "mxm",
+			"date": "2022-03-10"
+		},
+		{
+			"title": "蝕",
+			"composer": "めと（Metomate）",
+			"jacket_link": "/illust/1752_mxm.jpeg",
+			"difficulty": "mxm",
+			"date": "2022-03-10"
 		}
 	],
 	[
@@ -43975,6 +44143,27 @@
 			"jacket_link": "/illust/1745_mxm.jpeg",
 			"difficulty": "mxm",
 			"date": "2022-02-15"
+		},
+		{
+			"title": "Rhapsody ⚙f Triumph",
+			"composer": "かめりあ・超機裝旋楽隊",
+			"jacket_link": "/illust/1747_mxm.jpeg",
+			"difficulty": "mxm",
+			"date": "2022-03-10"
+		},
+		{
+			"title": "Xb10r",
+			"composer": "隣の庭は青い(庭師+Aoi)",
+			"jacket_link": "/illust/1750_mxm.jpeg",
+			"difficulty": "mxm",
+			"date": "2022-03-10"
+		},
+		{
+			"title": "十の試煉",
+			"composer": "打打だいず vs. siromaru",
+			"jacket_link": "/illust/1751_mxm.jpeg",
+			"difficulty": "mxm",
+			"date": "2022-03-10"
 		}
 	],
 	[
@@ -44089,6 +44278,13 @@
 			"jacket_link": "/illust/1740_mxm.jpeg",
 			"difficulty": "mxm",
 			"date": "2022-02-15"
+		},
+		{
+			"title": "MixxioN",
+			"composer": "MisoilePunch♪",
+			"jacket_link": "/illust/1748_mxm.jpeg",
+			"difficulty": "mxm",
+			"date": "2022-03-10"
 		}
 	]
 ]

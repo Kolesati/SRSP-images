@@ -1,8 +1,8 @@
 {
 	"configs": [
 		{
-			"cnt": 1745,
-			"totalcnt": 6293
+			"cnt": 1752,
+			"totalcnt": 6321
 		}
 	],
 	"songs": [
@@ -35647,6 +35647,160 @@
 				"jacket_link": "/illust/1745_mxm.jpeg"
 			},
 			"date": "2022-02-15"
+		},
+		{
+			"num": 1746,
+			"title": "refluxio",
+			"composer": "Juggernaut.",
+			"nov": {
+				"level": 6,
+				"jacket_link": "/illust/1746_nov.jpeg"
+			},
+			"adv": {
+				"level": 13,
+				"jacket_link": "/illust/1746_adv.jpeg"
+			},
+			"exh": {
+				"level": 16,
+				"jacket_link": "/illust/1746_exh.jpeg"
+			},
+			"mxm": {
+				"level": 18,
+				"jacket_link": "/illust/1746_mxm.jpeg"
+			},
+			"date": "2022-03-10"
+		},
+		{
+			"num": 1747,
+			"title": "Rhapsody ⚙f Triumph",
+			"composer": "かめりあ・超機裝旋楽隊",
+			"nov": {
+				"level": 7,
+				"jacket_link": "/illust/1747_nov.jpeg"
+			},
+			"adv": {
+				"level": 14,
+				"jacket_link": "/illust/1747_adv.jpeg"
+			},
+			"exh": {
+				"level": 17,
+				"jacket_link": "/illust/1747_exh.jpeg"
+			},
+			"mxm": {
+				"level": 19,
+				"jacket_link": "/illust/1747_mxm.jpeg"
+			},
+			"date": "2022-03-10"
+		},
+		{
+			"num": 1748,
+			"title": "MixxioN",
+			"composer": "MisoilePunch♪",
+			"nov": {
+				"level": 8,
+				"jacket_link": "/illust/1748_nov.jpeg"
+			},
+			"adv": {
+				"level": 15,
+				"jacket_link": "/illust/1748_adv.jpeg"
+			},
+			"exh": {
+				"level": 18,
+				"jacket_link": "/illust/1748_exh.jpeg"
+			},
+			"mxm": {
+				"level": 20,
+				"jacket_link": "/illust/1748_mxm.jpeg"
+			},
+			"date": "2022-03-10"
+		},
+		{
+			"num": 1749,
+			"title": "火狐之舞",
+			"composer": "影虎。",
+			"nov": {
+				"level": 6,
+				"jacket_link": "/illust/1749_nov.jpeg"
+			},
+			"adv": {
+				"level": 13,
+				"jacket_link": "/illust/1749_adv.jpeg"
+			},
+			"exh": {
+				"level": 16,
+				"jacket_link": "/illust/1749_exh.jpeg"
+			},
+			"mxm": {
+				"level": 18,
+				"jacket_link": "/illust/1749_mxm.jpeg"
+			},
+			"date": "2022-03-10"
+		},
+		{
+			"num": 1750,
+			"title": "Xb10r",
+			"composer": "隣の庭は青い(庭師+Aoi)",
+			"nov": {
+				"level": 7,
+				"jacket_link": "/illust/1750_nov.jpeg"
+			},
+			"adv": {
+				"level": 14,
+				"jacket_link": "/illust/1750_adv.jpeg"
+			},
+			"exh": {
+				"level": 17,
+				"jacket_link": "/illust/1750_exh.jpeg"
+			},
+			"mxm": {
+				"level": 19,
+				"jacket_link": "/illust/1750_mxm.jpeg"
+			},
+			"date": "2022-03-10"
+		},
+		{
+			"num": 1751,
+			"title": "十の試煉",
+			"composer": "打打だいず vs. siromaru",
+			"nov": {
+				"level": 7,
+				"jacket_link": "/illust/1751_nov.jpeg"
+			},
+			"adv": {
+				"level": 14,
+				"jacket_link": "/illust/1751_adv.jpeg"
+			},
+			"exh": {
+				"level": 17,
+				"jacket_link": "/illust/1751_exh.jpeg"
+			},
+			"mxm": {
+				"level": 19,
+				"jacket_link": "/illust/1751_mxm.jpeg"
+			},
+			"date": "2022-03-10"
+		},
+		{
+			"num": 1752,
+			"title": "蝕",
+			"composer": "めと（Metomate）",
+			"nov": {
+				"level": 6,
+				"jacket_link": "/illust/1752_nov.jpeg"
+			},
+			"adv": {
+				"level": 13,
+				"jacket_link": "/illust/1752_adv.jpeg"
+			},
+			"exh": {
+				"level": 16,
+				"jacket_link": "/illust/1752_exh.jpeg"
+			},
+			"mxm": {
+				"level": 18,
+				"jacket_link": "/illust/1752_mxm.jpeg"
+			},
+			"date": "2022-03-10"
 		}
 	]
 }
