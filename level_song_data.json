@@ -4864,6 +4864,13 @@
 			"jacket_link": "/illust/1729_nov.jpeg",
 			"difficulty": "nov",
 			"date": "2022-01-18"
+		},
+		{
+			"title": "Flip Flap",
+			"composer": "kors k",
+			"jacket_link": "/illust/1753_nov.jpeg",
+			"difficulty": "nov",
+			"date": "2022-03-30"
 		}
 	],
 	[
@@ -8380,6 +8387,13 @@
 			"jacket_link": "/illust/1732_nov.jpeg",
 			"difficulty": "nov",
 			"date": "2022-01-18"
+		},
+		{
+			"title": "SPECIAL SUMMER CAMPAIGN!",
+			"composer": "Lucky Vacuum",
+			"jacket_link": "/illust/1754_nov.jpeg",
+			"difficulty": "nov",
+			"date": "2022-03-30"
 		}
 	],
 	[
@@ -11770,6 +11784,20 @@
 			"jacket_link": "/illust/1752_nov.jpeg",
 			"difficulty": "nov",
 			"date": "2022-03-10"
+		},
+		{
+			"title": "Crystalia",
+			"composer": "DJ TOTTO",
+			"jacket_link": "/illust/1755_nov.jpeg",
+			"difficulty": "nov",
+			"date": "2022-03-30"
+		},
+		{
+			"title": "WICKeD CRφSS",
+			"composer": "OSTER project",
+			"jacket_link": "/illust/1757_nov.jpeg",
+			"difficulty": "nov",
+			"date": "2022-03-30"
 		}
 	],
 	[
@@ -12822,6 +12850,13 @@
 			"jacket_link": "/illust/1751_nov.jpeg",
 			"difficulty": "nov",
 			"date": "2022-03-10"
+		},
+		{
+			"title": "CLAMARE",
+			"composer": "MAX MAXIMIZER",
+			"jacket_link": "/illust/1756_nov.jpeg",
+			"difficulty": "nov",
+			"date": "2022-03-30"
 		}
 	],
 	[
@@ -20236,6 +20271,13 @@
 			"jacket_link": "/illust/1729_adv.jpeg",
 			"difficulty": "adv",
 			"date": "2022-01-18"
+		},
+		{
+			"title": "Flip Flap",
+			"composer": "kors k",
+			"jacket_link": "/illust/1753_adv.jpeg",
+			"difficulty": "adv",
+			"date": "2022-03-30"
 		}
 	],
 	[
@@ -23388,6 +23430,13 @@
 			"jacket_link": "/illust/1733_adv.jpeg",
 			"difficulty": "adv",
 			"date": "2022-01-18"
+		},
+		{
+			"title": "WICKeD CRφSS",
+			"composer": "OSTER project",
+			"jacket_link": "/illust/1757_adv.jpeg",
+			"difficulty": "adv",
+			"date": "2022-03-30"
 		}
 	],
 	[
@@ -26939,6 +26988,20 @@
 			"jacket_link": "/illust/1752_adv.jpeg",
 			"difficulty": "adv",
 			"date": "2022-03-10"
+		},
+		{
+			"title": "SPECIAL SUMMER CAMPAIGN!",
+			"composer": "Lucky Vacuum",
+			"jacket_link": "/illust/1754_adv.jpeg",
+			"difficulty": "adv",
+			"date": "2022-03-30"
+		},
+		{
+			"title": "Crystalia",
+			"composer": "DJ TOTTO",
+			"jacket_link": "/illust/1755_adv.jpeg",
+			"difficulty": "adv",
+			"date": "2022-03-30"
 		}
 	],
 	[
@@ -29524,6 +29587,20 @@
 			"jacket_link": "/illust/1751_adv.jpeg",
 			"difficulty": "adv",
 			"date": "2022-03-10"
+		},
+		{
+			"title": "Flip Flap",
+			"composer": "kors k",
+			"jacket_link": "/illust/1753_exh.jpeg",
+			"difficulty": "exh",
+			"date": "2022-03-30"
+		},
+		{
+			"title": "CLAMARE",
+			"composer": "MAX MAXIMIZER",
+			"jacket_link": "/illust/1756_adv.jpeg",
+			"difficulty": "adv",
+			"date": "2022-03-30"
 		}
 	],
 	[
@@ -32375,6 +32452,13 @@
 			"jacket_link": "/illust/1748_adv.jpeg",
 			"difficulty": "adv",
 			"date": "2022-03-10"
+		},
+		{
+			"title": "WICKeD CRφSS",
+			"composer": "OSTER project",
+			"jacket_link": "/illust/1757_exh.jpeg",
+			"difficulty": "exh",
+			"date": "2022-03-30"
 		}
 	],
 	[
@@ -36185,6 +36269,20 @@
 			"jacket_link": "/illust/1752_exh.jpeg",
 			"difficulty": "exh",
 			"date": "2022-03-10"
+		},
+		{
+			"title": "SPECIAL SUMMER CAMPAIGN!",
+			"composer": "Lucky Vacuum",
+			"jacket_link": "/illust/1754_exh.jpeg",
+			"difficulty": "exh",
+			"date": "2022-03-30"
+		},
+		{
+			"title": "Crystalia",
+			"composer": "DJ TOTTO",
+			"jacket_link": "/illust/1755_exh.jpeg",
+			"difficulty": "exh",
+			"date": "2022-03-30"
 		}
 	],
 	[
@@ -40359,6 +40457,27 @@
 			"jacket_link": "/illust/1751_exh.jpeg",
 			"difficulty": "exh",
 			"date": "2022-03-10"
+		},
+		{
+			"title": "Flip Flap",
+			"composer": "kors k",
+			"jacket_link": "/illust/1753_mxm.jpeg",
+			"difficulty": "mxm",
+			"date": "2022-03-30"
+		},
+		{
+			"title": "CLAMARE",
+			"composer": "MAX MAXIMIZER",
+			"jacket_link": "/illust/1756_exh.jpeg",
+			"difficulty": "exh",
+			"date": "2022-03-30"
+		},
+		{
+			"title": "WICKeD CRφSS",
+			"composer": "OSTER project",
+			"jacket_link": "/illust/1757_mxm.jpeg",
+			"difficulty": "mxm",
+			"date": "2022-03-30"
 		}
 	],
 	[
@@ -43455,6 +43574,20 @@
 			"jacket_link": "/illust/1752_mxm.jpeg",
 			"difficulty": "mxm",
 			"date": "2022-03-10"
+		},
+		{
+			"title": "SPECIAL SUMMER CAMPAIGN!",
+			"composer": "Lucky Vacuum",
+			"jacket_link": "/illust/1754_mxm.jpeg",
+			"difficulty": "mxm",
+			"date": "2022-03-30"
+		},
+		{
+			"title": "Crystalia",
+			"composer": "DJ TOTTO",
+			"jacket_link": "/illust/1755_mxm.jpeg",
+			"difficulty": "mxm",
+			"date": "2022-03-30"
 		}
 	],
 	[
@@ -44164,6 +44297,13 @@
 			"jacket_link": "/illust/1751_mxm.jpeg",
 			"difficulty": "mxm",
 			"date": "2022-03-10"
+		},
+		{
+			"title": "CLAMARE",
+			"composer": "MAX MAXIMIZER",
+			"jacket_link": "/illust/1756_mxm.jpeg",
+			"difficulty": "mxm",
+			"date": "2022-03-30"
 		}
 	],
 	[

@@ -1,8 +1,8 @@
 {
 	"configs": [
 		{
-			"cnt": 1752,
-			"totalcnt": 6321
+			"cnt": 1757,
+			"totalcnt": 6341
 		}
 	],
 	"songs": [
@@ -35801,6 +35801,116 @@
 				"jacket_link": "/illust/1752_mxm.jpeg"
 			},
 			"date": "2022-03-10"
+		},
+		{
+			"num": 1753,
+			"title": "Flip Flap",
+			"composer": "kors k",
+			"nov": {
+				"level": 4,
+				"jacket_link": "/illust/1753_nov.jpeg"
+			},
+			"adv": {
+				"level": 11,
+				"jacket_link": "/illust/1753_adv.jpeg"
+			},
+			"exh": {
+				"level": 14,
+				"jacket_link": "/illust/1753_exh.jpeg"
+			},
+			"mxm": {
+				"level": 17,
+				"jacket_link": "/illust/1753_mxm.jpeg"
+			},
+			"date": "2022-03-30"
+		},
+		{
+			"num": 1754,
+			"title": "SPECIAL SUMMER CAMPAIGN!",
+			"composer": "Lucky Vacuum",
+			"nov": {
+				"level": 5,
+				"jacket_link": "/illust/1754_nov.jpeg"
+			},
+			"adv": {
+				"level": 13,
+				"jacket_link": "/illust/1754_adv.jpeg"
+			},
+			"exh": {
+				"level": 16,
+				"jacket_link": "/illust/1754_exh.jpeg"
+			},
+			"mxm": {
+				"level": 18,
+				"jacket_link": "/illust/1754_mxm.jpeg"
+			},
+			"date": "2022-03-30"
+		},
+		{
+			"num": 1755,
+			"title": "Crystalia",
+			"composer": "DJ TOTTO",
+			"nov": {
+				"level": 6,
+				"jacket_link": "/illust/1755_nov.jpeg"
+			},
+			"adv": {
+				"level": 13,
+				"jacket_link": "/illust/1755_adv.jpeg"
+			},
+			"exh": {
+				"level": 16,
+				"jacket_link": "/illust/1755_exh.jpeg"
+			},
+			"mxm": {
+				"level": 18,
+				"jacket_link": "/illust/1755_mxm.jpeg"
+			},
+			"date": "2022-03-30"
+		},
+		{
+			"num": 1756,
+			"title": "CLAMARE",
+			"composer": "MAX MAXIMIZER",
+			"nov": {
+				"level": 7,
+				"jacket_link": "/illust/1756_nov.jpeg"
+			},
+			"adv": {
+				"level": 14,
+				"jacket_link": "/illust/1756_adv.jpeg"
+			},
+			"exh": {
+				"level": 17,
+				"jacket_link": "/illust/1756_exh.jpeg"
+			},
+			"mxm": {
+				"level": 19,
+				"jacket_link": "/illust/1756_mxm.jpeg"
+			},
+			"date": "2022-03-30"
+		},
+		{
+			"num": 1757,
+			"title": "WICKeD CRφSS",
+			"composer": "OSTER project",
+			"nov": {
+				"level": 6,
+				"jacket_link": "/illust/1757_nov.jpeg"
+			},
+			"adv": {
+				"level": 12,
+				"jacket_link": "/illust/1757_adv.jpeg"
+			},
+			"exh": {
+				"level": 15,
+				"jacket_link": "/illust/1757_exh.jpeg"
+			},
+			"mxm": {
+				"level": 17,
+				"jacket_link": "/illust/1757_mxm.jpeg"
+			},
+			"date": "2022-03-30"
 		}
 	]
 }
