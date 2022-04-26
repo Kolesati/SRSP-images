@@ -2,7 +2,7 @@
 	"configs": [
 		{
 			"cnt": 1775,
-			"totalcnt": 6413
+			"totalcnt": 6421
 		}
 	],
 	"songs": [
@@ -1112,6 +1112,10 @@
 				"level": 13,
 				"jacket_link": "/illust/56_exh.jpeg"
 			},
+			"xcd": {
+				"level": 17,
+				"jacket_link": "/illust/56_xcd.jpeg"
+			},
 			"date": "2012-08-03"
 		},
 		{
@@ -1701,6 +1705,10 @@
 			"exh": {
 				"level": 15,
 				"jacket_link": "/illust/85_exh.jpeg"
+			},
+			"xcd": {
+				"level": 17,
+				"jacket_link": "/illust/85_xcd.jpeg"
 			},
 			"date": "2012-09-14"
 		},
@@ -6182,6 +6190,10 @@
 				"level": 17,
 				"jacket_link": "/illust/321_exh.jpeg"
 			},
+			"xcd": {
+				"level": 19,
+				"jacket_link": "/illust/321_xcd.jpeg"
+			},
 			"date": "2013-12-19"
 		},
 		{
@@ -6885,6 +6897,10 @@
 			"exh": {
 				"level": 16,
 				"jacket_link": "/illust/357_exh.jpeg"
+			},
+			"xcd": {
+				"level": 18,
+				"jacket_link": "/illust/357_xcd.jpeg"
 			},
 			"date": "2014-03-06"
 		},
@@ -10152,6 +10168,10 @@
 				"level": 17,
 				"jacket_link": "/illust/532_exh.jpeg"
 			},
+			"xcd": {
+				"level": 19,
+				"jacket_link": "/illust/532_xcd.jpeg"
+			},
 			"date": "2015-02-27"
 		},
 		{
@@ -12189,6 +12209,10 @@
 			"exh": {
 				"level": 15,
 				"jacket_link": "/illust/643_exh.jpeg"
+			},
+			"xcd": {
+				"level": 18,
+				"jacket_link": "/illust/643_xcd.jpeg"
 			},
 			"date": "2015-10-01"
 		},
@@ -14370,6 +14394,10 @@
 				"level": 16,
 				"jacket_link": "/illust/761_exh.jpeg"
 			},
+			"xcd": {
+				"level": 17,
+				"jacket_link": "/illust/761_xcd.jpeg"
+			},
 			"date": "2016-04-28"
 		},
 		{
@@ -14387,6 +14415,10 @@
 			"exh": {
 				"level": 17,
 				"jacket_link": "/illust/762_exh.jpeg"
+			},
+			"xcd": {
+				"level": 18,
+				"jacket_link": "/illust/762_xcd.jpeg"
 			},
 			"date": "2016-04-28"
 		},
