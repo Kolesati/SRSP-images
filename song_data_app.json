@@ -1,8 +1,8 @@
 {
 	"configs": [
 		{
-			"cnt": 1775,
-			"totalcnt": 6421
+			"cnt": 1779,
+			"totalcnt": 6437
 		}
 	],
 	"songs": [
@@ -36339,6 +36339,94 @@
 				"jacket_link": "/illust/1775_mxm.jpeg"
 			},
 			"date": "2022-04-25"
+		},
+		{
+			"num": 1776,
+			"title": "メンタンピンドラドラ",
+			"composer": "enzo + O2i3",
+			"nov": {
+				"level": 5,
+				"jacket_link": "/illust/1776_nov.jpeg"
+			},
+			"adv": {
+				"level": 12,
+				"jacket_link": "/illust/1776_adv.jpeg"
+			},
+			"exh": {
+				"level": 14,
+				"jacket_link": "/illust/1776_exh.jpeg"
+			},
+			"mxm": {
+				"level": 17,
+				"jacket_link": "/illust/1776_mxm.jpeg"
+			},
+			"date": "2022-05-12"
+		},
+		{
+			"num": 1777,
+			"title": "ミライチューナー",
+			"composer": "U-ske feat.すずしろ",
+			"nov": {
+				"level": 4,
+				"jacket_link": "/illust/1777_nov.jpeg"
+			},
+			"adv": {
+				"level": 10,
+				"jacket_link": "/illust/1777_adv.jpeg"
+			},
+			"exh": {
+				"level": 13,
+				"jacket_link": "/illust/1777_exh.jpeg"
+			},
+			"mxm": {
+				"level": 16,
+				"jacket_link": "/illust/1777_mxm.jpeg"
+			},
+			"date": "2022-05-12"
+		},
+		{
+			"num": 1778,
+			"title": "c2Theater",
+			"composer": "yaseta + Hidra-Xjeil",
+			"nov": {
+				"level": 6,
+				"jacket_link": "/illust/1778_nov.jpeg"
+			},
+			"adv": {
+				"level": 12,
+				"jacket_link": "/illust/1778_adv.jpeg"
+			},
+			"exh": {
+				"level": 15,
+				"jacket_link": "/illust/1778_exh.jpeg"
+			},
+			"mxm": {
+				"level": 18,
+				"jacket_link": "/illust/1778_mxm.jpeg"
+			},
+			"date": "2022-05-12"
+		},
+		{
+			"num": 1779,
+			"title": "SHOCKER BREAKER",
+			"composer": "Yu_Asahina",
+			"nov": {
+				"level": 6,
+				"jacket_link": "/illust/1779_nov.jpeg"
+			},
+			"adv": {
+				"level": 13,
+				"jacket_link": "/illust/1779_adv.jpeg"
+			},
+			"exh": {
+				"level": 16,
+				"jacket_link": "/illust/1779_exh.jpeg"
+			},
+			"mxm": {
+				"level": 18,
+				"jacket_link": "/illust/1779_mxm.jpeg"
+			},
+			"date": "2022-05-12"
 		}
 	]
 }

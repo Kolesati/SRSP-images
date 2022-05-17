@@ -4913,6 +4913,13 @@
 			"jacket_link": "/illust/1766_nov.jpeg",
 			"difficulty": "nov",
 			"date": "2022-04-25"
+		},
+		{
+			"title": "ミライチューナー",
+			"composer": "U-ske feat.すずしろ",
+			"jacket_link": "/illust/1777_nov.jpeg",
+			"difficulty": "nov",
+			"date": "2022-05-12"
 		}
 	],
 	[
@@ -8457,6 +8464,13 @@
 			"jacket_link": "/illust/1772_nov.jpeg",
 			"difficulty": "nov",
 			"date": "2022-04-25"
+		},
+		{
+			"title": "メンタンピンドラドラ",
+			"composer": "enzo + O2i3",
+			"jacket_link": "/illust/1776_nov.jpeg",
+			"difficulty": "nov",
+			"date": "2022-05-12"
 		}
 	],
 	[
@@ -11910,6 +11924,20 @@
 			"jacket_link": "/illust/1773_nov.jpeg",
 			"difficulty": "nov",
 			"date": "2022-04-25"
+		},
+		{
+			"title": "c2Theater",
+			"composer": "yaseta + Hidra-Xjeil",
+			"jacket_link": "/illust/1778_nov.jpeg",
+			"difficulty": "nov",
+			"date": "2022-05-12"
+		},
+		{
+			"title": "SHOCKER BREAKER",
+			"composer": "Yu_Asahina",
+			"jacket_link": "/illust/1779_nov.jpeg",
+			"difficulty": "nov",
+			"date": "2022-05-12"
 		}
 	],
 	[
@@ -17819,6 +17847,13 @@
 			"jacket_link": "/illust/1775_adv.jpeg",
 			"difficulty": "adv",
 			"date": "2022-04-25"
+		},
+		{
+			"title": "ミライチューナー",
+			"composer": "U-ske feat.すずしろ",
+			"jacket_link": "/illust/1777_adv.jpeg",
+			"difficulty": "adv",
+			"date": "2022-05-12"
 		}
 	],
 	[
@@ -23633,6 +23668,20 @@
 			"jacket_link": "/illust/1773_adv.jpeg",
 			"difficulty": "adv",
 			"date": "2022-04-25"
+		},
+		{
+			"title": "メンタンピンドラドラ",
+			"composer": "enzo + O2i3",
+			"jacket_link": "/illust/1776_adv.jpeg",
+			"difficulty": "adv",
+			"date": "2022-05-12"
+		},
+		{
+			"title": "c2Theater",
+			"composer": "yaseta + Hidra-Xjeil",
+			"jacket_link": "/illust/1778_adv.jpeg",
+			"difficulty": "adv",
+			"date": "2022-05-12"
 		}
 	],
 	[
@@ -27247,6 +27296,20 @@
 			"jacket_link": "/illust/1771_adv.jpeg",
 			"difficulty": "adv",
 			"date": "2022-04-25"
+		},
+		{
+			"title": "ミライチューナー",
+			"composer": "U-ske feat.すずしろ",
+			"jacket_link": "/illust/1777_exh.jpeg",
+			"difficulty": "exh",
+			"date": "2022-05-12"
+		},
+		{
+			"title": "SHOCKER BREAKER",
+			"composer": "Yu_Asahina",
+			"jacket_link": "/illust/1779_adv.jpeg",
+			"difficulty": "adv",
+			"date": "2022-05-12"
 		}
 	],
 	[
@@ -29895,6 +29958,13 @@
 			"jacket_link": "/illust/1775_exh.jpeg",
 			"difficulty": "exh",
 			"date": "2022-04-25"
+		},
+		{
+			"title": "メンタンピンドラドラ",
+			"composer": "enzo + O2i3",
+			"jacket_link": "/illust/1776_exh.jpeg",
+			"difficulty": "exh",
+			"date": "2022-05-12"
 		}
 	],
 	[
@@ -32788,6 +32858,13 @@
 			"jacket_link": "/illust/1773_exh.jpeg",
 			"difficulty": "exh",
 			"date": "2022-04-25"
+		},
+		{
+			"title": "c2Theater",
+			"composer": "yaseta + Hidra-Xjeil",
+			"jacket_link": "/illust/1778_exh.jpeg",
+			"difficulty": "exh",
+			"date": "2022-05-12"
 		}
 	],
 	[
@@ -36668,6 +36745,20 @@
 			"jacket_link": "/illust/1771_exh.jpeg",
 			"difficulty": "exh",
 			"date": "2022-04-25"
+		},
+		{
+			"title": "ミライチューナー",
+			"composer": "U-ske feat.すずしろ",
+			"jacket_link": "/illust/1777_mxm.jpeg",
+			"difficulty": "mxm",
+			"date": "2022-05-12"
+		},
+		{
+			"title": "SHOCKER BREAKER",
+			"composer": "Yu_Asahina",
+			"jacket_link": "/illust/1779_exh.jpeg",
+			"difficulty": "exh",
+			"date": "2022-05-12"
 		}
 	],
 	[
@@ -40933,6 +41024,13 @@
 			"jacket_link": "/illust/1775_mxm.jpeg",
 			"difficulty": "mxm",
 			"date": "2022-04-25"
+		},
+		{
+			"title": "メンタンピンドラドラ",
+			"composer": "enzo + O2i3",
+			"jacket_link": "/illust/1776_mxm.jpeg",
+			"difficulty": "mxm",
+			"date": "2022-05-12"
 		}
 	],
 	[
@@ -44120,6 +44218,20 @@
 			"jacket_link": "/illust/1773_mxm.jpeg",
 			"difficulty": "mxm",
 			"date": "2022-04-25"
+		},
+		{
+			"title": "c2Theater",
+			"composer": "yaseta + Hidra-Xjeil",
+			"jacket_link": "/illust/1778_mxm.jpeg",
+			"difficulty": "mxm",
+			"date": "2022-05-12"
+		},
+		{
+			"title": "SHOCKER BREAKER",
+			"composer": "Yu_Asahina",
+			"jacket_link": "/illust/1779_mxm.jpeg",
+			"difficulty": "mxm",
+			"date": "2022-05-12"
 		}
 	],
 	[
