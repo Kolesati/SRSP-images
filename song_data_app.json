@@ -1,8 +1,8 @@
 {
 	"configs": [
 		{
-			"cnt": 1779,
-			"totalcnt": 6437
+			"cnt": 1784,
+			"totalcnt": 6457
 		}
 	],
 	"songs": [
@@ -36427,6 +36427,116 @@
 				"jacket_link": "/illust/1779_mxm.jpeg"
 			},
 			"date": "2022-05-12"
+		},
+		{
+			"num": 1780,
+			"title": "ROZELCIA",
+			"composer": "brz1128",
+			"nov": {
+				"level": 6,
+				"jacket_link": "/illust/1780_nov.jpeg"
+			},
+			"adv": {
+				"level": 13,
+				"jacket_link": "/illust/1780_adv.jpeg"
+			},
+			"exh": {
+				"level": 16,
+				"jacket_link": "/illust/1780_exh.jpeg"
+			},
+			"mxm": {
+				"level": 18,
+				"jacket_link": "/illust/1780_mxm.jpeg"
+			},
+			"date": "2022-05-26"
+		},
+		{
+			"num": 1781,
+			"title": "二分間の世界",
+			"composer": "Cororo",
+			"nov": {
+				"level": 6,
+				"jacket_link": "/illust/1781_nov.jpeg"
+			},
+			"adv": {
+				"level": 13,
+				"jacket_link": "/illust/1781_adv.jpeg"
+			},
+			"exh": {
+				"level": 16,
+				"jacket_link": "/illust/1781_exh.jpeg"
+			},
+			"mxm": {
+				"level": 18,
+				"jacket_link": "/illust/1781_mxm.jpeg"
+			},
+			"date": "2022-05-26"
+		},
+		{
+			"num": 1782,
+			"title": "チクサクコールが懐かしい",
+			"composer": "諸星なな feat.加藤はるか",
+			"nov": {
+				"level": 5,
+				"jacket_link": "/illust/1782_nov.jpeg"
+			},
+			"adv": {
+				"level": 12,
+				"jacket_link": "/illust/1782_adv.jpeg"
+			},
+			"exh": {
+				"level": 15,
+				"jacket_link": "/illust/1782_exh.jpeg"
+			},
+			"mxm": {
+				"level": 17,
+				"jacket_link": "/illust/1782_mxm.jpeg"
+			},
+			"date": "2022-05-26"
+		},
+		{
+			"num": 1783,
+			"title": "Struggle for Revival",
+			"composer": "NitoK",
+			"nov": {
+				"level": 5,
+				"jacket_link": "/illust/1783_nov.jpeg"
+			},
+			"adv": {
+				"level": 12,
+				"jacket_link": "/illust/1783_adv.jpeg"
+			},
+			"exh": {
+				"level": 15,
+				"jacket_link": "/illust/1783_exh.jpeg"
+			},
+			"mxm": {
+				"level": 17,
+				"jacket_link": "/illust/1783_mxm.jpeg"
+			},
+			"date": "2022-05-26"
+		},
+		{
+			"num": 1784,
+			"title": "Corrupting Wonderland",
+			"composer": "u-z feat.CHERICa",
+			"nov": {
+				"level": 6,
+				"jacket_link": "/illust/1784_nov.jpeg"
+			},
+			"adv": {
+				"level": 12,
+				"jacket_link": "/illust/1784_adv.jpeg"
+			},
+			"exh": {
+				"level": 15,
+				"jacket_link": "/illust/1784_exh.jpeg"
+			},
+			"mxm": {
+				"level": 18,
+				"jacket_link": "/illust/1784_mxm.jpeg"
+			},
+			"date": "2022-05-26"
 		}
 	]
 }
