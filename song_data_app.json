@@ -1,8 +1,8 @@
 {
 	"configs": [
 		{
-			"cnt": 1784,
-			"totalcnt": 6457
+			"cnt": 1791,
+			"totalcnt": 6485
 		}
 	],
 	"songs": [
@@ -36537,6 +36537,160 @@
 				"jacket_link": "/illust/1784_mxm.jpeg"
 			},
 			"date": "2022-05-26"
+		},
+		{
+			"num": 1785,
+			"title": "リバース",
+			"composer": "ここなつ2.0",
+			"nov": {
+				"level": 4,
+				"jacket_link": "/illust/1785_nov.jpeg"
+			},
+			"adv": {
+				"level": 11,
+				"jacket_link": "/illust/1785_adv.jpeg"
+			},
+			"exh": {
+				"level": 13,
+				"jacket_link": "/illust/1785_exh.jpeg"
+			},
+			"mxm": {
+				"level": 16,
+				"jacket_link": "/illust/1785_mxm.jpeg"
+			},
+			"date": "2022-06-09"
+		},
+		{
+			"num": 1786,
+			"title": "メモリーズ",
+			"composer": "ここなつ2.0",
+			"nov": {
+				"level": 5,
+				"jacket_link": "/illust/1786_nov.jpeg"
+			},
+			"adv": {
+				"level": 12,
+				"jacket_link": "/illust/1786_adv.jpeg"
+			},
+			"exh": {
+				"level": 15,
+				"jacket_link": "/illust/1786_exh.jpeg"
+			},
+			"mxm": {
+				"level": 17,
+				"jacket_link": "/illust/1786_mxm.jpeg"
+			},
+			"date": "2022-06-09"
+		},
+		{
+			"num": 1787,
+			"title": "マーメイドペレパスィ",
+			"composer": "ここなつ2.0",
+			"nov": {
+				"level": 3,
+				"jacket_link": "/illust/1787_nov.jpeg"
+			},
+			"adv": {
+				"level": 10,
+				"jacket_link": "/illust/1787_adv.jpeg"
+			},
+			"exh": {
+				"level": 13,
+				"jacket_link": "/illust/1787_exh.jpeg"
+			},
+			"mxm": {
+				"level": 16,
+				"jacket_link": "/illust/1787_mxm.jpeg"
+			},
+			"date": "2022-06-09"
+		},
+		{
+			"num": 1788,
+			"title": "ハートシェイプ・スピカ",
+			"composer": "ここなつ2.0",
+			"nov": {
+				"level": 5,
+				"jacket_link": "/illust/1788_nov.jpeg"
+			},
+			"adv": {
+				"level": 12,
+				"jacket_link": "/illust/1788_adv.jpeg"
+			},
+			"exh": {
+				"level": 15,
+				"jacket_link": "/illust/1788_exh.jpeg"
+			},
+			"mxm": {
+				"level": 17,
+				"jacket_link": "/illust/1788_mxm.jpeg"
+			},
+			"date": "2022-06-09"
+		},
+		{
+			"num": 1789,
+			"title": "ステラレギア",
+			"composer": "ここなつ2.0",
+			"nov": {
+				"level": 4,
+				"jacket_link": "/illust/1789_nov.jpeg"
+			},
+			"adv": {
+				"level": 11,
+				"jacket_link": "/illust/1789_adv.jpeg"
+			},
+			"exh": {
+				"level": 14,
+				"jacket_link": "/illust/1789_exh.jpeg"
+			},
+			"mxm": {
+				"level": 17,
+				"jacket_link": "/illust/1789_mxm.jpeg"
+			},
+			"date": "2022-06-09"
+		},
+		{
+			"num": 1790,
+			"title": "カシオペアノヒカリ",
+			"composer": "ここなつ2.0",
+			"nov": {
+				"level": 2,
+				"jacket_link": "/illust/1790_nov.jpeg"
+			},
+			"adv": {
+				"level": 11,
+				"jacket_link": "/illust/1790_adv.jpeg"
+			},
+			"exh": {
+				"level": 14,
+				"jacket_link": "/illust/1790_exh.jpeg"
+			},
+			"mxm": {
+				"level": 17,
+				"jacket_link": "/illust/1790_mxm.jpeg"
+			},
+			"date": "2022-06-09"
+		},
+		{
+			"num": 1791,
+			"title": "イエルウタ",
+			"composer": "ここなつ2.0",
+			"nov": {
+				"level": 3,
+				"jacket_link": "/illust/1791_nov.jpeg"
+			},
+			"adv": {
+				"level": 9,
+				"jacket_link": "/illust/1791_adv.jpeg"
+			},
+			"exh": {
+				"level": 13,
+				"jacket_link": "/illust/1791_exh.jpeg"
+			},
+			"mxm": {
+				"level": 16,
+				"jacket_link": "/illust/1791_mxm.jpeg"
+			},
+			"date": "2022-06-09"
 		}
 	]
 }

@@ -786,6 +786,13 @@
 			"jacket_link": "/illust/1657_nov.jpeg",
 			"difficulty": "nov",
 			"date": "2021-05-20"
+		},
+		{
+			"title": "カシオペアノヒカリ",
+			"composer": "ここなつ2.0",
+			"jacket_link": "/illust/1790_nov.jpeg",
+			"difficulty": "nov",
+			"date": "2022-06-09"
 		}
 	],
 	[
@@ -2370,6 +2377,20 @@
 			"jacket_link": "/illust/1775_nov.jpeg",
 			"difficulty": "nov",
 			"date": "2022-04-25"
+		},
+		{
+			"title": "マーメイドペレパスィ",
+			"composer": "ここなつ2.0",
+			"jacket_link": "/illust/1787_nov.jpeg",
+			"difficulty": "nov",
+			"date": "2022-06-09"
+		},
+		{
+			"title": "イエルウタ",
+			"composer": "ここなつ2.0",
+			"jacket_link": "/illust/1791_nov.jpeg",
+			"difficulty": "nov",
+			"date": "2022-06-09"
 		}
 	],
 	[
@@ -4920,6 +4941,20 @@
 			"jacket_link": "/illust/1777_nov.jpeg",
 			"difficulty": "nov",
 			"date": "2022-05-12"
+		},
+		{
+			"title": "リバース",
+			"composer": "ここなつ2.0",
+			"jacket_link": "/illust/1785_nov.jpeg",
+			"difficulty": "nov",
+			"date": "2022-06-09"
+		},
+		{
+			"title": "ステラレギア",
+			"composer": "ここなつ2.0",
+			"jacket_link": "/illust/1789_nov.jpeg",
+			"difficulty": "nov",
+			"date": "2022-06-09"
 		}
 	],
 	[
@@ -8485,6 +8520,20 @@
 			"jacket_link": "/illust/1783_nov.jpeg",
 			"difficulty": "nov",
 			"date": "2022-05-26"
+		},
+		{
+			"title": "メモリーズ",
+			"composer": "ここなつ2.0",
+			"jacket_link": "/illust/1786_nov.jpeg",
+			"difficulty": "nov",
+			"date": "2022-06-09"
+		},
+		{
+			"title": "ハートシェイプ・スピカ",
+			"composer": "ここなつ2.0",
+			"jacket_link": "/illust/1788_nov.jpeg",
+			"difficulty": "nov",
+			"date": "2022-06-09"
 		}
 	],
 	[
@@ -15493,6 +15542,13 @@
 			"jacket_link": "/illust/1657_adv.jpeg",
 			"difficulty": "adv",
 			"date": "2021-05-20"
+		},
+		{
+			"title": "イエルウタ",
+			"composer": "ここなつ2.0",
+			"jacket_link": "/illust/1791_adv.jpeg",
+			"difficulty": "adv",
+			"date": "2022-06-09"
 		}
 	],
 	[
@@ -17889,6 +17945,13 @@
 			"jacket_link": "/illust/1777_adv.jpeg",
 			"difficulty": "adv",
 			"date": "2022-05-12"
+		},
+		{
+			"title": "マーメイドペレパスィ",
+			"composer": "ここなつ2.0",
+			"jacket_link": "/illust/1787_adv.jpeg",
+			"difficulty": "adv",
+			"date": "2022-06-09"
 		}
 	],
 	[
@@ -20516,6 +20579,27 @@
 			"jacket_link": "/illust/1774_adv.jpeg",
 			"difficulty": "adv",
 			"date": "2022-04-25"
+		},
+		{
+			"title": "リバース",
+			"composer": "ここなつ2.0",
+			"jacket_link": "/illust/1785_adv.jpeg",
+			"difficulty": "adv",
+			"date": "2022-06-09"
+		},
+		{
+			"title": "ステラレギア",
+			"composer": "ここなつ2.0",
+			"jacket_link": "/illust/1789_adv.jpeg",
+			"difficulty": "adv",
+			"date": "2022-06-09"
+		},
+		{
+			"title": "カシオペアノヒカリ",
+			"composer": "ここなつ2.0",
+			"jacket_link": "/illust/1790_adv.jpeg",
+			"difficulty": "adv",
+			"date": "2022-06-09"
 		}
 	],
 	[
@@ -23738,6 +23822,20 @@
 			"jacket_link": "/illust/1784_adv.jpeg",
 			"difficulty": "adv",
 			"date": "2022-05-26"
+		},
+		{
+			"title": "メモリーズ",
+			"composer": "ここなつ2.0",
+			"jacket_link": "/illust/1786_adv.jpeg",
+			"difficulty": "adv",
+			"date": "2022-06-09"
+		},
+		{
+			"title": "ハートシェイプ・スピカ",
+			"composer": "ここなつ2.0",
+			"jacket_link": "/illust/1788_adv.jpeg",
+			"difficulty": "adv",
+			"date": "2022-06-09"
 		}
 	],
 	[
@@ -27380,6 +27478,27 @@
 			"jacket_link": "/illust/1781_adv.jpeg",
 			"difficulty": "adv",
 			"date": "2022-05-26"
+		},
+		{
+			"title": "リバース",
+			"composer": "ここなつ2.0",
+			"jacket_link": "/illust/1785_exh.jpeg",
+			"difficulty": "exh",
+			"date": "2022-06-09"
+		},
+		{
+			"title": "マーメイドペレパスィ",
+			"composer": "ここなつ2.0",
+			"jacket_link": "/illust/1787_exh.jpeg",
+			"difficulty": "exh",
+			"date": "2022-06-09"
+		},
+		{
+			"title": "イエルウタ",
+			"composer": "ここなつ2.0",
+			"jacket_link": "/illust/1791_exh.jpeg",
+			"difficulty": "exh",
+			"date": "2022-06-09"
 		}
 	],
 	[
@@ -30035,6 +30154,20 @@
 			"jacket_link": "/illust/1776_exh.jpeg",
 			"difficulty": "exh",
 			"date": "2022-05-12"
+		},
+		{
+			"title": "ステラレギア",
+			"composer": "ここなつ2.0",
+			"jacket_link": "/illust/1789_exh.jpeg",
+			"difficulty": "exh",
+			"date": "2022-06-09"
+		},
+		{
+			"title": "カシオペアノヒカリ",
+			"composer": "ここなつ2.0",
+			"jacket_link": "/illust/1790_exh.jpeg",
+			"difficulty": "exh",
+			"date": "2022-06-09"
 		}
 	],
 	[
@@ -32956,6 +33089,20 @@
 			"jacket_link": "/illust/1784_exh.jpeg",
 			"difficulty": "exh",
 			"date": "2022-05-26"
+		},
+		{
+			"title": "メモリーズ",
+			"composer": "ここなつ2.0",
+			"jacket_link": "/illust/1786_exh.jpeg",
+			"difficulty": "exh",
+			"date": "2022-06-09"
+		},
+		{
+			"title": "ハートシェイプ・スピカ",
+			"composer": "ここなつ2.0",
+			"jacket_link": "/illust/1788_exh.jpeg",
+			"difficulty": "exh",
+			"date": "2022-06-09"
 		}
 	],
 	[
@@ -36864,6 +37011,27 @@
 			"jacket_link": "/illust/1781_exh.jpeg",
 			"difficulty": "exh",
 			"date": "2022-05-26"
+		},
+		{
+			"title": "リバース",
+			"composer": "ここなつ2.0",
+			"jacket_link": "/illust/1785_mxm.jpeg",
+			"difficulty": "mxm",
+			"date": "2022-06-09"
+		},
+		{
+			"title": "マーメイドペレパスィ",
+			"composer": "ここなつ2.0",
+			"jacket_link": "/illust/1787_mxm.jpeg",
+			"difficulty": "mxm",
+			"date": "2022-06-09"
+		},
+		{
+			"title": "イエルウタ",
+			"composer": "ここなつ2.0",
+			"jacket_link": "/illust/1791_mxm.jpeg",
+			"difficulty": "mxm",
+			"date": "2022-06-09"
 		}
 	],
 	[
@@ -41150,6 +41318,34 @@
 			"jacket_link": "/illust/1783_mxm.jpeg",
 			"difficulty": "mxm",
 			"date": "2022-05-26"
+		},
+		{
+			"title": "メモリーズ",
+			"composer": "ここなつ2.0",
+			"jacket_link": "/illust/1786_mxm.jpeg",
+			"difficulty": "mxm",
+			"date": "2022-06-09"
+		},
+		{
+			"title": "ハートシェイプ・スピカ",
+			"composer": "ここなつ2.0",
+			"jacket_link": "/illust/1788_mxm.jpeg",
+			"difficulty": "mxm",
+			"date": "2022-06-09"
+		},
+		{
+			"title": "ステラレギア",
+			"composer": "ここなつ2.0",
+			"jacket_link": "/illust/1789_mxm.jpeg",
+			"difficulty": "mxm",
+			"date": "2022-06-09"
+		},
+		{
+			"title": "カシオペアノヒカリ",
+			"composer": "ここなつ2.0",
+			"jacket_link": "/illust/1790_mxm.jpeg",
+			"difficulty": "mxm",
+			"date": "2022-06-09"
 		}
 	],
 	[
