@@ -1,8 +1,8 @@
 {
 	"configs": [
 		{
-			"cnt": 1791,
-			"totalcnt": 6485
+			"cnt": 1792,
+			"totalcnt": 6489
 		}
 	],
 	"songs": [
@@ -36691,6 +36691,28 @@
 				"jacket_link": "/illust/1791_mxm.jpeg"
 			},
 			"date": "2022-06-09"
+		},
+		{
+			"num": 1792,
+			"title": "ピアノ独奏無言歌 \"灰燼\"",
+			"composer": "BEMANI Sound Team \"Virkato Wakhmaninov\"",
+			"nov": {
+				"level": 7,
+				"jacket_link": "/illust/1792_nov.jpeg"
+			},
+			"adv": {
+				"level": 14,
+				"jacket_link": "/illust/1792_adv.jpeg"
+			},
+			"exh": {
+				"level": 17,
+				"jacket_link": "/illust/1792_exh.jpeg"
+			},
+			"mxm": {
+				"level": 19,
+				"jacket_link": "/illust/1792_mxm.jpeg"
+			},
+			"date": "2022-06-13"
 		}
 	]
 }
