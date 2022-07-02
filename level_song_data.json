@@ -8534,6 +8534,13 @@
 			"jacket_link": "/illust/1788_nov.jpeg",
 			"difficulty": "nov",
 			"date": "2022-06-09"
+		},
+		{
+			"title": "メテオライツ・プレリュード",
+			"composer": "みーに",
+			"jacket_link": "/illust/1793_nov.jpeg",
+			"difficulty": "nov",
+			"date": "2022-06-30"
 		}
 	],
 	[
@@ -12022,6 +12029,41 @@
 			"jacket_link": "/illust/1784_nov.jpeg",
 			"difficulty": "nov",
 			"date": "2022-05-26"
+		},
+		{
+			"title": "PHOTON BLAXT",
+			"composer": "seatrus",
+			"jacket_link": "/illust/1794_nov.jpeg",
+			"difficulty": "nov",
+			"date": "2022-06-30"
+		},
+		{
+			"title": "NOT YOUR IDOL",
+			"composer": "Yuta Imai",
+			"jacket_link": "/illust/1795_nov.jpeg",
+			"difficulty": "nov",
+			"date": "2022-06-30"
+		},
+		{
+			"title": "Twinkle Rookie",
+			"composer": "Halv",
+			"jacket_link": "/illust/1796_nov.jpeg",
+			"difficulty": "nov",
+			"date": "2022-06-30"
+		},
+		{
+			"title": "Kontrol Line",
+			"composer": "Yooh",
+			"jacket_link": "/illust/1797_nov.jpeg",
+			"difficulty": "nov",
+			"date": "2022-06-30"
+		},
+		{
+			"title": "Across the Starlight",
+			"composer": "かゆき",
+			"jacket_link": "/illust/1798_nov.jpeg",
+			"difficulty": "nov",
+			"date": "2022-06-30"
 		}
 	],
 	[
@@ -20607,6 +20649,13 @@
 			"jacket_link": "/illust/1790_adv.jpeg",
 			"difficulty": "adv",
 			"date": "2022-06-09"
+		},
+		{
+			"title": "メテオライツ・プレリュード",
+			"composer": "みーに",
+			"jacket_link": "/illust/1793_adv.jpeg",
+			"difficulty": "adv",
+			"date": "2022-06-30"
 		}
 	],
 	[
@@ -23843,6 +23892,20 @@
 			"jacket_link": "/illust/1788_adv.jpeg",
 			"difficulty": "adv",
 			"date": "2022-06-09"
+		},
+		{
+			"title": "PHOTON BLAXT",
+			"composer": "seatrus",
+			"jacket_link": "/illust/1794_adv.jpeg",
+			"difficulty": "adv",
+			"date": "2022-06-30"
+		},
+		{
+			"title": "Twinkle Rookie",
+			"composer": "Halv",
+			"jacket_link": "/illust/1796_adv.jpeg",
+			"difficulty": "adv",
+			"date": "2022-06-30"
 		}
 	],
 	[
@@ -27506,6 +27569,27 @@
 			"jacket_link": "/illust/1791_exh.jpeg",
 			"difficulty": "exh",
 			"date": "2022-06-09"
+		},
+		{
+			"title": "NOT YOUR IDOL",
+			"composer": "Yuta Imai",
+			"jacket_link": "/illust/1795_adv.jpeg",
+			"difficulty": "adv",
+			"date": "2022-06-30"
+		},
+		{
+			"title": "Kontrol Line",
+			"composer": "Yooh",
+			"jacket_link": "/illust/1797_adv.jpeg",
+			"difficulty": "adv",
+			"date": "2022-06-30"
+		},
+		{
+			"title": "Across the Starlight",
+			"composer": "かゆき",
+			"jacket_link": "/illust/1798_adv.jpeg",
+			"difficulty": "adv",
+			"date": "2022-06-30"
 		}
 	],
 	[
@@ -30182,6 +30266,13 @@
 			"jacket_link": "/illust/1792_adv.jpeg",
 			"difficulty": "adv",
 			"date": "2022-06-13"
+		},
+		{
+			"title": "メテオライツ・プレリュード",
+			"composer": "みーに",
+			"jacket_link": "/illust/1793_exh.jpeg",
+			"difficulty": "exh",
+			"date": "2022-06-30"
 		}
 	],
 	[
@@ -33117,6 +33208,20 @@
 			"jacket_link": "/illust/1788_exh.jpeg",
 			"difficulty": "exh",
 			"date": "2022-06-09"
+		},
+		{
+			"title": "PHOTON BLAXT",
+			"composer": "seatrus",
+			"jacket_link": "/illust/1794_exh.jpeg",
+			"difficulty": "exh",
+			"date": "2022-06-30"
+		},
+		{
+			"title": "Twinkle Rookie",
+			"composer": "Halv",
+			"jacket_link": "/illust/1796_exh.jpeg",
+			"difficulty": "exh",
+			"date": "2022-06-30"
 		}
 	],
 	[
@@ -37046,6 +37151,27 @@
 			"jacket_link": "/illust/1791_mxm.jpeg",
 			"difficulty": "mxm",
 			"date": "2022-06-09"
+		},
+		{
+			"title": "NOT YOUR IDOL",
+			"composer": "Yuta Imai",
+			"jacket_link": "/illust/1795_exh.jpeg",
+			"difficulty": "exh",
+			"date": "2022-06-30"
+		},
+		{
+			"title": "Kontrol Line",
+			"composer": "Yooh",
+			"jacket_link": "/illust/1797_exh.jpeg",
+			"difficulty": "exh",
+			"date": "2022-06-30"
+		},
+		{
+			"title": "Across the Starlight",
+			"composer": "かゆき",
+			"jacket_link": "/illust/1798_exh.jpeg",
+			"difficulty": "exh",
+			"date": "2022-06-30"
 		}
 	],
 	[
@@ -41367,6 +41493,13 @@
 			"jacket_link": "/illust/1792_exh.jpeg",
 			"difficulty": "exh",
 			"date": "2022-06-13"
+		},
+		{
+			"title": "メテオライツ・プレリュード",
+			"composer": "みーに",
+			"jacket_link": "/illust/1793_mxm.jpeg",
+			"difficulty": "mxm",
+			"date": "2022-06-30"
 		}
 	],
 	[
@@ -44589,6 +44722,41 @@
 			"jacket_link": "/illust/1784_mxm.jpeg",
 			"difficulty": "mxm",
 			"date": "2022-05-26"
+		},
+		{
+			"title": "PHOTON BLAXT",
+			"composer": "seatrus",
+			"jacket_link": "/illust/1794_mxm.jpeg",
+			"difficulty": "mxm",
+			"date": "2022-06-30"
+		},
+		{
+			"title": "NOT YOUR IDOL",
+			"composer": "Yuta Imai",
+			"jacket_link": "/illust/1795_mxm.jpeg",
+			"difficulty": "mxm",
+			"date": "2022-06-30"
+		},
+		{
+			"title": "Twinkle Rookie",
+			"composer": "Halv",
+			"jacket_link": "/illust/1796_mxm.jpeg",
+			"difficulty": "mxm",
+			"date": "2022-06-30"
+		},
+		{
+			"title": "Kontrol Line",
+			"composer": "Yooh",
+			"jacket_link": "/illust/1797_mxm.jpeg",
+			"difficulty": "mxm",
+			"date": "2022-06-30"
+		},
+		{
+			"title": "Across the Starlight",
+			"composer": "かゆき",
+			"jacket_link": "/illust/1798_mxm.jpeg",
+			"difficulty": "mxm",
+			"date": "2022-06-30"
 		}
 	],
 	[

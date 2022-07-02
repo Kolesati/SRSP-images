@@ -1,8 +1,8 @@
 {
 	"configs": [
 		{
-			"cnt": 1792,
-			"totalcnt": 6489
+			"cnt": 1798,
+			"totalcnt": 6513
 		}
 	],
 	"songs": [
@@ -36713,6 +36713,138 @@
 				"jacket_link": "/illust/1792_mxm.jpeg"
 			},
 			"date": "2022-06-13"
+		},
+		{
+			"num": 1793,
+			"title": "メテオライツ・プレリュード",
+			"composer": "みーに",
+			"nov": {
+				"level": 5,
+				"jacket_link": "/illust/1793_nov.jpeg"
+			},
+			"adv": {
+				"level": 11,
+				"jacket_link": "/illust/1793_adv.jpeg"
+			},
+			"exh": {
+				"level": 14,
+				"jacket_link": "/illust/1793_exh.jpeg"
+			},
+			"mxm": {
+				"level": 17,
+				"jacket_link": "/illust/1793_mxm.jpeg"
+			},
+			"date": "2022-06-30"
+		},
+		{
+			"num": 1794,
+			"title": "PHOTON BLAXT",
+			"composer": "seatrus",
+			"nov": {
+				"level": 6,
+				"jacket_link": "/illust/1794_nov.jpeg"
+			},
+			"adv": {
+				"level": 12,
+				"jacket_link": "/illust/1794_adv.jpeg"
+			},
+			"exh": {
+				"level": 15,
+				"jacket_link": "/illust/1794_exh.jpeg"
+			},
+			"mxm": {
+				"level": 18,
+				"jacket_link": "/illust/1794_mxm.jpeg"
+			},
+			"date": "2022-06-30"
+		},
+		{
+			"num": 1795,
+			"title": "NOT YOUR IDOL",
+			"composer": "Yuta Imai",
+			"nov": {
+				"level": 6,
+				"jacket_link": "/illust/1795_nov.jpeg"
+			},
+			"adv": {
+				"level": 13,
+				"jacket_link": "/illust/1795_adv.jpeg"
+			},
+			"exh": {
+				"level": 16,
+				"jacket_link": "/illust/1795_exh.jpeg"
+			},
+			"mxm": {
+				"level": 18,
+				"jacket_link": "/illust/1795_mxm.jpeg"
+			},
+			"date": "2022-06-30"
+		},
+		{
+			"num": 1796,
+			"title": "Twinkle Rookie",
+			"composer": "Halv",
+			"nov": {
+				"level": 6,
+				"jacket_link": "/illust/1796_nov.jpeg"
+			},
+			"adv": {
+				"level": 12,
+				"jacket_link": "/illust/1796_adv.jpeg"
+			},
+			"exh": {
+				"level": 15,
+				"jacket_link": "/illust/1796_exh.jpeg"
+			},
+			"mxm": {
+				"level": 18,
+				"jacket_link": "/illust/1796_mxm.jpeg"
+			},
+			"date": "2022-06-30"
+		},
+		{
+			"num": 1797,
+			"title": "Kontrol Line",
+			"composer": "Yooh",
+			"nov": {
+				"level": 6,
+				"jacket_link": "/illust/1797_nov.jpeg"
+			},
+			"adv": {
+				"level": 13,
+				"jacket_link": "/illust/1797_adv.jpeg"
+			},
+			"exh": {
+				"level": 16,
+				"jacket_link": "/illust/1797_exh.jpeg"
+			},
+			"mxm": {
+				"level": 18,
+				"jacket_link": "/illust/1797_mxm.jpeg"
+			},
+			"date": "2022-06-30"
+		},
+		{
+			"num": 1798,
+			"title": "Across the Starlight",
+			"composer": "かゆき",
+			"nov": {
+				"level": 6,
+				"jacket_link": "/illust/1798_nov.jpeg"
+			},
+			"adv": {
+				"level": 13,
+				"jacket_link": "/illust/1798_adv.jpeg"
+			},
+			"exh": {
+				"level": 16,
+				"jacket_link": "/illust/1798_exh.jpeg"
+			},
+			"mxm": {
+				"level": 18,
+				"jacket_link": "/illust/1798_mxm.jpeg"
+			},
+			"date": "2022-06-30"
 		}
 	]
 }
