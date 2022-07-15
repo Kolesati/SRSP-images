@@ -1,8 +1,8 @@
 {
 	"configs": [
 		{
-			"cnt": 1798,
-			"totalcnt": 6513
+			"cnt": 1805,
+			"totalcnt": 6541
 		}
 	],
 	"songs": [
@@ -36845,6 +36845,160 @@
 				"jacket_link": "/illust/1798_mxm.jpeg"
 			},
 			"date": "2022-06-30"
+		},
+		{
+			"num": 1799,
+			"title": "LaμreLs ~the Angelus~",
+			"composer": "Ashrount",
+			"nov": {
+				"level": 7,
+				"jacket_link": "/illust/1799_nov.jpeg"
+			},
+			"adv": {
+				"level": 14,
+				"jacket_link": "/illust/1799_adv.jpeg"
+			},
+			"exh": {
+				"level": 17,
+				"jacket_link": "/illust/1799_exh.jpeg"
+			},
+			"mxm": {
+				"level": 19,
+				"jacket_link": "/illust/1799_mxm.jpeg"
+			},
+			"date": "2022-07-14"
+		},
+		{
+			"num": 1800,
+			"title": "Bl∞min'",
+			"composer": "MisoilePunch♪ -Forever-",
+			"nov": {
+				"level": 8,
+				"jacket_link": "/illust/1800_nov.jpeg"
+			},
+			"adv": {
+				"level": 15,
+				"jacket_link": "/illust/1800_adv.jpeg"
+			},
+			"exh": {
+				"level": 18,
+				"jacket_link": "/illust/1800_exh.jpeg"
+			},
+			"mxm": {
+				"level": 20,
+				"jacket_link": "/illust/1800_mxm.jpeg"
+			},
+			"date": "2022-07-14"
+		},
+		{
+			"num": 1801,
+			"title": "すべてが幻になった後で",
+			"composer": "かめりあ・超機装幻楽隊",
+			"nov": {
+				"level": 7,
+				"jacket_link": "/illust/1801_nov.jpeg"
+			},
+			"adv": {
+				"level": 14,
+				"jacket_link": "/illust/1801_adv.jpeg"
+			},
+			"exh": {
+				"level": 17,
+				"jacket_link": "/illust/1801_exh.jpeg"
+			},
+			"mxm": {
+				"level": 19,
+				"jacket_link": "/illust/1801_mxm.jpeg"
+			},
+			"date": "2022-07-14"
+		},
+		{
+			"num": 1802,
+			"title": "Stairway to the sun",
+			"composer": "Noah",
+			"nov": {
+				"level": 6,
+				"jacket_link": "/illust/1802_nov.jpeg"
+			},
+			"adv": {
+				"level": 13,
+				"jacket_link": "/illust/1802_adv.jpeg"
+			},
+			"exh": {
+				"level": 16,
+				"jacket_link": "/illust/1802_exh.jpeg"
+			},
+			"mxm": {
+				"level": 18,
+				"jacket_link": "/illust/1802_mxm.jpeg"
+			},
+			"date": "2022-07-14"
+		},
+		{
+			"num": 1803,
+			"title": "Grandeur",
+			"composer": "CANVAS x RoughSketch feat. Quimär",
+			"nov": {
+				"level": 6,
+				"jacket_link": "/illust/1803_nov.jpeg"
+			},
+			"adv": {
+				"level": 13,
+				"jacket_link": "/illust/1803_adv.jpeg"
+			},
+			"exh": {
+				"level": 16,
+				"jacket_link": "/illust/1803_exh.jpeg"
+			},
+			"mxm": {
+				"level": 18,
+				"jacket_link": "/illust/1803_mxm.jpeg"
+			},
+			"date": "2022-07-14"
+		},
+		{
+			"num": 1804,
+			"title": "極夜、暁を望んで",
+			"composer": "めと(Metomate)",
+			"nov": {
+				"level": 6,
+				"jacket_link": "/illust/1804_nov.jpeg"
+			},
+			"adv": {
+				"level": 13,
+				"jacket_link": "/illust/1804_adv.jpeg"
+			},
+			"exh": {
+				"level": 16,
+				"jacket_link": "/illust/1804_exh.jpeg"
+			},
+			"mxm": {
+				"level": 18,
+				"jacket_link": "/illust/1804_mxm.jpeg"
+			},
+			"date": "2022-07-14"
+		},
+		{
+			"num": 1805,
+			"title": "Avalanx",
+			"composer": "隣の庭は青い(庭師+Aoi)",
+			"nov": {
+				"level": 7,
+				"jacket_link": "/illust/1805_nov.jpeg"
+			},
+			"adv": {
+				"level": 14,
+				"jacket_link": "/illust/1805_adv.jpeg"
+			},
+			"exh": {
+				"level": 17,
+				"jacket_link": "/illust/1805_exh.jpeg"
+			},
+			"mxm": {
+				"level": 19,
+				"jacket_link": "/illust/1805_mxm.jpeg"
+			},
+			"date": "2022-07-14"
 		}
 	]
 }
