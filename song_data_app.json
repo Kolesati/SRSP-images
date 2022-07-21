@@ -1,8 +1,8 @@
 {
 	"configs": [
 		{
-			"cnt": 1805,
-			"totalcnt": 6541
+			"cnt": 1807,
+			"totalcnt": 6549
 		}
 	],
 	"songs": [
@@ -36999,6 +36999,50 @@
 				"jacket_link": "/illust/1805_mxm.jpeg"
 			},
 			"date": "2022-07-14"
+		},
+		{
+			"num": 1806,
+			"title": "終点の先が在るとするならば。",
+			"composer": "ツユ",
+			"nov": {
+				"level": 4,
+				"jacket_link": "/illust/1806_nov.jpeg"
+			},
+			"adv": {
+				"level": 11,
+				"jacket_link": "/illust/1806_adv.jpeg"
+			},
+			"exh": {
+				"level": 14,
+				"jacket_link": "/illust/1806_exh.jpeg"
+			},
+			"mxm": {
+				"level": 17,
+				"jacket_link": "/illust/1806_mxm.jpeg"
+			},
+			"date": "2022-07-21"
+		},
+		{
+			"num": 1807,
+			"title": "過去に囚われている",
+			"composer": "ツユ",
+			"nov": {
+				"level": 5,
+				"jacket_link": "/illust/1807_nov.jpeg"
+			},
+			"adv": {
+				"level": 12,
+				"jacket_link": "/illust/1807_adv.jpeg"
+			},
+			"exh": {
+				"level": 15,
+				"jacket_link": "/illust/1807_exh.jpeg"
+			},
+			"mxm": {
+				"level": 18,
+				"jacket_link": "/illust/1807_mxm.jpeg"
+			},
+			"date": "2022-07-21"
 		}
 	]
 }
