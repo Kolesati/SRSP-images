@@ -793,6 +793,13 @@
 			"jacket_link": "/illust/1790_nov.jpeg",
 			"difficulty": "nov",
 			"date": "2022-06-09"
+		},
+		{
+			"title": "Bonetrousle",
+			"composer": "Toby Fox",
+			"jacket_link": "/illust/1808_nov.jpeg",
+			"difficulty": "nov",
+			"date": "2022-07-28"
 		}
 	],
 	[
@@ -2391,6 +2398,13 @@
 			"jacket_link": "/illust/1791_nov.jpeg",
 			"difficulty": "nov",
 			"date": "2022-06-09"
+		},
+		{
+			"title": "Spear of Justice / 正義の槍",
+			"composer": "Toby Fox",
+			"jacket_link": "/illust/1811_nov.jpeg",
+			"difficulty": "nov",
+			"date": "2022-07-28"
 		}
 	],
 	[
@@ -4962,6 +4976,20 @@
 			"jacket_link": "/illust/1806_nov.jpeg",
 			"difficulty": "nov",
 			"date": "2022-07-21"
+		},
+		{
+			"title": "Death by Glamour / 華麗なる死闘",
+			"composer": "Toby Fox",
+			"jacket_link": "/illust/1810_nov.jpeg",
+			"difficulty": "nov",
+			"date": "2022-07-28"
+		},
+		{
+			"title": "ASGORE / アズゴア",
+			"composer": "Toby Fox",
+			"jacket_link": "/illust/1812_nov.jpeg",
+			"difficulty": "nov",
+			"date": "2022-07-28"
 		}
 	],
 	[
@@ -8555,6 +8583,13 @@
 			"jacket_link": "/illust/1807_nov.jpeg",
 			"difficulty": "nov",
 			"date": "2022-07-21"
+		},
+		{
+			"title": "Finale / フィナーレ",
+			"composer": "Toby Fox",
+			"jacket_link": "/illust/1809_nov.jpeg",
+			"difficulty": "nov",
+			"date": "2022-07-28"
 		}
 	],
 	[
@@ -18064,6 +18099,13 @@
 			"jacket_link": "/illust/1787_adv.jpeg",
 			"difficulty": "adv",
 			"date": "2022-06-09"
+		},
+		{
+			"title": "Bonetrousle",
+			"composer": "Toby Fox",
+			"jacket_link": "/illust/1808_adv.jpeg",
+			"difficulty": "adv",
+			"date": "2022-07-28"
 		}
 	],
 	[
@@ -20726,6 +20768,13 @@
 			"jacket_link": "/illust/1806_adv.jpeg",
 			"difficulty": "adv",
 			"date": "2022-07-21"
+		},
+		{
+			"title": "Spear of Justice / 正義の槍",
+			"composer": "Toby Fox",
+			"jacket_link": "/illust/1811_adv.jpeg",
+			"difficulty": "adv",
+			"date": "2022-07-28"
 		}
 	],
 	[
@@ -23983,6 +24032,20 @@
 			"jacket_link": "/illust/1807_adv.jpeg",
 			"difficulty": "adv",
 			"date": "2022-07-21"
+		},
+		{
+			"title": "Death by Glamour / 華麗なる死闘",
+			"composer": "Toby Fox",
+			"jacket_link": "/illust/1810_adv.jpeg",
+			"difficulty": "adv",
+			"date": "2022-07-28"
+		},
+		{
+			"title": "ASGORE / アズゴア",
+			"composer": "Toby Fox",
+			"jacket_link": "/illust/1812_adv.jpeg",
+			"difficulty": "adv",
+			"date": "2022-07-28"
 		}
 	],
 	[
@@ -27688,6 +27751,20 @@
 			"jacket_link": "/illust/1804_adv.jpeg",
 			"difficulty": "adv",
 			"date": "2022-07-14"
+		},
+		{
+			"title": "Bonetrousle",
+			"composer": "Toby Fox",
+			"jacket_link": "/illust/1808_exh.jpeg",
+			"difficulty": "exh",
+			"date": "2022-07-28"
+		},
+		{
+			"title": "Finale / フィナーレ",
+			"composer": "Toby Fox",
+			"jacket_link": "/illust/1809_adv.jpeg",
+			"difficulty": "adv",
+			"date": "2022-07-28"
 		}
 	],
 	[
@@ -30399,6 +30476,13 @@
 			"jacket_link": "/illust/1806_exh.jpeg",
 			"difficulty": "exh",
 			"date": "2022-07-21"
+		},
+		{
+			"title": "Spear of Justice / 正義の槍",
+			"composer": "Toby Fox",
+			"jacket_link": "/illust/1811_exh.jpeg",
+			"difficulty": "exh",
+			"date": "2022-07-28"
 		}
 	],
 	[
@@ -33362,6 +33446,20 @@
 			"jacket_link": "/illust/1807_exh.jpeg",
 			"difficulty": "exh",
 			"date": "2022-07-21"
+		},
+		{
+			"title": "Death by Glamour / 華麗なる死闘",
+			"composer": "Toby Fox",
+			"jacket_link": "/illust/1810_exh.jpeg",
+			"difficulty": "exh",
+			"date": "2022-07-28"
+		},
+		{
+			"title": "ASGORE / アズゴア",
+			"composer": "Toby Fox",
+			"jacket_link": "/illust/1812_exh.jpeg",
+			"difficulty": "exh",
+			"date": "2022-07-28"
 		}
 	],
 	[
@@ -37333,6 +37431,20 @@
 			"jacket_link": "/illust/1804_exh.jpeg",
 			"difficulty": "exh",
 			"date": "2022-07-14"
+		},
+		{
+			"title": "Bonetrousle",
+			"composer": "Toby Fox",
+			"jacket_link": "/illust/1808_mxm.jpeg",
+			"difficulty": "mxm",
+			"date": "2022-07-28"
+		},
+		{
+			"title": "Finale / フィナーレ",
+			"composer": "Toby Fox",
+			"jacket_link": "/illust/1809_exh.jpeg",
+			"difficulty": "exh",
+			"date": "2022-07-28"
 		}
 	],
 	[
@@ -41689,6 +41801,27 @@
 			"jacket_link": "/illust/1806_mxm.jpeg",
 			"difficulty": "mxm",
 			"date": "2022-07-21"
+		},
+		{
+			"title": "Death by Glamour / 華麗なる死闘",
+			"composer": "Toby Fox",
+			"jacket_link": "/illust/1810_mxm.jpeg",
+			"difficulty": "mxm",
+			"date": "2022-07-28"
+		},
+		{
+			"title": "Spear of Justice / 正義の槍",
+			"composer": "Toby Fox",
+			"jacket_link": "/illust/1811_mxm.jpeg",
+			"difficulty": "mxm",
+			"date": "2022-07-28"
+		},
+		{
+			"title": "ASGORE / アズゴア",
+			"composer": "Toby Fox",
+			"jacket_link": "/illust/1812_mxm.jpeg",
+			"difficulty": "mxm",
+			"date": "2022-07-28"
 		}
 	],
 	[
@@ -44981,6 +45114,13 @@
 			"jacket_link": "/illust/1807_mxm.jpeg",
 			"difficulty": "mxm",
 			"date": "2022-07-21"
+		},
+		{
+			"title": "Finale / フィナーレ",
+			"composer": "Toby Fox",
+			"jacket_link": "/illust/1809_mxm.jpeg",
+			"difficulty": "mxm",
+			"date": "2022-07-28"
 		}
 	],
 	[

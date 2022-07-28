@@ -1,8 +1,8 @@
 {
 	"configs": [
 		{
-			"cnt": 1807,
-			"totalcnt": 6549
+			"cnt": 1812,
+			"totalcnt": 6569
 		}
 	],
 	"songs": [
@@ -37043,6 +37043,116 @@
 				"jacket_link": "/illust/1807_mxm.jpeg"
 			},
 			"date": "2022-07-21"
+		},
+		{
+			"num": 1808,
+			"title": "Bonetrousle",
+			"composer": "Toby Fox",
+			"nov": {
+				"level": 2,
+				"jacket_link": "/illust/1808_nov.jpeg"
+			},
+			"adv": {
+				"level": 10,
+				"jacket_link": "/illust/1808_adv.jpeg"
+			},
+			"exh": {
+				"level": 13,
+				"jacket_link": "/illust/1808_exh.jpeg"
+			},
+			"mxm": {
+				"level": 16,
+				"jacket_link": "/illust/1808_mxm.jpeg"
+			},
+			"date": "2022-07-28"
+		},
+		{
+			"num": 1809,
+			"title": "Finale / フィナーレ",
+			"composer": "Toby Fox",
+			"nov": {
+				"level": 5,
+				"jacket_link": "/illust/1809_nov.jpeg"
+			},
+			"adv": {
+				"level": 13,
+				"jacket_link": "/illust/1809_adv.jpeg"
+			},
+			"exh": {
+				"level": 16,
+				"jacket_link": "/illust/1809_exh.jpeg"
+			},
+			"mxm": {
+				"level": 18,
+				"jacket_link": "/illust/1809_mxm.jpeg"
+			},
+			"date": "2022-07-28"
+		},
+		{
+			"num": 1810,
+			"title": "Death by Glamour / 華麗なる死闘",
+			"composer": "Toby Fox",
+			"nov": {
+				"level": 4,
+				"jacket_link": "/illust/1810_nov.jpeg"
+			},
+			"adv": {
+				"level": 12,
+				"jacket_link": "/illust/1810_adv.jpeg"
+			},
+			"exh": {
+				"level": 15,
+				"jacket_link": "/illust/1810_exh.jpeg"
+			},
+			"mxm": {
+				"level": 17,
+				"jacket_link": "/illust/1810_mxm.jpeg"
+			},
+			"date": "2022-07-28"
+		},
+		{
+			"num": 1811,
+			"title": "Spear of Justice / 正義の槍",
+			"composer": "Toby Fox",
+			"nov": {
+				"level": 3,
+				"jacket_link": "/illust/1811_nov.jpeg"
+			},
+			"adv": {
+				"level": 11,
+				"jacket_link": "/illust/1811_adv.jpeg"
+			},
+			"exh": {
+				"level": 14,
+				"jacket_link": "/illust/1811_exh.jpeg"
+			},
+			"mxm": {
+				"level": 17,
+				"jacket_link": "/illust/1811_mxm.jpeg"
+			},
+			"date": "2022-07-28"
+		},
+		{
+			"num": 1812,
+			"title": "ASGORE / アズゴア",
+			"composer": "Toby Fox",
+			"nov": {
+				"level": 4,
+				"jacket_link": "/illust/1812_nov.jpeg"
+			},
+			"adv": {
+				"level": 12,
+				"jacket_link": "/illust/1812_adv.jpeg"
+			},
+			"exh": {
+				"level": 15,
+				"jacket_link": "/illust/1812_exh.jpeg"
+			},
+			"mxm": {
+				"level": 17,
+				"jacket_link": "/illust/1812_mxm.jpeg"
+			},
+			"date": "2022-07-28"
 		}
 	]
 }
