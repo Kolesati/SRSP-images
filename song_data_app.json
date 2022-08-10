@@ -1,8 +1,8 @@
 {
 	"configs": [
 		{
-			"cnt": 1812,
-			"totalcnt": 6569
+			"cnt": 1814,
+			"totalcnt": 6577
 		}
 	],
 	"songs": [
@@ -37153,6 +37153,50 @@
 				"jacket_link": "/illust/1812_mxm.jpeg"
 			},
 			"date": "2022-07-28"
+		},
+		{
+			"num": 1813,
+			"title": "ぶいちゅっばの歌",
+			"composer": "周防パトラ",
+			"nov": {
+				"level": 3,
+				"jacket_link": "/illust/1813_nov.jpeg"
+			},
+			"adv": {
+				"level": 12,
+				"jacket_link": "/illust/1813_adv.jpeg"
+			},
+			"exh": {
+				"level": 15,
+				"jacket_link": "/illust/1813_exh.jpeg"
+			},
+			"mxm": {
+				"level": 17,
+				"jacket_link": "/illust/1813_mxm.jpeg"
+			},
+			"date": "2022-08-10"
+		},
+		{
+			"num": 1814,
+			"title": "あいあむなんばーわんパトラちゃん様",
+			"composer": "周防パトラ",
+			"nov": {
+				"level": 5,
+				"jacket_link": "/illust/1814_nov.jpeg"
+			},
+			"adv": {
+				"level": 13,
+				"jacket_link": "/illust/1814_adv.jpeg"
+			},
+			"exh": {
+				"level": 16,
+				"jacket_link": "/illust/1814_exh.jpeg"
+			},
+			"mxm": {
+				"level": 18,
+				"jacket_link": "/illust/1814_mxm.jpeg"
+			},
+			"date": "2022-08-10"
 		}
 	]
 }
