@@ -12148,6 +12148,27 @@
 			"jacket_link": "/illust/1804_nov.jpeg",
 			"difficulty": "nov",
 			"date": "2022-07-14"
+		},
+		{
+			"title": "Lost Parliament",
+			"composer": "Juggernaut.",
+			"jacket_link": "/illust/1815_nov.jpeg",
+			"difficulty": "nov",
+			"date": "2022-08-18"
+		},
+		{
+			"title": "STIGMA",
+			"composer": "U-ske feat. 棗いつき",
+			"jacket_link": "/illust/1818_nov.jpeg",
+			"difficulty": "nov",
+			"date": "2022-08-18"
+		},
+		{
+			"title": "光風霽月",
+			"composer": "影虎。",
+			"jacket_link": "/illust/1819_nov.jpeg",
+			"difficulty": "nov",
+			"date": "2022-08-18"
 		}
 	],
 	[
@@ -13249,6 +13270,27 @@
 			"jacket_link": "/illust/1805_nov.jpeg",
 			"difficulty": "nov",
 			"date": "2022-07-14"
+		},
+		{
+			"title": "Fαtα∠ Ent∠mEnt",
+			"composer": "CHUBAY",
+			"jacket_link": "/illust/1816_nov.jpeg",
+			"difficulty": "nov",
+			"date": "2022-08-18"
+		},
+		{
+			"title": "VΛZiLiSQ",
+			"composer": "BlackY",
+			"jacket_link": "/illust/1817_nov.jpeg",
+			"difficulty": "nov",
+			"date": "2022-08-18"
+		},
+		{
+			"title": "赫焉",
+			"composer": "打打だいず vs. siromaru",
+			"jacket_link": "/illust/1820_nov.jpeg",
+			"difficulty": "nov",
+			"date": "2022-08-18"
 		}
 	],
 	[
@@ -14371,6 +14413,13 @@
 			"jacket_link": "/illust/1800_nov.jpeg",
 			"difficulty": "nov",
 			"date": "2022-07-14"
+		},
+		{
+			"title": "いまきみに",
+			"composer": "Silentroom as \"少年R\"",
+			"jacket_link": "/illust/1821_nov.jpeg",
+			"difficulty": "nov",
+			"date": "2022-08-18"
 		}
 	],
 	[
@@ -27793,6 +27842,27 @@
 			"jacket_link": "/illust/1814_adv.jpeg",
 			"difficulty": "adv",
 			"date": "2022-08-10"
+		},
+		{
+			"title": "Lost Parliament",
+			"composer": "Juggernaut.",
+			"jacket_link": "/illust/1815_adv.jpeg",
+			"difficulty": "adv",
+			"date": "2022-08-18"
+		},
+		{
+			"title": "STIGMA",
+			"composer": "U-ske feat. 棗いつき",
+			"jacket_link": "/illust/1818_adv.jpeg",
+			"difficulty": "adv",
+			"date": "2022-08-18"
+		},
+		{
+			"title": "光風霽月",
+			"composer": "影虎。",
+			"jacket_link": "/illust/1819_adv.jpeg",
+			"difficulty": "adv",
+			"date": "2022-08-18"
 		}
 	],
 	[
@@ -30511,6 +30581,27 @@
 			"jacket_link": "/illust/1811_exh.jpeg",
 			"difficulty": "exh",
 			"date": "2022-07-28"
+		},
+		{
+			"title": "Fαtα∠ Ent∠mEnt",
+			"composer": "CHUBAY",
+			"jacket_link": "/illust/1816_adv.jpeg",
+			"difficulty": "adv",
+			"date": "2022-08-18"
+		},
+		{
+			"title": "VΛZiLiSQ",
+			"composer": "BlackY",
+			"jacket_link": "/illust/1817_adv.jpeg",
+			"difficulty": "adv",
+			"date": "2022-08-18"
+		},
+		{
+			"title": "赫焉",
+			"composer": "打打だいず vs. siromaru",
+			"jacket_link": "/illust/1820_adv.jpeg",
+			"difficulty": "adv",
+			"date": "2022-08-18"
 		}
 	],
 	[
@@ -33495,6 +33586,13 @@
 			"jacket_link": "/illust/1813_exh.jpeg",
 			"difficulty": "exh",
 			"date": "2022-08-10"
+		},
+		{
+			"title": "いまきみに",
+			"composer": "Silentroom as \"少年R\"",
+			"jacket_link": "/illust/1821_adv.jpeg",
+			"difficulty": "adv",
+			"date": "2022-08-18"
 		}
 	],
 	[
@@ -37487,6 +37585,27 @@
 			"jacket_link": "/illust/1814_exh.jpeg",
 			"difficulty": "exh",
 			"date": "2022-08-10"
+		},
+		{
+			"title": "Lost Parliament",
+			"composer": "Juggernaut.",
+			"jacket_link": "/illust/1815_exh.jpeg",
+			"difficulty": "exh",
+			"date": "2022-08-18"
+		},
+		{
+			"title": "STIGMA",
+			"composer": "U-ske feat. 棗いつき",
+			"jacket_link": "/illust/1818_exh.jpeg",
+			"difficulty": "exh",
+			"date": "2022-08-18"
+		},
+		{
+			"title": "光風霽月",
+			"composer": "影虎。",
+			"jacket_link": "/illust/1819_exh.jpeg",
+			"difficulty": "exh",
+			"date": "2022-08-18"
 		}
 	],
 	[
@@ -41871,6 +41990,27 @@
 			"jacket_link": "/illust/1813_mxm.jpeg",
 			"difficulty": "mxm",
 			"date": "2022-08-10"
+		},
+		{
+			"title": "Fαtα∠ Ent∠mEnt",
+			"composer": "CHUBAY",
+			"jacket_link": "/illust/1816_exh.jpeg",
+			"difficulty": "exh",
+			"date": "2022-08-18"
+		},
+		{
+			"title": "VΛZiLiSQ",
+			"composer": "BlackY",
+			"jacket_link": "/illust/1817_exh.jpeg",
+			"difficulty": "exh",
+			"date": "2022-08-18"
+		},
+		{
+			"title": "赫焉",
+			"composer": "打打だいず vs. siromaru",
+			"jacket_link": "/illust/1820_exh.jpeg",
+			"difficulty": "exh",
+			"date": "2022-08-18"
 		}
 	],
 	[
@@ -45177,6 +45317,34 @@
 			"jacket_link": "/illust/1814_mxm.jpeg",
 			"difficulty": "mxm",
 			"date": "2022-08-10"
+		},
+		{
+			"title": "Lost Parliament",
+			"composer": "Juggernaut.",
+			"jacket_link": "/illust/1815_mxm.jpeg",
+			"difficulty": "mxm",
+			"date": "2022-08-18"
+		},
+		{
+			"title": "STIGMA",
+			"composer": "U-ske feat. 棗いつき",
+			"jacket_link": "/illust/1818_mxm.jpeg",
+			"difficulty": "mxm",
+			"date": "2022-08-18"
+		},
+		{
+			"title": "光風霽月",
+			"composer": "影虎。",
+			"jacket_link": "/illust/1819_mxm.jpeg",
+			"difficulty": "mxm",
+			"date": "2022-08-18"
+		},
+		{
+			"title": "いまきみに",
+			"composer": "Silentroom as \"少年R\"",
+			"jacket_link": "/illust/1821_exh.jpeg",
+			"difficulty": "exh",
+			"date": "2022-08-18"
 		}
 	],
 	[
@@ -45949,6 +46117,27 @@
 			"jacket_link": "/illust/1805_mxm.jpeg",
 			"difficulty": "mxm",
 			"date": "2022-07-14"
+		},
+		{
+			"title": "Fαtα∠ Ent∠mEnt",
+			"composer": "CHUBAY",
+			"jacket_link": "/illust/1816_mxm.jpeg",
+			"difficulty": "mxm",
+			"date": "2022-08-18"
+		},
+		{
+			"title": "VΛZiLiSQ",
+			"composer": "BlackY",
+			"jacket_link": "/illust/1817_mxm.jpeg",
+			"difficulty": "mxm",
+			"date": "2022-08-18"
+		},
+		{
+			"title": "赫焉",
+			"composer": "打打だいず vs. siromaru",
+			"jacket_link": "/illust/1820_mxm.jpeg",
+			"difficulty": "mxm",
+			"date": "2022-08-18"
 		}
 	],
 	[
@@ -46077,6 +46266,13 @@
 			"jacket_link": "/illust/1800_mxm.jpeg",
 			"difficulty": "mxm",
 			"date": "2022-07-14"
+		},
+		{
+			"title": "いまきみに",
+			"composer": "Silentroom as \"少年R\"",
+			"jacket_link": "/illust/1821_mxm.jpeg",
+			"difficulty": "mxm",
+			"date": "2022-08-18"
 		}
 	]
 ]

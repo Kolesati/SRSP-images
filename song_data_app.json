@@ -1,8 +1,8 @@
 {
 	"configs": [
 		{
-			"cnt": 1814,
-			"totalcnt": 6577
+			"cnt": 1821,
+			"totalcnt": 6605
 		}
 	],
 	"songs": [
@@ -37197,6 +37197,160 @@
 				"jacket_link": "/illust/1814_mxm.jpeg"
 			},
 			"date": "2022-08-10"
+		},
+		{
+			"num": 1815,
+			"title": "Lost Parliament",
+			"composer": "Juggernaut.",
+			"nov": {
+				"level": 6,
+				"jacket_link": "/illust/1815_nov.jpeg"
+			},
+			"adv": {
+				"level": 13,
+				"jacket_link": "/illust/1815_adv.jpeg"
+			},
+			"exh": {
+				"level": 16,
+				"jacket_link": "/illust/1815_exh.jpeg"
+			},
+			"mxm": {
+				"level": 18,
+				"jacket_link": "/illust/1815_mxm.jpeg"
+			},
+			"date": "2022-08-18"
+		},
+		{
+			"num": 1816,
+			"title": "Fαtα∠ Ent∠mEnt",
+			"composer": "CHUBAY",
+			"nov": {
+				"level": 7,
+				"jacket_link": "/illust/1816_nov.jpeg"
+			},
+			"adv": {
+				"level": 14,
+				"jacket_link": "/illust/1816_adv.jpeg"
+			},
+			"exh": {
+				"level": 17,
+				"jacket_link": "/illust/1816_exh.jpeg"
+			},
+			"mxm": {
+				"level": 19,
+				"jacket_link": "/illust/1816_mxm.jpeg"
+			},
+			"date": "2022-08-18"
+		},
+		{
+			"num": 1817,
+			"title": "VΛZiLiSQ",
+			"composer": "BlackY",
+			"nov": {
+				"level": 7,
+				"jacket_link": "/illust/1817_nov.jpeg"
+			},
+			"adv": {
+				"level": 14,
+				"jacket_link": "/illust/1817_adv.jpeg"
+			},
+			"exh": {
+				"level": 17,
+				"jacket_link": "/illust/1817_exh.jpeg"
+			},
+			"mxm": {
+				"level": 19,
+				"jacket_link": "/illust/1817_mxm.jpeg"
+			},
+			"date": "2022-08-18"
+		},
+		{
+			"num": 1818,
+			"title": "STIGMA",
+			"composer": "U-ske feat. 棗いつき",
+			"nov": {
+				"level": 6,
+				"jacket_link": "/illust/1818_nov.jpeg"
+			},
+			"adv": {
+				"level": 13,
+				"jacket_link": "/illust/1818_adv.jpeg"
+			},
+			"exh": {
+				"level": 16,
+				"jacket_link": "/illust/1818_exh.jpeg"
+			},
+			"mxm": {
+				"level": 18,
+				"jacket_link": "/illust/1818_mxm.jpeg"
+			},
+			"date": "2022-08-18"
+		},
+		{
+			"num": 1819,
+			"title": "光風霽月",
+			"composer": "影虎。",
+			"nov": {
+				"level": 6,
+				"jacket_link": "/illust/1819_nov.jpeg"
+			},
+			"adv": {
+				"level": 13,
+				"jacket_link": "/illust/1819_adv.jpeg"
+			},
+			"exh": {
+				"level": 16,
+				"jacket_link": "/illust/1819_exh.jpeg"
+			},
+			"mxm": {
+				"level": 18,
+				"jacket_link": "/illust/1819_mxm.jpeg"
+			},
+			"date": "2022-08-18"
+		},
+		{
+			"num": 1820,
+			"title": "赫焉",
+			"composer": "打打だいず vs. siromaru",
+			"nov": {
+				"level": 7,
+				"jacket_link": "/illust/1820_nov.jpeg"
+			},
+			"adv": {
+				"level": 14,
+				"jacket_link": "/illust/1820_adv.jpeg"
+			},
+			"exh": {
+				"level": 17,
+				"jacket_link": "/illust/1820_exh.jpeg"
+			},
+			"mxm": {
+				"level": 19,
+				"jacket_link": "/illust/1820_mxm.jpeg"
+			},
+			"date": "2022-08-18"
+		},
+		{
+			"num": 1821,
+			"title": "いまきみに",
+			"composer": "Silentroom as \"少年R\"",
+			"nov": {
+				"level": 8,
+				"jacket_link": "/illust/1821_nov.jpeg"
+			},
+			"adv": {
+				"level": 15,
+				"jacket_link": "/illust/1821_adv.jpeg"
+			},
+			"exh": {
+				"level": 18,
+				"jacket_link": "/illust/1821_exh.jpeg"
+			},
+			"mxm": {
+				"level": 20,
+				"jacket_link": "/illust/1821_mxm.jpeg"
+			},
+			"date": "2022-08-18"
 		}
 	]
 }
