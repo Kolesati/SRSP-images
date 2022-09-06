@@ -1,8 +1,8 @@
 {
 	"configs": [
 		{
-			"cnt": 1821,
-			"totalcnt": 6605
+			"cnt": 1825,
+			"totalcnt": 6621
 		}
 	],
 	"songs": [
@@ -37351,6 +37351,94 @@
 				"jacket_link": "/illust/1821_mxm.jpeg"
 			},
 			"date": "2022-08-18"
+		},
+		{
+			"num": 1822,
+			"title": "Revvable Engine",
+			"composer": "nora2r",
+			"nov": {
+				"level": 6,
+				"jacket_link": "/illust/1822_nov.jpeg"
+			},
+			"adv": {
+				"level": 13,
+				"jacket_link": "/illust/1822_adv.jpeg"
+			},
+			"exh": {
+				"level": 16,
+				"jacket_link": "/illust/1822_exh.jpeg"
+			},
+			"mxm": {
+				"level": 18,
+				"jacket_link": "/illust/1822_mxm.jpeg"
+			},
+			"date": "2022-09-01"
+		},
+		{
+			"num": 1823,
+			"title": "夢幻泡影",
+			"composer": "wa.",
+			"nov": {
+				"level": 6,
+				"jacket_link": "/illust/1823_nov.jpeg"
+			},
+			"adv": {
+				"level": 12,
+				"jacket_link": "/illust/1823_adv.jpeg"
+			},
+			"exh": {
+				"level": 15,
+				"jacket_link": "/illust/1823_exh.jpeg"
+			},
+			"mxm": {
+				"level": 18,
+				"jacket_link": "/illust/1823_mxm.jpeg"
+			},
+			"date": "2022-09-01"
+		},
+		{
+			"num": 1824,
+			"title": "涙の女神と無形のエトワル",
+			"composer": "Yu-dachi",
+			"nov": {
+				"level": 6,
+				"jacket_link": "/illust/1824_nov.jpeg"
+			},
+			"adv": {
+				"level": 13,
+				"jacket_link": "/illust/1824_adv.jpeg"
+			},
+			"exh": {
+				"level": 16,
+				"jacket_link": "/illust/1824_exh.jpeg"
+			},
+			"mxm": {
+				"level": 18,
+				"jacket_link": "/illust/1824_mxm.jpeg"
+			},
+			"date": "2022-09-01"
+		},
+		{
+			"num": 1825,
+			"title": "Splash Underwater",
+			"composer": "siqlo",
+			"nov": {
+				"level": 5,
+				"jacket_link": "/illust/1825_nov.jpeg"
+			},
+			"adv": {
+				"level": 12,
+				"jacket_link": "/illust/1825_adv.jpeg"
+			},
+			"exh": {
+				"level": 14,
+				"jacket_link": "/illust/1825_exh.jpeg"
+			},
+			"mxm": {
+				"level": 17,
+				"jacket_link": "/illust/1825_mxm.jpeg"
+			},
+			"date": "2022-09-01"
 		}
 	]
 }

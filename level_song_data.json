@@ -8604,6 +8604,13 @@
 			"jacket_link": "/illust/1814_nov.jpeg",
 			"difficulty": "nov",
 			"date": "2022-08-10"
+		},
+		{
+			"title": "Splash Underwater",
+			"composer": "siqlo",
+			"jacket_link": "/illust/1825_nov.jpeg",
+			"difficulty": "nov",
+			"date": "2022-09-01"
 		}
 	],
 	[
@@ -12169,6 +12176,27 @@
 			"jacket_link": "/illust/1819_nov.jpeg",
 			"difficulty": "nov",
 			"date": "2022-08-18"
+		},
+		{
+			"title": "Revvable Engine",
+			"composer": "nora2r",
+			"jacket_link": "/illust/1822_nov.jpeg",
+			"difficulty": "nov",
+			"date": "2022-09-01"
+		},
+		{
+			"title": "夢幻泡影",
+			"composer": "wa.",
+			"jacket_link": "/illust/1823_nov.jpeg",
+			"difficulty": "nov",
+			"date": "2022-09-01"
+		},
+		{
+			"title": "涙の女神と無形のエトワル",
+			"composer": "Yu-dachi",
+			"jacket_link": "/illust/1824_nov.jpeg",
+			"difficulty": "nov",
+			"date": "2022-09-01"
 		}
 	],
 	[
@@ -24116,6 +24144,20 @@
 			"jacket_link": "/illust/1813_adv.jpeg",
 			"difficulty": "adv",
 			"date": "2022-08-10"
+		},
+		{
+			"title": "夢幻泡影",
+			"composer": "wa.",
+			"jacket_link": "/illust/1823_adv.jpeg",
+			"difficulty": "adv",
+			"date": "2022-09-01"
+		},
+		{
+			"title": "Splash Underwater",
+			"composer": "siqlo",
+			"jacket_link": "/illust/1825_adv.jpeg",
+			"difficulty": "adv",
+			"date": "2022-09-01"
 		}
 	],
 	[
@@ -27863,6 +27905,20 @@
 			"jacket_link": "/illust/1819_adv.jpeg",
 			"difficulty": "adv",
 			"date": "2022-08-18"
+		},
+		{
+			"title": "Revvable Engine",
+			"composer": "nora2r",
+			"jacket_link": "/illust/1822_adv.jpeg",
+			"difficulty": "adv",
+			"date": "2022-09-01"
+		},
+		{
+			"title": "涙の女神と無形のエトワル",
+			"composer": "Yu-dachi",
+			"jacket_link": "/illust/1824_adv.jpeg",
+			"difficulty": "adv",
+			"date": "2022-09-01"
 		}
 	],
 	[
@@ -30602,6 +30658,13 @@
 			"jacket_link": "/illust/1820_adv.jpeg",
 			"difficulty": "adv",
 			"date": "2022-08-18"
+		},
+		{
+			"title": "Splash Underwater",
+			"composer": "siqlo",
+			"jacket_link": "/illust/1825_exh.jpeg",
+			"difficulty": "exh",
+			"date": "2022-09-01"
 		}
 	],
 	[
@@ -33593,6 +33656,13 @@
 			"jacket_link": "/illust/1821_adv.jpeg",
 			"difficulty": "adv",
 			"date": "2022-08-18"
+		},
+		{
+			"title": "夢幻泡影",
+			"composer": "wa.",
+			"jacket_link": "/illust/1823_exh.jpeg",
+			"difficulty": "exh",
+			"date": "2022-09-01"
 		}
 	],
 	[
@@ -37606,6 +37676,20 @@
 			"jacket_link": "/illust/1819_exh.jpeg",
 			"difficulty": "exh",
 			"date": "2022-08-18"
+		},
+		{
+			"title": "Revvable Engine",
+			"composer": "nora2r",
+			"jacket_link": "/illust/1822_exh.jpeg",
+			"difficulty": "exh",
+			"date": "2022-09-01"
+		},
+		{
+			"title": "涙の女神と無形のエトワル",
+			"composer": "Yu-dachi",
+			"jacket_link": "/illust/1824_exh.jpeg",
+			"difficulty": "exh",
+			"date": "2022-09-01"
 		}
 	],
 	[
@@ -42011,6 +42095,13 @@
 			"jacket_link": "/illust/1820_exh.jpeg",
 			"difficulty": "exh",
 			"date": "2022-08-18"
+		},
+		{
+			"title": "Splash Underwater",
+			"composer": "siqlo",
+			"jacket_link": "/illust/1825_mxm.jpeg",
+			"difficulty": "mxm",
+			"date": "2022-09-01"
 		}
 	],
 	[
@@ -45345,6 +45436,27 @@
 			"jacket_link": "/illust/1821_exh.jpeg",
 			"difficulty": "exh",
 			"date": "2022-08-18"
+		},
+		{
+			"title": "Revvable Engine",
+			"composer": "nora2r",
+			"jacket_link": "/illust/1822_mxm.jpeg",
+			"difficulty": "mxm",
+			"date": "2022-09-01"
+		},
+		{
+			"title": "夢幻泡影",
+			"composer": "wa.",
+			"jacket_link": "/illust/1823_mxm.jpeg",
+			"difficulty": "mxm",
+			"date": "2022-09-01"
+		},
+		{
+			"title": "涙の女神と無形のエトワル",
+			"composer": "Yu-dachi",
+			"jacket_link": "/illust/1824_mxm.jpeg",
+			"difficulty": "mxm",
+			"date": "2022-09-01"
 		}
 	],
 	[
