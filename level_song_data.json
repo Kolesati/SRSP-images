@@ -133,6 +133,13 @@
 			"jacket_link": "/illust/1711_nov.jpeg",
 			"difficulty": "nov",
 			"date": "2021-11-25"
+		},
+		{
+			"title": "Heartache / 心の痛み",
+			"composer": "Toby Fox",
+			"jacket_link": "/illust/1828_nov.jpeg",
+			"difficulty": "nov",
+			"date": "2022-09-15"
 		}
 	],
 	[
@@ -2412,6 +2419,13 @@
 			"jacket_link": "/illust/1813_nov.jpeg",
 			"difficulty": "nov",
 			"date": "2022-08-10"
+		},
+		{
+			"title": "MEGALOVANIA",
+			"composer": "Toby Fox",
+			"jacket_link": "/illust/1826_nov.jpeg",
+			"difficulty": "nov",
+			"date": "2022-09-15"
 		}
 	],
 	[
@@ -4997,6 +5011,13 @@
 			"jacket_link": "/illust/1812_nov.jpeg",
 			"difficulty": "nov",
 			"date": "2022-07-28"
+		},
+		{
+			"title": "Spider Dance / スパイダーダンス",
+			"composer": "Toby Fox",
+			"jacket_link": "/illust/1830_nov.jpeg",
+			"difficulty": "nov",
+			"date": "2022-09-15"
 		}
 	],
 	[
@@ -8611,6 +8632,20 @@
 			"jacket_link": "/illust/1825_nov.jpeg",
 			"difficulty": "nov",
 			"date": "2022-09-01"
+		},
+		{
+			"title": "Battle Against a True Hero / 本物のヒーローとの戦い",
+			"composer": "Toby Fox",
+			"jacket_link": "/illust/1827_nov.jpeg",
+			"difficulty": "nov",
+			"date": "2022-09-15"
+		},
+		{
+			"title": "SAVE the World",
+			"composer": "Toby Fox",
+			"jacket_link": "/illust/1829_nov.jpeg",
+			"difficulty": "nov",
+			"date": "2022-09-15"
 		}
 	],
 	[
@@ -18197,6 +18232,13 @@
 			"jacket_link": "/illust/1808_adv.jpeg",
 			"difficulty": "adv",
 			"date": "2022-07-28"
+		},
+		{
+			"title": "Heartache / 心の痛み",
+			"composer": "Toby Fox",
+			"jacket_link": "/illust/1828_adv.jpeg",
+			"difficulty": "adv",
+			"date": "2022-09-15"
 		}
 	],
 	[
@@ -20866,6 +20908,13 @@
 			"jacket_link": "/illust/1811_adv.jpeg",
 			"difficulty": "adv",
 			"date": "2022-07-28"
+		},
+		{
+			"title": "Spider Dance / スパイダーダンス",
+			"composer": "Toby Fox",
+			"jacket_link": "/illust/1830_adv.jpeg",
+			"difficulty": "adv",
+			"date": "2022-09-15"
 		}
 	],
 	[
@@ -24158,6 +24207,20 @@
 			"jacket_link": "/illust/1825_adv.jpeg",
 			"difficulty": "adv",
 			"date": "2022-09-01"
+		},
+		{
+			"title": "Battle Against a True Hero / 本物のヒーローとの戦い",
+			"composer": "Toby Fox",
+			"jacket_link": "/illust/1827_adv.jpeg",
+			"difficulty": "adv",
+			"date": "2022-09-15"
+		},
+		{
+			"title": "SAVE the World",
+			"composer": "Toby Fox",
+			"jacket_link": "/illust/1829_adv.jpeg",
+			"difficulty": "adv",
+			"date": "2022-09-15"
 		}
 	],
 	[
@@ -27919,6 +27982,20 @@
 			"jacket_link": "/illust/1824_adv.jpeg",
 			"difficulty": "adv",
 			"date": "2022-09-01"
+		},
+		{
+			"title": "MEGALOVANIA",
+			"composer": "Toby Fox",
+			"jacket_link": "/illust/1826_adv.jpeg",
+			"difficulty": "adv",
+			"date": "2022-09-15"
+		},
+		{
+			"title": "Heartache / 心の痛み",
+			"composer": "Toby Fox",
+			"jacket_link": "/illust/1828_exh.jpeg",
+			"difficulty": "exh",
+			"date": "2022-09-15"
 		}
 	],
 	[
@@ -30665,6 +30742,13 @@
 			"jacket_link": "/illust/1825_exh.jpeg",
 			"difficulty": "exh",
 			"date": "2022-09-01"
+		},
+		{
+			"title": "Spider Dance / スパイダーダンス",
+			"composer": "Toby Fox",
+			"jacket_link": "/illust/1830_exh.jpeg",
+			"difficulty": "exh",
+			"date": "2022-09-15"
 		}
 	],
 	[
@@ -33663,6 +33747,20 @@
 			"jacket_link": "/illust/1823_exh.jpeg",
 			"difficulty": "exh",
 			"date": "2022-09-01"
+		},
+		{
+			"title": "Battle Against a True Hero / 本物のヒーローとの戦い",
+			"composer": "Toby Fox",
+			"jacket_link": "/illust/1827_exh.jpeg",
+			"difficulty": "exh",
+			"date": "2022-09-15"
+		},
+		{
+			"title": "SAVE the World",
+			"composer": "Toby Fox",
+			"jacket_link": "/illust/1829_exh.jpeg",
+			"difficulty": "exh",
+			"date": "2022-09-15"
 		}
 	],
 	[
@@ -37690,6 +37788,20 @@
 			"jacket_link": "/illust/1824_exh.jpeg",
 			"difficulty": "exh",
 			"date": "2022-09-01"
+		},
+		{
+			"title": "MEGALOVANIA",
+			"composer": "Toby Fox",
+			"jacket_link": "/illust/1826_exh.jpeg",
+			"difficulty": "exh",
+			"date": "2022-09-15"
+		},
+		{
+			"title": "Heartache / 心の痛み",
+			"composer": "Toby Fox",
+			"jacket_link": "/illust/1828_mxm.jpeg",
+			"difficulty": "mxm",
+			"date": "2022-09-15"
 		}
 	],
 	[
@@ -42102,6 +42214,13 @@
 			"jacket_link": "/illust/1825_mxm.jpeg",
 			"difficulty": "mxm",
 			"date": "2022-09-01"
+		},
+		{
+			"title": "Spider Dance / スパイダーダンス",
+			"composer": "Toby Fox",
+			"jacket_link": "/illust/1830_mxm.jpeg",
+			"difficulty": "mxm",
+			"date": "2022-09-15"
 		}
 	],
 	[
@@ -45457,6 +45576,27 @@
 			"jacket_link": "/illust/1824_mxm.jpeg",
 			"difficulty": "mxm",
 			"date": "2022-09-01"
+		},
+		{
+			"title": "MEGALOVANIA",
+			"composer": "Toby Fox",
+			"jacket_link": "/illust/1826_mxm.jpeg",
+			"difficulty": "mxm",
+			"date": "2022-09-15"
+		},
+		{
+			"title": "Battle Against a True Hero / 本物のヒーローとの戦い",
+			"composer": "Toby Fox",
+			"jacket_link": "/illust/1827_mxm.jpeg",
+			"difficulty": "mxm",
+			"date": "2022-09-15"
+		},
+		{
+			"title": "SAVE the World",
+			"composer": "Toby Fox",
+			"jacket_link": "/illust/1829_mxm.jpeg",
+			"difficulty": "mxm",
+			"date": "2022-09-15"
 		}
 	],
 	[

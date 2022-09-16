@@ -1,8 +1,8 @@
 {
 	"configs": [
 		{
-			"cnt": 1825,
-			"totalcnt": 6621
+			"cnt": 1830,
+			"totalcnt": 6641
 		}
 	],
 	"songs": [
@@ -37439,6 +37439,116 @@
 				"jacket_link": "/illust/1825_mxm.jpeg"
 			},
 			"date": "2022-09-01"
+		},
+		{
+			"num": 1826,
+			"title": "MEGALOVANIA",
+			"composer": "Toby Fox",
+			"nov": {
+				"level": 3,
+				"jacket_link": "/illust/1826_nov.jpeg"
+			},
+			"adv": {
+				"level": 13,
+				"jacket_link": "/illust/1826_adv.jpeg"
+			},
+			"exh": {
+				"level": 16,
+				"jacket_link": "/illust/1826_exh.jpeg"
+			},
+			"mxm": {
+				"level": 18,
+				"jacket_link": "/illust/1826_mxm.jpeg"
+			},
+			"date": "2022-09-15"
+		},
+		{
+			"num": 1827,
+			"title": "Battle Against a True Hero / 本物のヒーローとの戦い",
+			"composer": "Toby Fox",
+			"nov": {
+				"level": 5,
+				"jacket_link": "/illust/1827_nov.jpeg"
+			},
+			"adv": {
+				"level": 12,
+				"jacket_link": "/illust/1827_adv.jpeg"
+			},
+			"exh": {
+				"level": 15,
+				"jacket_link": "/illust/1827_exh.jpeg"
+			},
+			"mxm": {
+				"level": 18,
+				"jacket_link": "/illust/1827_mxm.jpeg"
+			},
+			"date": "2022-09-15"
+		},
+		{
+			"num": 1828,
+			"title": "Heartache / 心の痛み",
+			"composer": "Toby Fox",
+			"nov": {
+				"level": 1,
+				"jacket_link": "/illust/1828_nov.jpeg"
+			},
+			"adv": {
+				"level": 10,
+				"jacket_link": "/illust/1828_adv.jpeg"
+			},
+			"exh": {
+				"level": 13,
+				"jacket_link": "/illust/1828_exh.jpeg"
+			},
+			"mxm": {
+				"level": 16,
+				"jacket_link": "/illust/1828_mxm.jpeg"
+			},
+			"date": "2022-09-15"
+		},
+		{
+			"num": 1829,
+			"title": "SAVE the World",
+			"composer": "Toby Fox",
+			"nov": {
+				"level": 5,
+				"jacket_link": "/illust/1829_nov.jpeg"
+			},
+			"adv": {
+				"level": 12,
+				"jacket_link": "/illust/1829_adv.jpeg"
+			},
+			"exh": {
+				"level": 15,
+				"jacket_link": "/illust/1829_exh.jpeg"
+			},
+			"mxm": {
+				"level": 18,
+				"jacket_link": "/illust/1829_mxm.jpeg"
+			},
+			"date": "2022-09-15"
+		},
+		{
+			"num": 1830,
+			"title": "Spider Dance / スパイダーダンス",
+			"composer": "Toby Fox",
+			"nov": {
+				"level": 4,
+				"jacket_link": "/illust/1830_nov.jpeg"
+			},
+			"adv": {
+				"level": 11,
+				"jacket_link": "/illust/1830_adv.jpeg"
+			},
+			"exh": {
+				"level": 14,
+				"jacket_link": "/illust/1830_exh.jpeg"
+			},
+			"mxm": {
+				"level": 17,
+				"jacket_link": "/illust/1830_mxm.jpeg"
+			},
+			"date": "2022-09-15"
 		}
 	]
 }
