@@ -1,8 +1,8 @@
 {
 	"configs": [
 		{
-			"cnt": 1830,
-			"totalcnt": 6641
+			"cnt": 1835,
+			"totalcnt": 6661
 		}
 	],
 	"songs": [
@@ -37549,6 +37549,116 @@
 				"jacket_link": "/illust/1830_mxm.jpeg"
 			},
 			"date": "2022-09-15"
+		},
+		{
+			"num": 1831,
+			"title": "Re:Rose Gun Shoooot!",
+			"composer": "あるふぁ",
+			"nov": {
+				"level": 6,
+				"jacket_link": "/illust/1831_nov.jpeg"
+			},
+			"adv": {
+				"level": 12,
+				"jacket_link": "/illust/1831_adv.jpeg"
+			},
+			"exh": {
+				"level": 15,
+				"jacket_link": "/illust/1831_exh.jpeg"
+			},
+			"mxm": {
+				"level": 17,
+				"jacket_link": "/illust/1831_mxm.jpeg"
+			},
+			"date": "2022-10-06"
+		},
+		{
+			"num": 1832,
+			"title": "fantastic dreamer／アニメ「この素晴らしい世界に祝福を！」より",
+			"composer": "Machico",
+			"nov": {
+				"level": 2,
+				"jacket_link": "/illust/1832_nov.jpeg"
+			},
+			"adv": {
+				"level": 10,
+				"jacket_link": "/illust/1832_adv.jpeg"
+			},
+			"exh": {
+				"level": 14,
+				"jacket_link": "/illust/1832_exh.jpeg"
+			},
+			"mxm": {
+				"level": 17,
+				"jacket_link": "/illust/1832_mxm.jpeg"
+			},
+			"date": "2022-10-06"
+		},
+		{
+			"num": 1833,
+			"title": "SHARK ATTACK",
+			"composer": "ryhki",
+			"nov": {
+				"level": 6,
+				"jacket_link": "/illust/1833_nov.jpeg"
+			},
+			"adv": {
+				"level": 12,
+				"jacket_link": "/illust/1833_adv.jpeg"
+			},
+			"exh": {
+				"level": 16,
+				"jacket_link": "/illust/1833_exh.jpeg"
+			},
+			"mxm": {
+				"level": 18,
+				"jacket_link": "/illust/1833_mxm.jpeg"
+			},
+			"date": "2022-10-06"
+		},
+		{
+			"num": 1834,
+			"title": "ØƵ",
+			"composer": "Hommarju ft. Mayumi Morinaga",
+			"nov": {
+				"level": 6,
+				"jacket_link": "/illust/1834_nov.jpeg"
+			},
+			"adv": {
+				"level": 14,
+				"jacket_link": "/illust/1834_adv.jpeg"
+			},
+			"exh": {
+				"level": 16,
+				"jacket_link": "/illust/1834_exh.jpeg"
+			},
+			"mxm": {
+				"level": 18,
+				"jacket_link": "/illust/1834_mxm.jpeg"
+			},
+			"date": "2022-10-06"
+		},
+		{
+			"num": 1835,
+			"title": "Imperator",
+			"composer": "Xe (αirlemoneX)",
+			"nov": {
+				"level": 6,
+				"jacket_link": "/illust/1835_nov.jpeg"
+			},
+			"adv": {
+				"level": 13,
+				"jacket_link": "/illust/1835_adv.jpeg"
+			},
+			"exh": {
+				"level": 16,
+				"jacket_link": "/illust/1835_exh.jpeg"
+			},
+			"mxm": {
+				"level": 18,
+				"jacket_link": "/illust/1835_mxm.jpeg"
+			},
+			"date": "2022-10-06"
 		}
 	]
 }
