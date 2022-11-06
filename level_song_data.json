@@ -2433,6 +2433,13 @@
 			"jacket_link": "/illust/1826_nov.jpeg",
 			"difficulty": "nov",
 			"date": "2022-09-15"
+		},
+		{
+			"title": "インドア系ならトラックメイカー",
+			"composer": "Yunomi & nicamoq",
+			"jacket_link": "/illust/1838_nov.jpeg",
+			"difficulty": "nov",
+			"date": "2022-10-20"
 		}
 	],
 	[
@@ -5025,6 +5032,20 @@
 			"jacket_link": "/illust/1830_nov.jpeg",
 			"difficulty": "nov",
 			"date": "2022-09-15"
+		},
+		{
+			"title": "ヴァンパイア",
+			"composer": "DECO*27",
+			"jacket_link": "/illust/1837_nov.jpeg",
+			"difficulty": "nov",
+			"date": "2022-10-20"
+		},
+		{
+			"title": "Awakening Wings",
+			"composer": "伊達朱里紗",
+			"jacket_link": "/illust/1843_nov.jpeg",
+			"difficulty": "nov",
+			"date": "2022-11-01"
 		}
 	],
 	[
@@ -12267,6 +12288,20 @@
 			"jacket_link": "/illust/1835_nov.jpeg",
 			"difficulty": "nov",
 			"date": "2022-10-06"
+		},
+		{
+			"title": "White Stream",
+			"composer": "BEMANI Sound Team \"ZAQUVA\"",
+			"jacket_link": "/illust/1839_nov.jpeg",
+			"difficulty": "nov",
+			"date": "2022-11-01"
+		},
+		{
+			"title": "Snowmelt",
+			"composer": "nora2r × BEMANI Sound Team \"Yvya\"",
+			"jacket_link": "/illust/1841_nov.jpeg",
+			"difficulty": "nov",
+			"date": "2022-11-01"
 		}
 	],
 	[
@@ -13389,6 +13424,34 @@
 			"jacket_link": "/illust/1820_nov.jpeg",
 			"difficulty": "nov",
 			"date": "2022-08-18"
+		},
+		{
+			"title": "You Are My Best RivaL!!",
+			"composer": "cosMo＠暴走P",
+			"jacket_link": "/illust/1836_nov.jpeg",
+			"difficulty": "nov",
+			"date": "2022-10-20"
+		},
+		{
+			"title": "perditus†paradisus",
+			"composer": "iconoclasm",
+			"jacket_link": "/illust/1840_nov.jpeg",
+			"difficulty": "nov",
+			"date": "2022-11-01"
+		},
+		{
+			"title": "VOLAQUAS",
+			"composer": "BEMANI Sound Team \"DJ TOTTO VS 兎々\"",
+			"jacket_link": "/illust/1842_nov.jpeg",
+			"difficulty": "nov",
+			"date": "2022-11-01"
+		},
+		{
+			"title": "[ ]DENTITY",
+			"composer": "BEMANI Sound Team \"HuΣeR\"",
+			"jacket_link": "/illust/1844_nov.jpeg",
+			"difficulty": "nov",
+			"date": "2022-11-01"
 		}
 	],
 	[
@@ -15857,6 +15920,13 @@
 			"jacket_link": "/illust/1791_adv.jpeg",
 			"difficulty": "adv",
 			"date": "2022-06-09"
+		},
+		{
+			"title": "インドア系ならトラックメイカー",
+			"composer": "Yunomi & nicamoq",
+			"jacket_link": "/illust/1838_adv.jpeg",
+			"difficulty": "adv",
+			"date": "2022-10-20"
 		}
 	],
 	[
@@ -20957,6 +21027,13 @@
 			"jacket_link": "/illust/1830_adv.jpeg",
 			"difficulty": "adv",
 			"date": "2022-09-15"
+		},
+		{
+			"title": "ヴァンパイア",
+			"composer": "DECO*27",
+			"jacket_link": "/illust/1837_adv.jpeg",
+			"difficulty": "adv",
+			"date": "2022-10-20"
 		}
 	],
 	[
@@ -24277,6 +24354,13 @@
 			"jacket_link": "/illust/1833_adv.jpeg",
 			"difficulty": "adv",
 			"date": "2022-10-06"
+		},
+		{
+			"title": "Awakening Wings",
+			"composer": "伊達朱里紗",
+			"jacket_link": "/illust/1843_adv.jpeg",
+			"difficulty": "adv",
+			"date": "2022-11-01"
 		}
 	],
 	[
@@ -28059,6 +28143,20 @@
 			"jacket_link": "/illust/1835_adv.jpeg",
 			"difficulty": "adv",
 			"date": "2022-10-06"
+		},
+		{
+			"title": "White Stream",
+			"composer": "BEMANI Sound Team \"ZAQUVA\"",
+			"jacket_link": "/illust/1839_adv.jpeg",
+			"difficulty": "adv",
+			"date": "2022-11-01"
+		},
+		{
+			"title": "Snowmelt",
+			"composer": "nora2r × BEMANI Sound Team \"Yvya\"",
+			"jacket_link": "/illust/1841_adv.jpeg",
+			"difficulty": "adv",
+			"date": "2022-11-01"
 		}
 	],
 	[
@@ -30826,6 +30924,41 @@
 			"jacket_link": "/illust/1834_adv.jpeg",
 			"difficulty": "adv",
 			"date": "2022-10-06"
+		},
+		{
+			"title": "ヴァンパイア",
+			"composer": "DECO*27",
+			"jacket_link": "/illust/1837_exh.jpeg",
+			"difficulty": "exh",
+			"date": "2022-10-20"
+		},
+		{
+			"title": "perditus†paradisus",
+			"composer": "iconoclasm",
+			"jacket_link": "/illust/1840_adv.jpeg",
+			"difficulty": "adv",
+			"date": "2022-11-01"
+		},
+		{
+			"title": "VOLAQUAS",
+			"composer": "BEMANI Sound Team \"DJ TOTTO VS 兎々\"",
+			"jacket_link": "/illust/1842_adv.jpeg",
+			"difficulty": "adv",
+			"date": "2022-11-01"
+		},
+		{
+			"title": "Awakening Wings",
+			"composer": "伊達朱里紗",
+			"jacket_link": "/illust/1843_exh.jpeg",
+			"difficulty": "exh",
+			"date": "2022-11-01"
+		},
+		{
+			"title": "[ ]DENTITY",
+			"composer": "BEMANI Sound Team \"HuΣeR\"",
+			"jacket_link": "/illust/1844_adv.jpeg",
+			"difficulty": "adv",
+			"date": "2022-11-01"
 		}
 	],
 	[
@@ -33845,6 +33978,20 @@
 			"jacket_link": "/illust/1831_exh.jpeg",
 			"difficulty": "exh",
 			"date": "2022-10-06"
+		},
+		{
+			"title": "You Are My Best RivaL!!",
+			"composer": "cosMo＠暴走P",
+			"jacket_link": "/illust/1836_adv.jpeg",
+			"difficulty": "adv",
+			"date": "2022-10-20"
+		},
+		{
+			"title": "インドア系ならトラックメイカー",
+			"composer": "Yunomi & nicamoq",
+			"jacket_link": "/illust/1838_exh.jpeg",
+			"difficulty": "exh",
+			"date": "2022-10-20"
 		}
 	],
 	[
@@ -37907,6 +38054,20 @@
 			"jacket_link": "/illust/1835_exh.jpeg",
 			"difficulty": "exh",
 			"date": "2022-10-06"
+		},
+		{
+			"title": "White Stream",
+			"composer": "BEMANI Sound Team \"ZAQUVA\"",
+			"jacket_link": "/illust/1839_exh.jpeg",
+			"difficulty": "exh",
+			"date": "2022-11-01"
+		},
+		{
+			"title": "Snowmelt",
+			"composer": "nora2r × BEMANI Sound Team \"Yvya\"",
+			"jacket_link": "/illust/1841_exh.jpeg",
+			"difficulty": "exh",
+			"date": "2022-11-01"
 		}
 	],
 	[
@@ -42340,6 +42501,48 @@
 			"jacket_link": "/illust/1832_mxm.jpeg",
 			"difficulty": "mxm",
 			"date": "2022-10-06"
+		},
+		{
+			"title": "ヴァンパイア",
+			"composer": "DECO*27",
+			"jacket_link": "/illust/1837_mxm.jpeg",
+			"difficulty": "mxm",
+			"date": "2022-10-20"
+		},
+		{
+			"title": "インドア系ならトラックメイカー",
+			"composer": "Yunomi & nicamoq",
+			"jacket_link": "/illust/1838_mxm.jpeg",
+			"difficulty": "mxm",
+			"date": "2022-10-20"
+		},
+		{
+			"title": "perditus†paradisus",
+			"composer": "iconoclasm",
+			"jacket_link": "/illust/1840_exh.jpeg",
+			"difficulty": "exh",
+			"date": "2022-11-01"
+		},
+		{
+			"title": "VOLAQUAS",
+			"composer": "BEMANI Sound Team \"DJ TOTTO VS 兎々\"",
+			"jacket_link": "/illust/1842_exh.jpeg",
+			"difficulty": "exh",
+			"date": "2022-11-01"
+		},
+		{
+			"title": "Awakening Wings",
+			"composer": "伊達朱里紗",
+			"jacket_link": "/illust/1843_mxm.jpeg",
+			"difficulty": "mxm",
+			"date": "2022-11-01"
+		},
+		{
+			"title": "[ ]DENTITY",
+			"composer": "BEMANI Sound Team \"HuΣeR\"",
+			"jacket_link": "/illust/1844_exh.jpeg",
+			"difficulty": "exh",
+			"date": "2022-11-01"
 		}
 	],
 	[
@@ -45737,6 +45940,27 @@
 			"jacket_link": "/illust/1835_mxm.jpeg",
 			"difficulty": "mxm",
 			"date": "2022-10-06"
+		},
+		{
+			"title": "You Are My Best RivaL!!",
+			"composer": "cosMo＠暴走P",
+			"jacket_link": "/illust/1836_exh.jpeg",
+			"difficulty": "exh",
+			"date": "2022-10-20"
+		},
+		{
+			"title": "White Stream",
+			"composer": "BEMANI Sound Team \"ZAQUVA\"",
+			"jacket_link": "/illust/1839_mxm.jpeg",
+			"difficulty": "mxm",
+			"date": "2022-11-01"
+		},
+		{
+			"title": "Snowmelt",
+			"composer": "nora2r × BEMANI Sound Team \"Yvya\"",
+			"jacket_link": "/illust/1841_mxm.jpeg",
+			"difficulty": "mxm",
+			"date": "2022-11-01"
 		}
 	],
 	[
@@ -46530,6 +46754,27 @@
 			"jacket_link": "/illust/1820_mxm.jpeg",
 			"difficulty": "mxm",
 			"date": "2022-08-18"
+		},
+		{
+			"title": "perditus†paradisus",
+			"composer": "iconoclasm",
+			"jacket_link": "/illust/1840_mxm.jpeg",
+			"difficulty": "mxm",
+			"date": "2022-11-01"
+		},
+		{
+			"title": "VOLAQUAS",
+			"composer": "BEMANI Sound Team \"DJ TOTTO VS 兎々\"",
+			"jacket_link": "/illust/1842_mxm.jpeg",
+			"difficulty": "mxm",
+			"date": "2022-11-01"
+		},
+		{
+			"title": "[ ]DENTITY",
+			"composer": "BEMANI Sound Team \"HuΣeR\"",
+			"jacket_link": "/illust/1844_mxm.jpeg",
+			"difficulty": "mxm",
+			"date": "2022-11-01"
 		}
 	],
 	[
@@ -46665,6 +46910,13 @@
 			"jacket_link": "/illust/1821_mxm.jpeg",
 			"difficulty": "mxm",
 			"date": "2022-08-18"
+		},
+		{
+			"title": "You Are My Best RivaL!!",
+			"composer": "cosMo＠暴走P",
+			"jacket_link": "/illust/1836_mxm.jpeg",
+			"difficulty": "mxm",
+			"date": "2022-10-20"
 		}
 	]
 ]

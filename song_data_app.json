@@ -1,8 +1,8 @@
 {
 	"configs": [
 		{
-			"cnt": 1835,
-			"totalcnt": 6661
+			"cnt": 1844,
+			"totalcnt": 6697
 		}
 	],
 	"songs": [
@@ -37659,6 +37659,204 @@
 				"jacket_link": "/illust/1835_mxm.jpeg"
 			},
 			"date": "2022-10-06"
+		},
+		{
+			"num": 1836,
+			"title": "You Are My Best RivaL!!",
+			"composer": "cosMo＠暴走P",
+			"nov": {
+				"level": 7,
+				"jacket_link": "/illust/1836_nov.jpeg"
+			},
+			"adv": {
+				"level": 15,
+				"jacket_link": "/illust/1836_adv.jpeg"
+			},
+			"exh": {
+				"level": 18,
+				"jacket_link": "/illust/1836_exh.jpeg"
+			},
+			"mxm": {
+				"level": 20,
+				"jacket_link": "/illust/1836_mxm.jpeg"
+			},
+			"date": "2022-10-20"
+		},
+		{
+			"num": 1837,
+			"title": "ヴァンパイア",
+			"composer": "DECO*27",
+			"nov": {
+				"level": 4,
+				"jacket_link": "/illust/1837_nov.jpeg"
+			},
+			"adv": {
+				"level": 11,
+				"jacket_link": "/illust/1837_adv.jpeg"
+			},
+			"exh": {
+				"level": 14,
+				"jacket_link": "/illust/1837_exh.jpeg"
+			},
+			"mxm": {
+				"level": 17,
+				"jacket_link": "/illust/1837_mxm.jpeg"
+			},
+			"date": "2022-10-20"
+		},
+		{
+			"num": 1838,
+			"title": "インドア系ならトラックメイカー",
+			"composer": "Yunomi & nicamoq",
+			"nov": {
+				"level": 3,
+				"jacket_link": "/illust/1838_nov.jpeg"
+			},
+			"adv": {
+				"level": 9,
+				"jacket_link": "/illust/1838_adv.jpeg"
+			},
+			"exh": {
+				"level": 15,
+				"jacket_link": "/illust/1838_exh.jpeg"
+			},
+			"mxm": {
+				"level": 17,
+				"jacket_link": "/illust/1838_mxm.jpeg"
+			},
+			"date": "2022-10-20"
+		},
+		{
+			"num": 1839,
+			"title": "White Stream",
+			"composer": "BEMANI Sound Team \"ZAQUVA\"",
+			"nov": {
+				"level": 6,
+				"jacket_link": "/illust/1839_nov.jpeg"
+			},
+			"adv": {
+				"level": 13,
+				"jacket_link": "/illust/1839_adv.jpeg"
+			},
+			"exh": {
+				"level": 16,
+				"jacket_link": "/illust/1839_exh.jpeg"
+			},
+			"mxm": {
+				"level": 18,
+				"jacket_link": "/illust/1839_mxm.jpeg"
+			},
+			"date": "2022-11-01"
+		},
+		{
+			"num": 1840,
+			"title": "perditus†paradisus",
+			"composer": "iconoclasm",
+			"nov": {
+				"level": 7,
+				"jacket_link": "/illust/1840_nov.jpeg"
+			},
+			"adv": {
+				"level": 14,
+				"jacket_link": "/illust/1840_adv.jpeg"
+			},
+			"exh": {
+				"level": 17,
+				"jacket_link": "/illust/1840_exh.jpeg"
+			},
+			"mxm": {
+				"level": 19,
+				"jacket_link": "/illust/1840_mxm.jpeg"
+			},
+			"date": "2022-11-01"
+		},
+		{
+			"num": 1841,
+			"title": "Snowmelt",
+			"composer": "nora2r × BEMANI Sound Team \"Yvya\"",
+			"nov": {
+				"level": 6,
+				"jacket_link": "/illust/1841_nov.jpeg"
+			},
+			"adv": {
+				"level": 13,
+				"jacket_link": "/illust/1841_adv.jpeg"
+			},
+			"exh": {
+				"level": 16,
+				"jacket_link": "/illust/1841_exh.jpeg"
+			},
+			"mxm": {
+				"level": 18,
+				"jacket_link": "/illust/1841_mxm.jpeg"
+			},
+			"date": "2022-11-01"
+		},
+		{
+			"num": 1842,
+			"title": "VOLAQUAS",
+			"composer": "BEMANI Sound Team \"DJ TOTTO VS 兎々\"",
+			"nov": {
+				"level": 7,
+				"jacket_link": "/illust/1842_nov.jpeg"
+			},
+			"adv": {
+				"level": 14,
+				"jacket_link": "/illust/1842_adv.jpeg"
+			},
+			"exh": {
+				"level": 17,
+				"jacket_link": "/illust/1842_exh.jpeg"
+			},
+			"mxm": {
+				"level": 19,
+				"jacket_link": "/illust/1842_mxm.jpeg"
+			},
+			"date": "2022-11-01"
+		},
+		{
+			"num": 1843,
+			"title": "Awakening Wings",
+			"composer": "伊達朱里紗",
+			"nov": {
+				"level": 4,
+				"jacket_link": "/illust/1843_nov.jpeg"
+			},
+			"adv": {
+				"level": 12,
+				"jacket_link": "/illust/1843_adv.jpeg"
+			},
+			"exh": {
+				"level": 14,
+				"jacket_link": "/illust/1843_exh.jpeg"
+			},
+			"mxm": {
+				"level": 17,
+				"jacket_link": "/illust/1843_mxm.jpeg"
+			},
+			"date": "2022-11-01"
+		},
+		{
+			"num": 1844,
+			"title": "[ ]DENTITY",
+			"composer": "BEMANI Sound Team \"HuΣeR\"",
+			"nov": {
+				"level": 7,
+				"jacket_link": "/illust/1844_nov.jpeg"
+			},
+			"adv": {
+				"level": 14,
+				"jacket_link": "/illust/1844_adv.jpeg"
+			},
+			"exh": {
+				"level": 17,
+				"jacket_link": "/illust/1844_exh.jpeg"
+			},
+			"mxm": {
+				"level": 19,
+				"jacket_link": "/illust/1844_mxm.jpeg"
+			},
+			"date": "2022-11-01"
 		}
 	]
 }
