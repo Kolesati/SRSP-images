@@ -1,8 +1,8 @@
 {
 	"configs": [
 		{
-			"cnt": 1844,
-			"totalcnt": 6697
+			"cnt": 1849,
+			"totalcnt": 6717
 		}
 	],
 	"songs": [
@@ -37857,6 +37857,116 @@
 				"jacket_link": "/illust/1844_mxm.jpeg"
 			},
 			"date": "2022-11-01"
+		},
+		{
+			"num": 1845,
+			"title": "Re:call",
+			"composer": "pan+meal feat.駄々子",
+			"nov": {
+				"level": 5,
+				"jacket_link": "/illust/1845_nov.jpeg"
+			},
+			"adv": {
+				"level": 12,
+				"jacket_link": "/illust/1845_adv.jpeg"
+			},
+			"exh": {
+				"level": 14,
+				"jacket_link": "/illust/1845_exh.jpeg"
+			},
+			"mxm": {
+				"level": 17,
+				"jacket_link": "/illust/1845_mxm.jpeg"
+			},
+			"date": "2022-11-17"
+		},
+		{
+			"num": 1846,
+			"title": "Μοῦσα",
+			"composer": "ushiee",
+			"nov": {
+				"level": 5,
+				"jacket_link": "/illust/1846_nov.jpeg"
+			},
+			"adv": {
+				"level": 12,
+				"jacket_link": "/illust/1846_adv.jpeg"
+			},
+			"exh": {
+				"level": 15,
+				"jacket_link": "/illust/1846_exh.jpeg"
+			},
+			"mxm": {
+				"level": 17,
+				"jacket_link": "/illust/1846_mxm.jpeg"
+			},
+			"date": "2022-11-17"
+		},
+		{
+			"num": 1847,
+			"title": "Hydroblast",
+			"composer": "Aoi vs. siromaru",
+			"nov": {
+				"level": 6,
+				"jacket_link": "/illust/1847_nov.jpeg"
+			},
+			"adv": {
+				"level": 12,
+				"jacket_link": "/illust/1847_adv.jpeg"
+			},
+			"exh": {
+				"level": 15,
+				"jacket_link": "/illust/1847_exh.jpeg"
+			},
+			"mxm": {
+				"level": 18,
+				"jacket_link": "/illust/1847_mxm.jpeg"
+			},
+			"date": "2022-11-17"
+		},
+		{
+			"num": 1848,
+			"title": "Never Ending Future",
+			"composer": "#EmoCosine",
+			"nov": {
+				"level": 6,
+				"jacket_link": "/illust/1848_nov.jpeg"
+			},
+			"adv": {
+				"level": 13,
+				"jacket_link": "/illust/1848_adv.jpeg"
+			},
+			"exh": {
+				"level": 16,
+				"jacket_link": "/illust/1848_exh.jpeg"
+			},
+			"mxm": {
+				"level": 18,
+				"jacket_link": "/illust/1848_mxm.jpeg"
+			},
+			"date": "2022-11-17"
+		},
+		{
+			"num": 1849,
+			"title": "神罰",
+			"composer": "cosMo＠暴走P",
+			"nov": {
+				"level": 6,
+				"jacket_link": "/illust/1849_nov.jpeg"
+			},
+			"adv": {
+				"level": 13,
+				"jacket_link": "/illust/1849_adv.jpeg"
+			},
+			"exh": {
+				"level": 16,
+				"jacket_link": "/illust/1849_exh.jpeg"
+			},
+			"mxm": {
+				"level": 18,
+				"jacket_link": "/illust/1849_mxm.jpeg"
+			},
+			"date": "2022-11-17"
 		}
 	]
 }
