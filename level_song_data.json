@@ -814,6 +814,13 @@
 			"jacket_link": "/illust/1832_nov.jpeg",
 			"difficulty": "nov",
 			"date": "2022-10-06"
+		},
+		{
+			"title": "グッバイ宣言",
+			"composer": "Chinozo",
+			"jacket_link": "/illust/1851_nov.jpeg",
+			"difficulty": "nov",
+			"date": "2022-12-08"
 		}
 	],
 	[
@@ -2440,6 +2447,13 @@
 			"jacket_link": "/illust/1838_nov.jpeg",
 			"difficulty": "nov",
 			"date": "2022-10-20"
+		},
+		{
+			"title": "透明声彩",
+			"composer": "YuNi",
+			"jacket_link": "/illust/1850_nov.jpeg",
+			"difficulty": "nov",
+			"date": "2022-12-08"
 		}
 	],
 	[
@@ -12337,6 +12351,20 @@
 			"jacket_link": "/illust/1849_nov.jpeg",
 			"difficulty": "nov",
 			"date": "2022-11-17"
+		},
+		{
+			"title": "Chat perché",
+			"composer": "Ange;art + Nota",
+			"jacket_link": "/illust/1852_nov.jpeg",
+			"difficulty": "nov",
+			"date": "2022-12-08"
+		},
+		{
+			"title": "WINNING ROAD",
+			"composer": "setu-O",
+			"jacket_link": "/illust/1853_nov.jpeg",
+			"difficulty": "nov",
+			"date": "2022-12-08"
 		}
 	],
 	[
@@ -21069,6 +21097,13 @@
 			"jacket_link": "/illust/1837_adv.jpeg",
 			"difficulty": "adv",
 			"date": "2022-10-20"
+		},
+		{
+			"title": "透明声彩",
+			"composer": "YuNi",
+			"jacket_link": "/illust/1850_adv.jpeg",
+			"difficulty": "adv",
+			"date": "2022-12-08"
 		}
 	],
 	[
@@ -24417,6 +24452,20 @@
 			"jacket_link": "/illust/1847_adv.jpeg",
 			"difficulty": "adv",
 			"date": "2022-11-17"
+		},
+		{
+			"title": "グッバイ宣言",
+			"composer": "Chinozo",
+			"jacket_link": "/illust/1851_adv.jpeg",
+			"difficulty": "adv",
+			"date": "2022-12-08"
+		},
+		{
+			"title": "WINNING ROAD",
+			"composer": "setu-O",
+			"jacket_link": "/illust/1853_adv.jpeg",
+			"difficulty": "adv",
+			"date": "2022-12-08"
 		}
 	],
 	[
@@ -28227,6 +28276,13 @@
 			"jacket_link": "/illust/1849_adv.jpeg",
 			"difficulty": "adv",
 			"date": "2022-11-17"
+		},
+		{
+			"title": "Chat perché",
+			"composer": "Ange;art + Nota",
+			"jacket_link": "/illust/1852_adv.jpeg",
+			"difficulty": "adv",
+			"date": "2022-12-08"
 		}
 	],
 	[
@@ -31036,6 +31092,13 @@
 			"jacket_link": "/illust/1845_exh.jpeg",
 			"difficulty": "exh",
 			"date": "2022-11-17"
+		},
+		{
+			"title": "透明声彩",
+			"composer": "YuNi",
+			"jacket_link": "/illust/1850_exh.jpeg",
+			"difficulty": "exh",
+			"date": "2022-12-08"
 		}
 	],
 	[
@@ -34083,6 +34146,20 @@
 			"jacket_link": "/illust/1847_exh.jpeg",
 			"difficulty": "exh",
 			"date": "2022-11-17"
+		},
+		{
+			"title": "グッバイ宣言",
+			"composer": "Chinozo",
+			"jacket_link": "/illust/1851_exh.jpeg",
+			"difficulty": "exh",
+			"date": "2022-12-08"
+		},
+		{
+			"title": "WINNING ROAD",
+			"composer": "setu-O",
+			"jacket_link": "/illust/1853_exh.jpeg",
+			"difficulty": "exh",
+			"date": "2022-12-08"
 		}
 	],
 	[
@@ -38173,6 +38250,13 @@
 			"jacket_link": "/illust/1849_exh.jpeg",
 			"difficulty": "exh",
 			"date": "2022-11-17"
+		},
+		{
+			"title": "Chat perché",
+			"composer": "Ange;art + Nota",
+			"jacket_link": "/illust/1852_exh.jpeg",
+			"difficulty": "exh",
+			"date": "2022-12-08"
 		}
 	],
 	[
@@ -42662,6 +42746,20 @@
 			"jacket_link": "/illust/1846_mxm.jpeg",
 			"difficulty": "mxm",
 			"date": "2022-11-17"
+		},
+		{
+			"title": "透明声彩",
+			"composer": "YuNi",
+			"jacket_link": "/illust/1850_mxm.jpeg",
+			"difficulty": "mxm",
+			"date": "2022-12-08"
+		},
+		{
+			"title": "グッバイ宣言",
+			"composer": "Chinozo",
+			"jacket_link": "/illust/1851_mxm.jpeg",
+			"difficulty": "mxm",
+			"date": "2022-12-08"
 		}
 	],
 	[
@@ -46101,6 +46199,20 @@
 			"jacket_link": "/illust/1849_mxm.jpeg",
 			"difficulty": "mxm",
 			"date": "2022-11-17"
+		},
+		{
+			"title": "Chat perché",
+			"composer": "Ange;art + Nota",
+			"jacket_link": "/illust/1852_mxm.jpeg",
+			"difficulty": "mxm",
+			"date": "2022-12-08"
+		},
+		{
+			"title": "WINNING ROAD",
+			"composer": "setu-O",
+			"jacket_link": "/illust/1853_mxm.jpeg",
+			"difficulty": "mxm",
+			"date": "2022-12-08"
 		}
 	],
 	[

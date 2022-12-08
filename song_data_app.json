@@ -1,8 +1,8 @@
 {
 	"configs": [
 		{
-			"cnt": 1849,
-			"totalcnt": 6717
+			"cnt": 1853,
+			"totalcnt": 6733
 		}
 	],
 	"songs": [
@@ -37967,6 +37967,94 @@
 				"jacket_link": "/illust/1849_mxm.jpeg"
 			},
 			"date": "2022-11-17"
+		},
+		{
+			"num": 1850,
+			"title": "透明声彩",
+			"composer": "YuNi",
+			"nov": {
+				"level": 3,
+				"jacket_link": "/illust/1850_nov.jpeg"
+			},
+			"adv": {
+				"level": 11,
+				"jacket_link": "/illust/1850_adv.jpeg"
+			},
+			"exh": {
+				"level": 14,
+				"jacket_link": "/illust/1850_exh.jpeg"
+			},
+			"mxm": {
+				"level": 17,
+				"jacket_link": "/illust/1850_mxm.jpeg"
+			},
+			"date": "2022-12-08"
+		},
+		{
+			"num": 1851,
+			"title": "グッバイ宣言",
+			"composer": "Chinozo",
+			"nov": {
+				"level": 2,
+				"jacket_link": "/illust/1851_nov.jpeg"
+			},
+			"adv": {
+				"level": 12,
+				"jacket_link": "/illust/1851_adv.jpeg"
+			},
+			"exh": {
+				"level": 15,
+				"jacket_link": "/illust/1851_exh.jpeg"
+			},
+			"mxm": {
+				"level": 17,
+				"jacket_link": "/illust/1851_mxm.jpeg"
+			},
+			"date": "2022-12-08"
+		},
+		{
+			"num": 1852,
+			"title": "Chat perché",
+			"composer": "Ange;art + Nota",
+			"nov": {
+				"level": 6,
+				"jacket_link": "/illust/1852_nov.jpeg"
+			},
+			"adv": {
+				"level": 13,
+				"jacket_link": "/illust/1852_adv.jpeg"
+			},
+			"exh": {
+				"level": 16,
+				"jacket_link": "/illust/1852_exh.jpeg"
+			},
+			"mxm": {
+				"level": 18,
+				"jacket_link": "/illust/1852_mxm.jpeg"
+			},
+			"date": "2022-12-08"
+		},
+		{
+			"num": 1853,
+			"title": "WINNING ROAD",
+			"composer": "setu-O",
+			"nov": {
+				"level": 6,
+				"jacket_link": "/illust/1853_nov.jpeg"
+			},
+			"adv": {
+				"level": 12,
+				"jacket_link": "/illust/1853_adv.jpeg"
+			},
+			"exh": {
+				"level": 15,
+				"jacket_link": "/illust/1853_exh.jpeg"
+			},
+			"mxm": {
+				"level": 18,
+				"jacket_link": "/illust/1853_mxm.jpeg"
+			},
+			"date": "2022-12-08"
 		}
 	]
 }
