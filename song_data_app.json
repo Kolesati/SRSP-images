@@ -1,8 +1,8 @@
 {
 	"configs": [
 		{
-			"cnt": 1853,
-			"totalcnt": 6733
+			"cnt": 1880,
+			"totalcnt": 6841
 		}
 	],
 	"songs": [
@@ -38055,6 +38055,600 @@
 				"jacket_link": "/illust/1853_mxm.jpeg"
 			},
 			"date": "2022-12-08"
+		},
+		{
+			"num": 1854,
+			"title": "ИADIR",
+			"composer": "Ashrount vs polysha",
+			"nov": {
+				"level": 6,
+				"jacket_link": "/illust/1854_nov.jpeg"
+			},
+			"adv": {
+				"level": 13,
+				"jacket_link": "/illust/1854_adv.jpeg"
+			},
+			"exh": {
+				"level": 16,
+				"jacket_link": "/illust/1854_exh.jpeg"
+			},
+			"mxm": {
+				"level": 18,
+				"jacket_link": "/illust/1854_mxm.jpeg"
+			},
+			"date": "2022-12-15"
+		},
+		{
+			"num": 1855,
+			"title": "ENDGAME",
+			"composer": "Yuta Imai",
+			"nov": {
+				"level": 6,
+				"jacket_link": "/illust/1855_nov.jpeg"
+			},
+			"adv": {
+				"level": 13,
+				"jacket_link": "/illust/1855_adv.jpeg"
+			},
+			"exh": {
+				"level": 16,
+				"jacket_link": "/illust/1855_exh.jpeg"
+			},
+			"mxm": {
+				"level": 18,
+				"jacket_link": "/illust/1855_mxm.jpeg"
+			},
+			"date": "2022-12-15"
+		},
+		{
+			"num": 1856,
+			"title": "MURASAME",
+			"composer": "Hommarju",
+			"nov": {
+				"level": 6,
+				"jacket_link": "/illust/1856_nov.jpeg"
+			},
+			"adv": {
+				"level": 11,
+				"jacket_link": "/illust/1856_adv.jpeg"
+			},
+			"exh": {
+				"level": 16,
+				"jacket_link": "/illust/1856_exh.jpeg"
+			},
+			"mxm": {
+				"level": 18,
+				"jacket_link": "/illust/1856_mxm.jpeg"
+			},
+			"date": "2022-12-22"
+		},
+		{
+			"num": 1857,
+			"title": "シル・ヴ・プレジデント",
+			"composer": "P丸様。",
+			"nov": {
+				"level": 2,
+				"jacket_link": "/illust/1857_nov.jpeg"
+			},
+			"adv": {
+				"level": 10,
+				"jacket_link": "/illust/1857_adv.jpeg"
+			},
+			"exh": {
+				"level": 14,
+				"jacket_link": "/illust/1857_exh.jpeg"
+			},
+			"mxm": {
+				"level": 17,
+				"jacket_link": "/illust/1857_mxm.jpeg"
+			},
+			"date": "2022-12-22"
+		},
+		{
+			"num": 1858,
+			"title": "graduation",
+			"composer": "星野音楽工房",
+			"nov": {
+				"level": 6,
+				"jacket_link": "/illust/1858_nov.jpeg"
+			},
+			"adv": {
+				"level": 13,
+				"jacket_link": "/illust/1858_adv.jpeg"
+			},
+			"exh": {
+				"level": 16,
+				"jacket_link": "/illust/1858_exh.jpeg"
+			},
+			"mxm": {
+				"level": 18,
+				"jacket_link": "/illust/1858_mxm.jpeg"
+			},
+			"date": "2022-12-22"
+		},
+		{
+			"num": 1859,
+			"title": "Ice Fortress",
+			"composer": "荒谷サトル",
+			"nov": {
+				"level": 6,
+				"jacket_link": "/illust/1859_nov.jpeg"
+			},
+			"adv": {
+				"level": 12,
+				"jacket_link": "/illust/1859_adv.jpeg"
+			},
+			"exh": {
+				"level": 15,
+				"jacket_link": "/illust/1859_exh.jpeg"
+			},
+			"mxm": {
+				"level": 18,
+				"jacket_link": "/illust/1859_mxm.jpeg"
+			},
+			"date": "2022-12-22"
+		},
+		{
+			"num": 1860,
+			"title": "Scat Jazz Dance",
+			"composer": "Super Shrimp",
+			"nov": {
+				"level": 5,
+				"jacket_link": "/illust/1860_nov.jpeg"
+			},
+			"adv": {
+				"level": 12,
+				"jacket_link": "/illust/1860_adv.jpeg"
+			},
+			"exh": {
+				"level": 16,
+				"jacket_link": "/illust/1860_exh.jpeg"
+			},
+			"mxm": {
+				"level": 18,
+				"jacket_link": "/illust/1860_mxm.jpeg"
+			},
+			"date": "2022-12-29"
+		},
+		{
+			"num": 1861,
+			"title": "Initiating League",
+			"composer": "EmoCosine vs. nora2r",
+			"nov": {
+				"level": 6,
+				"jacket_link": "/illust/1861_nov.jpeg"
+			},
+			"adv": {
+				"level": 13,
+				"jacket_link": "/illust/1861_adv.jpeg"
+			},
+			"exh": {
+				"level": 16,
+				"jacket_link": "/illust/1861_exh.jpeg"
+			},
+			"mxm": {
+				"level": 18,
+				"jacket_link": "/illust/1861_mxm.jpeg"
+			},
+			"date": "2022-12-29"
+		},
+		{
+			"num": 1862,
+			"title": "灼ナル刃、破カヰ譜",
+			"composer": "Symholic feat.狛茉璃奈",
+			"nov": {
+				"level": 6,
+				"jacket_link": "/illust/1862_nov.jpeg"
+			},
+			"adv": {
+				"level": 12,
+				"jacket_link": "/illust/1862_adv.jpeg"
+			},
+			"exh": {
+				"level": 15,
+				"jacket_link": "/illust/1862_exh.jpeg"
+			},
+			"mxm": {
+				"level": 18,
+				"jacket_link": "/illust/1862_mxm.jpeg"
+			},
+			"date": "2023-01-05"
+		},
+		{
+			"num": 1863,
+			"title": "最果ての勇者にラブソングを",
+			"composer": "deli.+駄々子",
+			"nov": {
+				"level": 6,
+				"jacket_link": "/illust/1863_nov.jpeg"
+			},
+			"adv": {
+				"level": 13,
+				"jacket_link": "/illust/1863_adv.jpeg"
+			},
+			"exh": {
+				"level": 16,
+				"jacket_link": "/illust/1863_exh.jpeg"
+			},
+			"mxm": {
+				"level": 18,
+				"jacket_link": "/illust/1863_mxm.jpeg"
+			},
+			"date": "2023-01-05"
+		},
+		{
+			"num": 1864,
+			"title": "Petit espoir",
+			"composer": "しーけー",
+			"nov": {
+				"level": 6,
+				"jacket_link": "/illust/1864_nov.jpeg"
+			},
+			"adv": {
+				"level": 13,
+				"jacket_link": "/illust/1864_adv.jpeg"
+			},
+			"exh": {
+				"level": 16,
+				"jacket_link": "/illust/1864_exh.jpeg"
+			},
+			"mxm": {
+				"level": 18,
+				"jacket_link": "/illust/1864_mxm.jpeg"
+			},
+			"date": "2023-01-12"
+		},
+		{
+			"num": 1865,
+			"title": "Fl0ating:",
+			"composer": "yuichi NAGAO",
+			"nov": {
+				"level": 6,
+				"jacket_link": "/illust/1865_nov.jpeg"
+			},
+			"adv": {
+				"level": 12,
+				"jacket_link": "/illust/1865_adv.jpeg"
+			},
+			"exh": {
+				"level": 15,
+				"jacket_link": "/illust/1865_exh.jpeg"
+			},
+			"mxm": {
+				"level": 18,
+				"jacket_link": "/illust/1865_mxm.jpeg"
+			},
+			"date": "2023-01-12"
+		},
+		{
+			"num": 1866,
+			"title": "Paradigm Shift",
+			"composer": "あまみ×ひなみ",
+			"nov": {
+				"level": 6,
+				"jacket_link": "/illust/1866_nov.jpeg"
+			},
+			"adv": {
+				"level": 13,
+				"jacket_link": "/illust/1866_adv.jpeg"
+			},
+			"exh": {
+				"level": 16,
+				"jacket_link": "/illust/1866_exh.jpeg"
+			},
+			"mxm": {
+				"level": 18,
+				"jacket_link": "/illust/1866_mxm.jpeg"
+			},
+			"date": "2023-01-19"
+		},
+		{
+			"num": 1867,
+			"title": "イグノアザーズ",
+			"composer": "U-ske feat. 安土桃",
+			"nov": {
+				"level": 6,
+				"jacket_link": "/illust/1867_nov.jpeg"
+			},
+			"adv": {
+				"level": 12,
+				"jacket_link": "/illust/1867_adv.jpeg"
+			},
+			"exh": {
+				"level": 15,
+				"jacket_link": "/illust/1867_exh.jpeg"
+			},
+			"mxm": {
+				"level": 18,
+				"jacket_link": "/illust/1867_mxm.jpeg"
+			},
+			"date": "2023-01-19"
+		},
+		{
+			"num": 1868,
+			"title": "trea→journey",
+			"composer": "CHUBAY",
+			"nov": {
+				"level": 6,
+				"jacket_link": "/illust/1868_nov.jpeg"
+			},
+			"adv": {
+				"level": 14,
+				"jacket_link": "/illust/1868_adv.jpeg"
+			},
+			"exh": {
+				"level": 16,
+				"jacket_link": "/illust/1868_exh.jpeg"
+			},
+			"mxm": {
+				"level": 18,
+				"jacket_link": "/illust/1868_mxm.jpeg"
+			},
+			"date": "2023-01-26"
+		},
+		{
+			"num": 1869,
+			"title": "Thousand Triggers",
+			"composer": "めと（Metomate）",
+			"nov": {
+				"level": 6,
+				"jacket_link": "/illust/1869_nov.jpeg"
+			},
+			"adv": {
+				"level": 13,
+				"jacket_link": "/illust/1869_adv.jpeg"
+			},
+			"exh": {
+				"level": 16,
+				"jacket_link": "/illust/1869_exh.jpeg"
+			},
+			"mxm": {
+				"level": 18,
+				"jacket_link": "/illust/1869_mxm.jpeg"
+			},
+			"date": "2023-01-26"
+		},
+		{
+			"num": 1870,
+			"title": "儚キ戀ノ幻想譚",
+			"composer": "まろん feat. あやぽんず＊ (森羅万象)",
+			"nov": {
+				"level": 5,
+				"jacket_link": "/illust/1870_nov.jpeg"
+			},
+			"adv": {
+				"level": 12,
+				"jacket_link": "/illust/1870_adv.jpeg"
+			},
+			"exh": {
+				"level": 15,
+				"jacket_link": "/illust/1870_exh.jpeg"
+			},
+			"mxm": {
+				"level": 18,
+				"jacket_link": "/illust/1870_mxm.jpeg"
+			},
+			"date": "2023-02-02"
+		},
+		{
+			"num": 1871,
+			"title": "恋愛＝精度×認識力",
+			"composer": "立秋 vs. BEMANI Sound Team \"L.E.D.-G\" feat.ちょこ＆ななひら",
+			"nov": {
+				"level": 7,
+				"jacket_link": "/illust/1871_nov.jpeg"
+			},
+			"adv": {
+				"level": 14,
+				"jacket_link": "/illust/1871_adv.jpeg"
+			},
+			"exh": {
+				"level": 17,
+				"jacket_link": "/illust/1871_exh.jpeg"
+			},
+			"mxm": {
+				"level": 19,
+				"jacket_link": "/illust/1871_mxm.jpeg"
+			},
+			"date": "2023-02-02"
+		},
+		{
+			"num": 1872,
+			"title": "禊",
+			"composer": "Nhato",
+			"nov": {
+				"level": 6,
+				"jacket_link": "/illust/1872_nov.jpeg"
+			},
+			"adv": {
+				"level": 13,
+				"jacket_link": "/illust/1872_adv.jpeg"
+			},
+			"exh": {
+				"level": 16,
+				"jacket_link": "/illust/1872_exh.jpeg"
+			},
+			"mxm": {
+				"level": 18,
+				"jacket_link": "/illust/1872_mxm.jpeg"
+			},
+			"date": "2023-02-02"
+		},
+		{
+			"num": 1873,
+			"title": "MILITARY R04D",
+			"composer": "Enterskip",
+			"nov": {
+				"level": 7,
+				"jacket_link": "/illust/1873_nov.jpeg"
+			},
+			"adv": {
+				"level": 14,
+				"jacket_link": "/illust/1873_adv.jpeg"
+			},
+			"exh": {
+				"level": 17,
+				"jacket_link": "/illust/1873_exh.jpeg"
+			},
+			"mxm": {
+				"level": 19,
+				"jacket_link": "/illust/1873_mxm.jpeg"
+			},
+			"date": "2023-02-09"
+		},
+		{
+			"num": 1874,
+			"title": "DEUX EX MĀXHINĀ",
+			"composer": "Ashrount",
+			"nov": {
+				"level": 7,
+				"jacket_link": "/illust/1874_nov.jpeg"
+			},
+			"adv": {
+				"level": 14,
+				"jacket_link": "/illust/1874_adv.jpeg"
+			},
+			"exh": {
+				"level": 17,
+				"jacket_link": "/illust/1874_exh.jpeg"
+			},
+			"mxm": {
+				"level": 19,
+				"jacket_link": "/illust/1874_mxm.jpeg"
+			},
+			"date": "2023-02-16"
+		},
+		{
+			"num": 1875,
+			"title": "Tickled Pink",
+			"composer": "BEMANI Sound Team \"ZAQUVA\"",
+			"nov": {
+				"level": 6,
+				"jacket_link": "/illust/1875_nov.jpeg"
+			},
+			"adv": {
+				"level": 13,
+				"jacket_link": "/illust/1875_adv.jpeg"
+			},
+			"exh": {
+				"level": 16,
+				"jacket_link": "/illust/1875_exh.jpeg"
+			},
+			"mxm": {
+				"level": 18,
+				"jacket_link": "/illust/1875_mxm.jpeg"
+			},
+			"date": "2023-02-16"
+		},
+		{
+			"num": 1876,
+			"title": "All We Need is HAPPY END!!!",
+			"composer": "polysha",
+			"nov": {
+				"level": 7,
+				"jacket_link": "/illust/1876_nov.jpeg"
+			},
+			"adv": {
+				"level": 14,
+				"jacket_link": "/illust/1876_adv.jpeg"
+			},
+			"exh": {
+				"level": 17,
+				"jacket_link": "/illust/1876_exh.jpeg"
+			},
+			"mxm": {
+				"level": 19,
+				"jacket_link": "/illust/1876_mxm.jpeg"
+			},
+			"date": "2023-02-23"
+		},
+		{
+			"num": 1877,
+			"title": "Glory of Fighters",
+			"composer": "RoughSkreamZ",
+			"nov": {
+				"level": 7,
+				"jacket_link": "/illust/1877_nov.jpeg"
+			},
+			"adv": {
+				"level": 14,
+				"jacket_link": "/illust/1877_adv.jpeg"
+			},
+			"exh": {
+				"level": 17,
+				"jacket_link": "/illust/1877_exh.jpeg"
+			},
+			"mxm": {
+				"level": 19,
+				"jacket_link": "/illust/1877_mxm.jpeg"
+			},
+			"date": "2023-03-02"
+		},
+		{
+			"num": 1878,
+			"title": "フォニイ",
+			"composer": "ツミキ feat.可不",
+			"nov": {
+				"level": 3,
+				"jacket_link": "/illust/1878_nov.jpeg"
+			},
+			"adv": {
+				"level": 11,
+				"jacket_link": "/illust/1878_adv.jpeg"
+			},
+			"exh": {
+				"level": 14,
+				"jacket_link": "/illust/1878_exh.jpeg"
+			},
+			"mxm": {
+				"level": 17,
+				"jacket_link": "/illust/1878_mxm.jpeg"
+			},
+			"date": "2023-03-09"
+		},
+		{
+			"num": 1879,
+			"title": "食虫植物",
+			"composer": "理芽",
+			"nov": {
+				"level": 2,
+				"jacket_link": "/illust/1879_nov.jpeg"
+			},
+			"adv": {
+				"level": 10,
+				"jacket_link": "/illust/1879_adv.jpeg"
+			},
+			"exh": {
+				"level": 13,
+				"jacket_link": "/illust/1879_exh.jpeg"
+			},
+			"mxm": {
+				"level": 16,
+				"jacket_link": "/illust/1879_mxm.jpeg"
+			},
+			"date": "2023-03-09"
+		},
+		{
+			"num": 1880,
+			"title": "過去を喰らう",
+			"composer": "花譜",
+			"nov": {
+				"level": 4,
+				"jacket_link": "/illust/1880_nov.jpeg"
+			},
+			"adv": {
+				"level": 12,
+				"jacket_link": "/illust/1880_adv.jpeg"
+			},
+			"exh": {
+				"level": 15,
+				"jacket_link": "/illust/1880_exh.jpeg"
+			},
+			"mxm": {
+				"level": 18,
+				"jacket_link": "/illust/1880_mxm.jpeg"
+			},
+			"date": "2023-03-09"
 		}
 	]
 }
