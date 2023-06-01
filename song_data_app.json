@@ -1,8 +1,8 @@
 {
 	"configs": [
 		{
-			"cnt": 1880,
-			"totalcnt": 6841
+			"cnt": 1917,
+			"totalcnt": 6989
 		}
 	],
 	"songs": [
@@ -38649,6 +38649,820 @@
 				"jacket_link": "/illust/1880_mxm.jpeg"
 			},
 			"date": "2023-03-09"
+		},
+		{
+			"num": 1881,
+			"title": "少年リップルズ",
+			"composer": "常盤ゆう",
+			"nov": {
+				"level": 6,
+				"jacket_link": "/illust/1881_nov.jpeg"
+			},
+			"adv": {
+				"level": 13,
+				"jacket_link": "/illust/1881_adv.jpeg"
+			},
+			"exh": {
+				"level": 16,
+				"jacket_link": "/illust/1881_exh.jpeg"
+			},
+			"mxm": {
+				"level": 18,
+				"jacket_link": "/illust/1881_mxm.jpeg"
+			},
+			"date": "2023-03-16"
+		},
+		{
+			"num": 1882,
+			"title": "[E]",
+			"composer": "dj MAX STEROID",
+			"nov": {
+				"level": 5,
+				"jacket_link": "/illust/1882_nov.jpeg"
+			},
+			"adv": {
+				"level": 11,
+				"jacket_link": "/illust/1882_adv.jpeg"
+			},
+			"exh": {
+				"level": 14,
+				"jacket_link": "/illust/1882_exh.jpeg"
+			},
+			"mxm": {
+				"level": 17,
+				"jacket_link": "/illust/1882_mxm.jpeg"
+			},
+			"date": "2023-03-16"
+		},
+		{
+			"num": 1883,
+			"title": "Welcome to the Mosh Pit",
+			"composer": "lapix",
+			"nov": {
+				"level": 5,
+				"jacket_link": "/illust/1883_nov.jpeg"
+			},
+			"adv": {
+				"level": 12,
+				"jacket_link": "/illust/1883_adv.jpeg"
+			},
+			"exh": {
+				"level": 15,
+				"jacket_link": "/illust/1883_exh.jpeg"
+			},
+			"mxm": {
+				"level": 18,
+				"jacket_link": "/illust/1883_mxm.jpeg"
+			},
+			"date": "2023-03-16"
+		},
+		{
+			"num": 1884,
+			"title": "アガット",
+			"composer": "Bazole",
+			"nov": {
+				"level": 6,
+				"jacket_link": "/illust/1884_nov.jpeg"
+			},
+			"adv": {
+				"level": 13,
+				"jacket_link": "/illust/1884_adv.jpeg"
+			},
+			"exh": {
+				"level": 16,
+				"jacket_link": "/illust/1884_exh.jpeg"
+			},
+			"mxm": {
+				"level": 18,
+				"jacket_link": "/illust/1884_mxm.jpeg"
+			},
+			"date": "2023-03-16"
+		},
+		{
+			"num": 1885,
+			"title": "零天視",
+			"composer": "隣の庭は青い(庭師+Aoi)",
+			"nov": {
+				"level": 6,
+				"jacket_link": "/illust/1885_nov.jpeg"
+			},
+			"adv": {
+				"level": 13,
+				"jacket_link": "/illust/1885_adv.jpeg"
+			},
+			"exh": {
+				"level": 16,
+				"jacket_link": "/illust/1885_exh.jpeg"
+			},
+			"mxm": {
+				"level": 18,
+				"jacket_link": "/illust/1885_mxm.jpeg"
+			},
+			"date": "2023-03-30"
+		},
+		{
+			"num": 1886,
+			"title": "HALO",
+			"composer": "Tatsunoshin",
+			"nov": {
+				"level": 7,
+				"jacket_link": "/illust/1886_nov.jpeg"
+			},
+			"adv": {
+				"level": 14,
+				"jacket_link": "/illust/1886_adv.jpeg"
+			},
+			"exh": {
+				"level": 17,
+				"jacket_link": "/illust/1886_exh.jpeg"
+			},
+			"mxm": {
+				"level": 19,
+				"jacket_link": "/illust/1886_mxm.jpeg"
+			},
+			"date": "2023-03-30"
+		},
+		{
+			"num": 1887,
+			"title": "Brave Power Leader 《 = Voltage = 》",
+			"composer": "概念",
+			"nov": {
+				"level": 6,
+				"jacket_link": "/illust/1887_nov.jpeg"
+			},
+			"adv": {
+				"level": 13,
+				"jacket_link": "/illust/1887_adv.jpeg"
+			},
+			"exh": {
+				"level": 16,
+				"jacket_link": "/illust/1887_exh.jpeg"
+			},
+			"mxm": {
+				"level": 18,
+				"jacket_link": "/illust/1887_mxm.jpeg"
+			},
+			"date": "2023-03-30"
+		},
+		{
+			"num": 1888,
+			"title": "ステラ・イミグレーション",
+			"composer": "後藤 feat. リリカ",
+			"nov": {
+				"level": 5,
+				"jacket_link": "/illust/1888_nov.jpeg"
+			},
+			"adv": {
+				"level": 12,
+				"jacket_link": "/illust/1888_adv.jpeg"
+			},
+			"exh": {
+				"level": 15,
+				"jacket_link": "/illust/1888_exh.jpeg"
+			},
+			"mxm": {
+				"level": 17,
+				"jacket_link": "/illust/1888_mxm.jpeg"
+			},
+			"date": "2023-03-30"
+		},
+		{
+			"num": 1889,
+			"title": "S(TAR)²☆pistol",
+			"composer": "Mono.",
+			"nov": {
+				"level": 6,
+				"jacket_link": "/illust/1889_nov.jpeg"
+			},
+			"adv": {
+				"level": 13,
+				"jacket_link": "/illust/1889_adv.jpeg"
+			},
+			"exh": {
+				"level": 16,
+				"jacket_link": "/illust/1889_exh.jpeg"
+			},
+			"mxm": {
+				"level": 18,
+				"jacket_link": "/illust/1889_mxm.jpeg"
+			},
+			"date": "2023-03-30"
+		},
+		{
+			"num": 1890,
+			"title": "SuddeИDeath",
+			"composer": "xi vs. モリモリあつし",
+			"nov": {
+				"level": 8,
+				"jacket_link": "/illust/1890_nov.jpeg"
+			},
+			"adv": {
+				"level": 15,
+				"jacket_link": "/illust/1890_adv.jpeg"
+			},
+			"exh": {
+				"level": 18,
+				"jacket_link": "/illust/1890_exh.jpeg"
+			},
+			"mxm": {
+				"level": 20,
+				"jacket_link": "/illust/1890_mxm.jpeg"
+			},
+			"date": "2023-03-30"
+		},
+		{
+			"num": 1891,
+			"title": "Garland",
+			"composer": "ミハイル + K.key",
+			"nov": {
+				"level": 6,
+				"jacket_link": "/illust/1891_nov.jpeg"
+			},
+			"adv": {
+				"level": 12,
+				"jacket_link": "/illust/1891_adv.jpeg"
+			},
+			"exh": {
+				"level": 15,
+				"jacket_link": "/illust/1891_exh.jpeg"
+			},
+			"mxm": {
+				"level": 18,
+				"jacket_link": "/illust/1891_mxm.jpeg"
+			},
+			"date": "2023-03-30"
+		},
+		{
+			"num": 1892,
+			"title": "CUDDLIE CUDDLIE",
+			"composer": "ゆんゆん",
+			"nov": {
+				"level": 5,
+				"jacket_link": "/illust/1892_nov.jpeg"
+			},
+			"adv": {
+				"level": 12,
+				"jacket_link": "/illust/1892_adv.jpeg"
+			},
+			"exh": {
+				"level": 15,
+				"jacket_link": "/illust/1892_exh.jpeg"
+			},
+			"mxm": {
+				"level": 17,
+				"jacket_link": "/illust/1892_mxm.jpeg"
+			},
+			"date": "2023-03-30"
+		},
+		{
+			"num": 1893,
+			"title": "赫焉のヴァルキュリア -Ragnarøk-",
+			"composer": "ryhki",
+			"nov": {
+				"level": 7,
+				"jacket_link": "/illust/1893_nov.jpeg"
+			},
+			"adv": {
+				"level": 14,
+				"jacket_link": "/illust/1893_adv.jpeg"
+			},
+			"exh": {
+				"level": 17,
+				"jacket_link": "/illust/1893_exh.jpeg"
+			},
+			"mxm": {
+				"level": 19,
+				"jacket_link": "/illust/1893_mxm.jpeg"
+			},
+			"date": "2023-03-30"
+		},
+		{
+			"num": 1894,
+			"title": "リリーゼと炎龍レーヴァテイン",
+			"composer": "黒猫ダンジョン",
+			"nov": {
+				"level": 6,
+				"jacket_link": "/illust/1894_nov.jpeg"
+			},
+			"adv": {
+				"level": 13,
+				"jacket_link": "/illust/1894_adv.jpeg"
+			},
+			"exh": {
+				"level": 16,
+				"jacket_link": "/illust/1894_exh.jpeg"
+			},
+			"mxm": {
+				"level": 18,
+				"jacket_link": "/illust/1894_mxm.jpeg"
+			},
+			"date": "2023-04-13"
+		},
+		{
+			"num": 1895,
+			"title": "Black or Red?",
+			"composer": "コスモドライバー  join. shully & Nimo",
+			"nov": {
+				"level": 5,
+				"jacket_link": "/illust/1895_nov.jpeg"
+			},
+			"adv": {
+				"level": 12,
+				"jacket_link": "/illust/1895_adv.jpeg"
+			},
+			"exh": {
+				"level": 15,
+				"jacket_link": "/illust/1895_exh.jpeg"
+			},
+			"mxm": {
+				"level": 17,
+				"jacket_link": "/illust/1895_mxm.jpeg"
+			},
+			"date": "2023-04-13"
+		},
+		{
+			"num": 1896,
+			"title": "FUJIMORI -祭- FESTIVAL",
+			"composer": "VENUS",
+			"nov": {
+				"level": 3,
+				"jacket_link": "/illust/1896_nov.jpeg"
+			},
+			"adv": {
+				"level": 11,
+				"jacket_link": "/illust/1896_adv.jpeg"
+			},
+			"exh": {
+				"level": 14,
+				"jacket_link": "/illust/1896_exh.jpeg"
+			},
+			"mxm": {
+				"level": 17,
+				"jacket_link": "/illust/1896_mxm.jpeg"
+			},
+			"date": "2023-04-13"
+		},
+		{
+			"num": 1897,
+			"title": "quaver♪",
+			"composer": "Risk Junk",
+			"nov": {
+				"level": 6,
+				"jacket_link": "/illust/1897_nov.jpeg"
+			},
+			"adv": {
+				"level": 13,
+				"jacket_link": "/illust/1897_adv.jpeg"
+			},
+			"exh": {
+				"level": 16,
+				"jacket_link": "/illust/1897_exh.jpeg"
+			},
+			"mxm": {
+				"level": 18,
+				"jacket_link": "/illust/1897_mxm.jpeg"
+			},
+			"date": "2023-04-13"
+		},
+		{
+			"num": 1898,
+			"title": "Aerial Skydive",
+			"composer": "Dirty Androids",
+			"nov": {
+				"level": 5,
+				"jacket_link": "/illust/1898_nov.jpeg"
+			},
+			"adv": {
+				"level": 12,
+				"jacket_link": "/illust/1898_adv.jpeg"
+			},
+			"exh": {
+				"level": 15,
+				"jacket_link": "/illust/1898_exh.jpeg"
+			},
+			"mxm": {
+				"level": 17,
+				"jacket_link": "/illust/1898_mxm.jpeg"
+			},
+			"date": "2023-04-13"
+		},
+		{
+			"num": 1899,
+			"title": "Blossom",
+			"composer": "Synthion",
+			"nov": {
+				"level": 5,
+				"jacket_link": "/illust/1899_nov.jpeg"
+			},
+			"adv": {
+				"level": 12,
+				"jacket_link": "/illust/1899_adv.jpeg"
+			},
+			"exh": {
+				"level": 16,
+				"jacket_link": "/illust/1899_exh.jpeg"
+			},
+			"mxm": {
+				"level": 18,
+				"jacket_link": "/illust/1899_mxm.jpeg"
+			},
+			"date": "2023-04-27"
+		},
+		{
+			"num": 1900,
+			"title": "ヒバナ-Reloaded-",
+			"composer": "DECO*27",
+			"nov": {
+				"level": 2,
+				"jacket_link": "/illust/1900_nov.jpeg"
+			},
+			"adv": {
+				"level": 11,
+				"jacket_link": "/illust/1900_adv.jpeg"
+			},
+			"exh": {
+				"level": 14,
+				"jacket_link": "/illust/1900_exh.jpeg"
+			},
+			"mxm": {
+				"level": 17,
+				"jacket_link": "/illust/1900_mxm.jpeg"
+			},
+			"date": "2023-04-27"
+		},
+		{
+			"num": 1901,
+			"title": "Hello, Hologram",
+			"composer": "HIMEHINA",
+			"nov": {
+				"level": 4,
+				"jacket_link": "/illust/1901_nov.jpeg"
+			},
+			"adv": {
+				"level": 12,
+				"jacket_link": "/illust/1901_adv.jpeg"
+			},
+			"exh": {
+				"level": 15,
+				"jacket_link": "/illust/1901_exh.jpeg"
+			},
+			"mxm": {
+				"level": 18,
+				"jacket_link": "/illust/1901_mxm.jpeg"
+			},
+			"date": "2023-04-27"
+		},
+		{
+			"num": 1902,
+			"title": "Distorted Floor -Boosted-",
+			"composer": "M-UE vs. siromaru",
+			"nov": {
+				"level": 6,
+				"jacket_link": "/illust/1902_nov.jpeg"
+			},
+			"adv": {
+				"level": 13,
+				"jacket_link": "/illust/1902_adv.jpeg"
+			},
+			"exh": {
+				"level": 16,
+				"jacket_link": "/illust/1902_exh.jpeg"
+			},
+			"mxm": {
+				"level": 18,
+				"jacket_link": "/illust/1902_mxm.jpeg"
+			},
+			"date": "2023-04-27"
+		},
+		{
+			"num": 1903,
+			"title": "Chocolate Planet (いるちょこRemix)",
+			"composer": "irucaice feat. ちょこ",
+			"nov": {
+				"level": 5,
+				"jacket_link": "/illust/1903_nov.jpeg"
+			},
+			"adv": {
+				"level": 12,
+				"jacket_link": "/illust/1903_adv.jpeg"
+			},
+			"exh": {
+				"level": 15,
+				"jacket_link": "/illust/1903_exh.jpeg"
+			},
+			"mxm": {
+				"level": 17,
+				"jacket_link": "/illust/1903_mxm.jpeg"
+			},
+			"date": "2023-04-27"
+		},
+		{
+			"num": 1904,
+			"title": "チェイスチェイスジョーカーズのうた",
+			"composer": "カギコ&チノン（CV:金元寿子&大空直美）",
+			"nov": {
+				"level": 4,
+				"jacket_link": "/illust/1904_nov.jpeg"
+			},
+			"adv": {
+				"level": 11,
+				"jacket_link": "/illust/1904_adv.jpeg"
+			},
+			"exh": {
+				"level": 14,
+				"jacket_link": "/illust/1904_exh.jpeg"
+			},
+			"mxm": {
+				"level": 17,
+				"jacket_link": "/illust/1904_mxm.jpeg"
+			},
+			"date": "2023-04-27"
+		},
+		{
+			"num": 1905,
+			"title": "WWW",
+			"composer": "HIMEHINA",
+			"nov": {
+				"level": 3,
+				"jacket_link": "/illust/1905_nov.jpeg"
+			},
+			"adv": {
+				"level": 10,
+				"jacket_link": "/illust/1905_adv.jpeg"
+			},
+			"exh": {
+				"level": 14,
+				"jacket_link": "/illust/1905_exh.jpeg"
+			},
+			"mxm": {
+				"level": 17,
+				"jacket_link": "/illust/1905_mxm.jpeg"
+			},
+			"date": "2023-04-27"
+		},
+		{
+			"num": 1906,
+			"title": "Zero-Day Exploit(One-Day Fusion Mix)",
+			"composer": "庭師",
+			"nov": {
+				"level": 6,
+				"jacket_link": "/illust/1906_nov.jpeg"
+			},
+			"adv": {
+				"level": 12,
+				"jacket_link": "/illust/1906_adv.jpeg"
+			},
+			"exh": {
+				"level": 15,
+				"jacket_link": "/illust/1906_exh.jpeg"
+			},
+			"mxm": {
+				"level": 18,
+				"jacket_link": "/illust/1906_mxm.jpeg"
+			},
+			"date": "2023-04-27"
+		},
+		{
+			"num": 1907,
+			"title": "ENERGY SYNERGY MATRIX",
+			"composer": "Tanchiky",
+			"nov": {
+				"level": 5,
+				"jacket_link": "/illust/1907_nov.jpeg"
+			},
+			"adv": {
+				"level": 12,
+				"jacket_link": "/illust/1907_adv.jpeg"
+			},
+			"exh": {
+				"level": 16,
+				"jacket_link": "/illust/1907_exh.jpeg"
+			},
+			"mxm": {
+				"level": 18,
+				"jacket_link": "/illust/1907_mxm.jpeg"
+			},
+			"date": "2023-04-27"
+		},
+		{
+			"num": 1908,
+			"title": "いでぃおで結構！",
+			"composer": "諸星なな feat.加藤はるか",
+			"nov": {
+				"level": 4,
+				"jacket_link": "/illust/1908_nov.jpeg"
+			},
+			"adv": {
+				"level": 12,
+				"jacket_link": "/illust/1908_adv.jpeg"
+			},
+			"exh": {
+				"level": 14,
+				"jacket_link": "/illust/1908_exh.jpeg"
+			},
+			"mxm": {
+				"level": 17,
+				"jacket_link": "/illust/1908_mxm.jpeg"
+			},
+			"date": "2023-04-27"
+		},
+		{
+			"num": 1909,
+			"title": "アルファ・スカイ",
+			"composer": "みーに feat. しろさきあや",
+			"nov": {
+				"level": 4,
+				"jacket_link": "/illust/1909_nov.jpeg"
+			},
+			"adv": {
+				"level": 13,
+				"jacket_link": "/illust/1909_adv.jpeg"
+			},
+			"exh": {
+				"level": 15,
+				"jacket_link": "/illust/1909_exh.jpeg"
+			},
+			"mxm": {
+				"level": 17,
+				"jacket_link": "/illust/1909_mxm.jpeg"
+			},
+			"date": "2023-04-27"
+		},
+		{
+			"num": 1910,
+			"title": "Lost Emotion feat. nomico",
+			"composer": "Alstroemeria Records",
+			"nov": {
+				"level": 3,
+				"jacket_link": "/illust/1910_nov.jpeg"
+			},
+			"adv": {
+				"level": 11,
+				"jacket_link": "/illust/1910_adv.jpeg"
+			},
+			"exh": {
+				"level": 14,
+				"jacket_link": "/illust/1910_exh.jpeg"
+			},
+			"mxm": {
+				"level": 17,
+				"jacket_link": "/illust/1910_mxm.jpeg"
+			},
+			"date": "2023-05-18"
+		},
+		{
+			"num": 1911,
+			"title": "無意識レクイエム",
+			"composer": "森羅万象",
+			"nov": {
+				"level": 4,
+				"jacket_link": "/illust/1911_nov.jpeg"
+			},
+			"adv": {
+				"level": 12,
+				"jacket_link": "/illust/1911_adv.jpeg"
+			},
+			"exh": {
+				"level": 15,
+				"jacket_link": "/illust/1911_exh.jpeg"
+			},
+			"mxm": {
+				"level": 17,
+				"jacket_link": "/illust/1911_mxm.jpeg"
+			},
+			"date": "2023-05-18"
+		},
+		{
+			"num": 1912,
+			"title": "マツヨイナイトバグ",
+			"composer": "ビートまりおとまろん",
+			"nov": {
+				"level": 5,
+				"jacket_link": "/illust/1912_nov.jpeg"
+			},
+			"adv": {
+				"level": 13,
+				"jacket_link": "/illust/1912_adv.jpeg"
+			},
+			"exh": {
+				"level": 16,
+				"jacket_link": "/illust/1912_exh.jpeg"
+			},
+			"mxm": {
+				"level": 18,
+				"jacket_link": "/illust/1912_mxm.jpeg"
+			},
+			"date": "2023-05-18"
+		},
+		{
+			"num": 1913,
+			"title": "無意識レクイエム (cosmobsp rmx)",
+			"composer": "cosMo＠暴走P (original arranged by 森羅万象)",
+			"nov": {
+				"level": 6,
+				"jacket_link": "/illust/1913_nov.jpeg"
+			},
+			"adv": {
+				"level": 14,
+				"jacket_link": "/illust/1913_adv.jpeg"
+			},
+			"exh": {
+				"level": 16,
+				"jacket_link": "/illust/1913_exh.jpeg"
+			},
+			"mxm": {
+				"level": 19,
+				"jacket_link": "/illust/1913_mxm.jpeg"
+			},
+			"date": "2023-05-18"
+		},
+		{
+			"num": 1914,
+			"title": "For.*tune",
+			"composer": "Capchii × low meow × Uzumaki",
+			"nov": {
+				"level": 5,
+				"jacket_link": "/illust/1914_nov.jpeg"
+			},
+			"adv": {
+				"level": 11,
+				"jacket_link": "/illust/1914_adv.jpeg"
+			},
+			"exh": {
+				"level": 14,
+				"jacket_link": "/illust/1914_exh.jpeg"
+			},
+			"mxm": {
+				"level": 17,
+				"jacket_link": "/illust/1914_mxm.jpeg"
+			},
+			"date": "2023-06-01"
+		},
+		{
+			"num": 1915,
+			"title": "天穹のアルカナビット",
+			"composer": "打打だいず + Tanchiky + siromaru",
+			"nov": {
+				"level": 6,
+				"jacket_link": "/illust/1915_nov.jpeg"
+			},
+			"adv": {
+				"level": 13,
+				"jacket_link": "/illust/1915_adv.jpeg"
+			},
+			"exh": {
+				"level": 16,
+				"jacket_link": "/illust/1915_exh.jpeg"
+			},
+			"mxm": {
+				"level": 18,
+				"jacket_link": "/illust/1915_mxm.jpeg"
+			},
+			"date": "2023-06-01"
+		},
+		{
+			"num": 1916,
+			"title": "機械仕掛けの魔法使い",
+			"composer": "Tsubusare BOZZ feat.madoka*",
+			"nov": {
+				"level": 4,
+				"jacket_link": "/illust/1916_nov.jpeg"
+			},
+			"adv": {
+				"level": 11,
+				"jacket_link": "/illust/1916_adv.jpeg"
+			},
+			"exh": {
+				"level": 14,
+				"jacket_link": "/illust/1916_exh.jpeg"
+			},
+			"mxm": {
+				"level": 17,
+				"jacket_link": "/illust/1916_mxm.jpeg"
+			},
+			"date": "2023-06-01"
+		},
+		{
+			"num": 1917,
+			"title": "CadenzaMaiden",
+			"composer": "u-z feat.紫咲ほたる",
+			"nov": {
+				"level": 5,
+				"jacket_link": "/illust/1917_nov.jpeg"
+			},
+			"adv": {
+				"level": 12,
+				"jacket_link": "/illust/1917_adv.jpeg"
+			},
+			"exh": {
+				"level": 16,
+				"jacket_link": "/illust/1917_exh.jpeg"
+			},
+			"mxm": {
+				"level": 18,
+				"jacket_link": "/illust/1917_mxm.jpeg"
+			},
+			"date": "2023-06-01"
 		}
 	]
 }

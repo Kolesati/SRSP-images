@@ -835,6 +835,13 @@
 			"jacket_link": "/illust/1879_nov.jpeg",
 			"difficulty": "nov",
 			"date": "2023-03-09"
+		},
+		{
+			"title": "ヒバナ-Reloaded-",
+			"composer": "DECO*27",
+			"jacket_link": "/illust/1900_nov.jpeg",
+			"difficulty": "nov",
+			"date": "2023-04-27"
 		}
 	],
 	[
@@ -2475,6 +2482,27 @@
 			"jacket_link": "/illust/1878_nov.jpeg",
 			"difficulty": "nov",
 			"date": "2023-03-09"
+		},
+		{
+			"title": "FUJIMORI -祭- FESTIVAL",
+			"composer": "VENUS",
+			"jacket_link": "/illust/1896_nov.jpeg",
+			"difficulty": "nov",
+			"date": "2023-04-13"
+		},
+		{
+			"title": "WWW",
+			"composer": "HIMEHINA",
+			"jacket_link": "/illust/1905_nov.jpeg",
+			"difficulty": "nov",
+			"date": "2023-04-27"
+		},
+		{
+			"title": "Lost Emotion feat. nomico",
+			"composer": "Alstroemeria Records",
+			"jacket_link": "/illust/1910_nov.jpeg",
+			"difficulty": "nov",
+			"date": "2023-05-18"
 		}
 	],
 	[
@@ -5088,6 +5116,48 @@
 			"jacket_link": "/illust/1880_nov.jpeg",
 			"difficulty": "nov",
 			"date": "2023-03-09"
+		},
+		{
+			"title": "Hello, Hologram",
+			"composer": "HIMEHINA",
+			"jacket_link": "/illust/1901_nov.jpeg",
+			"difficulty": "nov",
+			"date": "2023-04-27"
+		},
+		{
+			"title": "チェイスチェイスジョーカーズのうた",
+			"composer": "カギコ&チノン（CV:金元寿子&大空直美）",
+			"jacket_link": "/illust/1904_nov.jpeg",
+			"difficulty": "nov",
+			"date": "2023-04-27"
+		},
+		{
+			"title": "いでぃおで結構！",
+			"composer": "諸星なな feat.加藤はるか",
+			"jacket_link": "/illust/1908_nov.jpeg",
+			"difficulty": "nov",
+			"date": "2023-04-27"
+		},
+		{
+			"title": "アルファ・スカイ",
+			"composer": "みーに feat. しろさきあや",
+			"jacket_link": "/illust/1909_nov.jpeg",
+			"difficulty": "nov",
+			"date": "2023-04-27"
+		},
+		{
+			"title": "無意識レクイエム",
+			"composer": "森羅万象",
+			"jacket_link": "/illust/1911_nov.jpeg",
+			"difficulty": "nov",
+			"date": "2023-05-18"
+		},
+		{
+			"title": "機械仕掛けの魔法使い",
+			"composer": "Tsubusare BOZZ feat.madoka*",
+			"jacket_link": "/illust/1916_nov.jpeg",
+			"difficulty": "nov",
+			"date": "2023-06-01"
 		}
 	],
 	[
@@ -8744,6 +8814,90 @@
 			"jacket_link": "/illust/1870_nov.jpeg",
 			"difficulty": "nov",
 			"date": "2023-02-02"
+		},
+		{
+			"title": "[E]",
+			"composer": "dj MAX STEROID",
+			"jacket_link": "/illust/1882_nov.jpeg",
+			"difficulty": "nov",
+			"date": "2023-03-16"
+		},
+		{
+			"title": "Welcome to the Mosh Pit",
+			"composer": "lapix",
+			"jacket_link": "/illust/1883_nov.jpeg",
+			"difficulty": "nov",
+			"date": "2023-03-16"
+		},
+		{
+			"title": "ステラ・イミグレーション",
+			"composer": "後藤 feat. リリカ",
+			"jacket_link": "/illust/1888_nov.jpeg",
+			"difficulty": "nov",
+			"date": "2023-03-30"
+		},
+		{
+			"title": "CUDDLIE CUDDLIE",
+			"composer": "ゆんゆん",
+			"jacket_link": "/illust/1892_nov.jpeg",
+			"difficulty": "nov",
+			"date": "2023-03-30"
+		},
+		{
+			"title": "Black or Red?",
+			"composer": "コスモドライバー  join. shully & Nimo",
+			"jacket_link": "/illust/1895_nov.jpeg",
+			"difficulty": "nov",
+			"date": "2023-04-13"
+		},
+		{
+			"title": "Aerial Skydive",
+			"composer": "Dirty Androids",
+			"jacket_link": "/illust/1898_nov.jpeg",
+			"difficulty": "nov",
+			"date": "2023-04-13"
+		},
+		{
+			"title": "Blossom",
+			"composer": "Synthion",
+			"jacket_link": "/illust/1899_nov.jpeg",
+			"difficulty": "nov",
+			"date": "2023-04-27"
+		},
+		{
+			"title": "Chocolate Planet (いるちょこRemix)",
+			"composer": "irucaice feat. ちょこ",
+			"jacket_link": "/illust/1903_nov.jpeg",
+			"difficulty": "nov",
+			"date": "2023-04-27"
+		},
+		{
+			"title": "ENERGY SYNERGY MATRIX",
+			"composer": "Tanchiky",
+			"jacket_link": "/illust/1907_nov.jpeg",
+			"difficulty": "nov",
+			"date": "2023-04-27"
+		},
+		{
+			"title": "マツヨイナイトバグ",
+			"composer": "ビートまりおとまろん",
+			"jacket_link": "/illust/1912_nov.jpeg",
+			"difficulty": "nov",
+			"date": "2023-05-18"
+		},
+		{
+			"title": "For.*tune",
+			"composer": "Capchii × low meow × Uzumaki",
+			"jacket_link": "/illust/1914_nov.jpeg",
+			"difficulty": "nov",
+			"date": "2023-06-01"
+		},
+		{
+			"title": "CadenzaMaiden",
+			"composer": "u-z feat.紫咲ほたる",
+			"jacket_link": "/illust/1917_nov.jpeg",
+			"difficulty": "nov",
+			"date": "2023-06-01"
 		}
 	],
 	[
@@ -12519,6 +12673,90 @@
 			"jacket_link": "/illust/1875_nov.jpeg",
 			"difficulty": "nov",
 			"date": "2023-02-16"
+		},
+		{
+			"title": "少年リップルズ",
+			"composer": "常盤ゆう",
+			"jacket_link": "/illust/1881_nov.jpeg",
+			"difficulty": "nov",
+			"date": "2023-03-16"
+		},
+		{
+			"title": "アガット",
+			"composer": "Bazole",
+			"jacket_link": "/illust/1884_nov.jpeg",
+			"difficulty": "nov",
+			"date": "2023-03-16"
+		},
+		{
+			"title": "零天視",
+			"composer": "隣の庭は青い(庭師+Aoi)",
+			"jacket_link": "/illust/1885_nov.jpeg",
+			"difficulty": "nov",
+			"date": "2023-03-30"
+		},
+		{
+			"title": "Brave Power Leader 《 = Voltage = 》",
+			"composer": "概念",
+			"jacket_link": "/illust/1887_nov.jpeg",
+			"difficulty": "nov",
+			"date": "2023-03-30"
+		},
+		{
+			"title": "S(TAR)²☆pistol",
+			"composer": "Mono.",
+			"jacket_link": "/illust/1889_nov.jpeg",
+			"difficulty": "nov",
+			"date": "2023-03-30"
+		},
+		{
+			"title": "Garland",
+			"composer": "ミハイル + K.key",
+			"jacket_link": "/illust/1891_nov.jpeg",
+			"difficulty": "nov",
+			"date": "2023-03-30"
+		},
+		{
+			"title": "リリーゼと炎龍レーヴァテイン",
+			"composer": "黒猫ダンジョン",
+			"jacket_link": "/illust/1894_nov.jpeg",
+			"difficulty": "nov",
+			"date": "2023-04-13"
+		},
+		{
+			"title": "quaver♪",
+			"composer": "Risk Junk",
+			"jacket_link": "/illust/1897_nov.jpeg",
+			"difficulty": "nov",
+			"date": "2023-04-13"
+		},
+		{
+			"title": "Distorted Floor -Boosted-",
+			"composer": "M-UE vs. siromaru",
+			"jacket_link": "/illust/1902_nov.jpeg",
+			"difficulty": "nov",
+			"date": "2023-04-27"
+		},
+		{
+			"title": "Zero-Day Exploit(One-Day Fusion Mix)",
+			"composer": "庭師",
+			"jacket_link": "/illust/1906_nov.jpeg",
+			"difficulty": "nov",
+			"date": "2023-04-27"
+		},
+		{
+			"title": "無意識レクイエム (cosmobsp rmx)",
+			"composer": "cosMo＠暴走P (original arranged by 森羅万象)",
+			"jacket_link": "/illust/1913_nov.jpeg",
+			"difficulty": "nov",
+			"date": "2023-05-18"
+		},
+		{
+			"title": "天穹のアルカナビット",
+			"composer": "打打だいず + Tanchiky + siromaru",
+			"jacket_link": "/illust/1915_nov.jpeg",
+			"difficulty": "nov",
+			"date": "2023-06-01"
 		}
 	],
 	[
@@ -13704,6 +13942,20 @@
 			"jacket_link": "/illust/1877_nov.jpeg",
 			"difficulty": "nov",
 			"date": "2023-03-02"
+		},
+		{
+			"title": "HALO",
+			"composer": "Tatsunoshin",
+			"jacket_link": "/illust/1886_nov.jpeg",
+			"difficulty": "nov",
+			"date": "2023-03-30"
+		},
+		{
+			"title": "赫焉のヴァルキュリア -Ragnarøk-",
+			"composer": "ryhki",
+			"jacket_link": "/illust/1893_nov.jpeg",
+			"difficulty": "nov",
+			"date": "2023-03-30"
 		}
 	],
 	[
@@ -14833,6 +15085,13 @@
 			"jacket_link": "/illust/1821_nov.jpeg",
 			"difficulty": "nov",
 			"date": "2022-08-18"
+		},
+		{
+			"title": "SuddeИDeath",
+			"composer": "xi vs. モリモリあつし",
+			"jacket_link": "/illust/1890_nov.jpeg",
+			"difficulty": "nov",
+			"date": "2023-03-30"
 		}
 	],
 	[
@@ -18617,6 +18876,13 @@
 			"jacket_link": "/illust/1879_adv.jpeg",
 			"difficulty": "adv",
 			"date": "2023-03-09"
+		},
+		{
+			"title": "WWW",
+			"composer": "HIMEHINA",
+			"jacket_link": "/illust/1905_adv.jpeg",
+			"difficulty": "adv",
+			"date": "2023-04-27"
 		}
 	],
 	[
@@ -21321,6 +21587,55 @@
 			"jacket_link": "/illust/1878_adv.jpeg",
 			"difficulty": "adv",
 			"date": "2023-03-09"
+		},
+		{
+			"title": "[E]",
+			"composer": "dj MAX STEROID",
+			"jacket_link": "/illust/1882_adv.jpeg",
+			"difficulty": "adv",
+			"date": "2023-03-16"
+		},
+		{
+			"title": "FUJIMORI -祭- FESTIVAL",
+			"composer": "VENUS",
+			"jacket_link": "/illust/1896_adv.jpeg",
+			"difficulty": "adv",
+			"date": "2023-04-13"
+		},
+		{
+			"title": "ヒバナ-Reloaded-",
+			"composer": "DECO*27",
+			"jacket_link": "/illust/1900_adv.jpeg",
+			"difficulty": "adv",
+			"date": "2023-04-27"
+		},
+		{
+			"title": "チェイスチェイスジョーカーズのうた",
+			"composer": "カギコ&チノン（CV:金元寿子&大空直美）",
+			"jacket_link": "/illust/1904_adv.jpeg",
+			"difficulty": "adv",
+			"date": "2023-04-27"
+		},
+		{
+			"title": "Lost Emotion feat. nomico",
+			"composer": "Alstroemeria Records",
+			"jacket_link": "/illust/1910_adv.jpeg",
+			"difficulty": "adv",
+			"date": "2023-05-18"
+		},
+		{
+			"title": "For.*tune",
+			"composer": "Capchii × low meow × Uzumaki",
+			"jacket_link": "/illust/1914_adv.jpeg",
+			"difficulty": "adv",
+			"date": "2023-06-01"
+		},
+		{
+			"title": "機械仕掛けの魔法使い",
+			"composer": "Tsubusare BOZZ feat.madoka*",
+			"jacket_link": "/illust/1916_adv.jpeg",
+			"difficulty": "adv",
+			"date": "2023-06-01"
 		}
 	],
 	[
@@ -24732,6 +25047,104 @@
 			"jacket_link": "/illust/1880_adv.jpeg",
 			"difficulty": "adv",
 			"date": "2023-03-09"
+		},
+		{
+			"title": "Welcome to the Mosh Pit",
+			"composer": "lapix",
+			"jacket_link": "/illust/1883_adv.jpeg",
+			"difficulty": "adv",
+			"date": "2023-03-16"
+		},
+		{
+			"title": "ステラ・イミグレーション",
+			"composer": "後藤 feat. リリカ",
+			"jacket_link": "/illust/1888_adv.jpeg",
+			"difficulty": "adv",
+			"date": "2023-03-30"
+		},
+		{
+			"title": "Garland",
+			"composer": "ミハイル + K.key",
+			"jacket_link": "/illust/1891_adv.jpeg",
+			"difficulty": "adv",
+			"date": "2023-03-30"
+		},
+		{
+			"title": "CUDDLIE CUDDLIE",
+			"composer": "ゆんゆん",
+			"jacket_link": "/illust/1892_adv.jpeg",
+			"difficulty": "adv",
+			"date": "2023-03-30"
+		},
+		{
+			"title": "Black or Red?",
+			"composer": "コスモドライバー  join. shully & Nimo",
+			"jacket_link": "/illust/1895_adv.jpeg",
+			"difficulty": "adv",
+			"date": "2023-04-13"
+		},
+		{
+			"title": "Aerial Skydive",
+			"composer": "Dirty Androids",
+			"jacket_link": "/illust/1898_adv.jpeg",
+			"difficulty": "adv",
+			"date": "2023-04-13"
+		},
+		{
+			"title": "Blossom",
+			"composer": "Synthion",
+			"jacket_link": "/illust/1899_adv.jpeg",
+			"difficulty": "adv",
+			"date": "2023-04-27"
+		},
+		{
+			"title": "Hello, Hologram",
+			"composer": "HIMEHINA",
+			"jacket_link": "/illust/1901_adv.jpeg",
+			"difficulty": "adv",
+			"date": "2023-04-27"
+		},
+		{
+			"title": "Chocolate Planet (いるちょこRemix)",
+			"composer": "irucaice feat. ちょこ",
+			"jacket_link": "/illust/1903_adv.jpeg",
+			"difficulty": "adv",
+			"date": "2023-04-27"
+		},
+		{
+			"title": "Zero-Day Exploit(One-Day Fusion Mix)",
+			"composer": "庭師",
+			"jacket_link": "/illust/1906_adv.jpeg",
+			"difficulty": "adv",
+			"date": "2023-04-27"
+		},
+		{
+			"title": "ENERGY SYNERGY MATRIX",
+			"composer": "Tanchiky",
+			"jacket_link": "/illust/1907_adv.jpeg",
+			"difficulty": "adv",
+			"date": "2023-04-27"
+		},
+		{
+			"title": "いでぃおで結構！",
+			"composer": "諸星なな feat.加藤はるか",
+			"jacket_link": "/illust/1908_adv.jpeg",
+			"difficulty": "adv",
+			"date": "2023-04-27"
+		},
+		{
+			"title": "無意識レクイエム",
+			"composer": "森羅万象",
+			"jacket_link": "/illust/1911_adv.jpeg",
+			"difficulty": "adv",
+			"date": "2023-05-18"
+		},
+		{
+			"title": "CadenzaMaiden",
+			"composer": "u-z feat.紫咲ほたる",
+			"jacket_link": "/illust/1917_adv.jpeg",
+			"difficulty": "adv",
+			"date": "2023-06-01"
 		}
 	],
 	[
@@ -28626,6 +29039,83 @@
 			"jacket_link": "/illust/1879_exh.jpeg",
 			"difficulty": "exh",
 			"date": "2023-03-09"
+		},
+		{
+			"title": "少年リップルズ",
+			"composer": "常盤ゆう",
+			"jacket_link": "/illust/1881_adv.jpeg",
+			"difficulty": "adv",
+			"date": "2023-03-16"
+		},
+		{
+			"title": "アガット",
+			"composer": "Bazole",
+			"jacket_link": "/illust/1884_adv.jpeg",
+			"difficulty": "adv",
+			"date": "2023-03-16"
+		},
+		{
+			"title": "零天視",
+			"composer": "隣の庭は青い(庭師+Aoi)",
+			"jacket_link": "/illust/1885_adv.jpeg",
+			"difficulty": "adv",
+			"date": "2023-03-30"
+		},
+		{
+			"title": "Brave Power Leader 《 = Voltage = 》",
+			"composer": "概念",
+			"jacket_link": "/illust/1887_adv.jpeg",
+			"difficulty": "adv",
+			"date": "2023-03-30"
+		},
+		{
+			"title": "S(TAR)²☆pistol",
+			"composer": "Mono.",
+			"jacket_link": "/illust/1889_adv.jpeg",
+			"difficulty": "adv",
+			"date": "2023-03-30"
+		},
+		{
+			"title": "リリーゼと炎龍レーヴァテイン",
+			"composer": "黒猫ダンジョン",
+			"jacket_link": "/illust/1894_adv.jpeg",
+			"difficulty": "adv",
+			"date": "2023-04-13"
+		},
+		{
+			"title": "quaver♪",
+			"composer": "Risk Junk",
+			"jacket_link": "/illust/1897_adv.jpeg",
+			"difficulty": "adv",
+			"date": "2023-04-13"
+		},
+		{
+			"title": "Distorted Floor -Boosted-",
+			"composer": "M-UE vs. siromaru",
+			"jacket_link": "/illust/1902_adv.jpeg",
+			"difficulty": "adv",
+			"date": "2023-04-27"
+		},
+		{
+			"title": "アルファ・スカイ",
+			"composer": "みーに feat. しろさきあや",
+			"jacket_link": "/illust/1909_adv.jpeg",
+			"difficulty": "adv",
+			"date": "2023-04-27"
+		},
+		{
+			"title": "マツヨイナイトバグ",
+			"composer": "ビートまりおとまろん",
+			"jacket_link": "/illust/1912_adv.jpeg",
+			"difficulty": "adv",
+			"date": "2023-05-18"
+		},
+		{
+			"title": "天穹のアルカナビット",
+			"composer": "打打だいず + Tanchiky + siromaru",
+			"jacket_link": "/illust/1915_adv.jpeg",
+			"difficulty": "adv",
+			"date": "2023-06-01"
 		}
 	],
 	[
@@ -31498,6 +31988,90 @@
 			"jacket_link": "/illust/1878_exh.jpeg",
 			"difficulty": "exh",
 			"date": "2023-03-09"
+		},
+		{
+			"title": "[E]",
+			"composer": "dj MAX STEROID",
+			"jacket_link": "/illust/1882_exh.jpeg",
+			"difficulty": "exh",
+			"date": "2023-03-16"
+		},
+		{
+			"title": "HALO",
+			"composer": "Tatsunoshin",
+			"jacket_link": "/illust/1886_adv.jpeg",
+			"difficulty": "adv",
+			"date": "2023-03-30"
+		},
+		{
+			"title": "赫焉のヴァルキュリア -Ragnarøk-",
+			"composer": "ryhki",
+			"jacket_link": "/illust/1893_adv.jpeg",
+			"difficulty": "adv",
+			"date": "2023-03-30"
+		},
+		{
+			"title": "FUJIMORI -祭- FESTIVAL",
+			"composer": "VENUS",
+			"jacket_link": "/illust/1896_exh.jpeg",
+			"difficulty": "exh",
+			"date": "2023-04-13"
+		},
+		{
+			"title": "ヒバナ-Reloaded-",
+			"composer": "DECO*27",
+			"jacket_link": "/illust/1900_exh.jpeg",
+			"difficulty": "exh",
+			"date": "2023-04-27"
+		},
+		{
+			"title": "チェイスチェイスジョーカーズのうた",
+			"composer": "カギコ&チノン（CV:金元寿子&大空直美）",
+			"jacket_link": "/illust/1904_exh.jpeg",
+			"difficulty": "exh",
+			"date": "2023-04-27"
+		},
+		{
+			"title": "WWW",
+			"composer": "HIMEHINA",
+			"jacket_link": "/illust/1905_exh.jpeg",
+			"difficulty": "exh",
+			"date": "2023-04-27"
+		},
+		{
+			"title": "いでぃおで結構！",
+			"composer": "諸星なな feat.加藤はるか",
+			"jacket_link": "/illust/1908_exh.jpeg",
+			"difficulty": "exh",
+			"date": "2023-04-27"
+		},
+		{
+			"title": "Lost Emotion feat. nomico",
+			"composer": "Alstroemeria Records",
+			"jacket_link": "/illust/1910_exh.jpeg",
+			"difficulty": "exh",
+			"date": "2023-05-18"
+		},
+		{
+			"title": "無意識レクイエム (cosmobsp rmx)",
+			"composer": "cosMo＠暴走P (original arranged by 森羅万象)",
+			"jacket_link": "/illust/1913_adv.jpeg",
+			"difficulty": "adv",
+			"date": "2023-05-18"
+		},
+		{
+			"title": "For.*tune",
+			"composer": "Capchii × low meow × Uzumaki",
+			"jacket_link": "/illust/1914_exh.jpeg",
+			"difficulty": "exh",
+			"date": "2023-06-01"
+		},
+		{
+			"title": "機械仕掛けの魔法使い",
+			"composer": "Tsubusare BOZZ feat.madoka*",
+			"jacket_link": "/illust/1916_exh.jpeg",
+			"difficulty": "exh",
+			"date": "2023-06-01"
 		}
 	],
 	[
@@ -34601,6 +35175,90 @@
 			"jacket_link": "/illust/1880_exh.jpeg",
 			"difficulty": "exh",
 			"date": "2023-03-09"
+		},
+		{
+			"title": "Welcome to the Mosh Pit",
+			"composer": "lapix",
+			"jacket_link": "/illust/1883_exh.jpeg",
+			"difficulty": "exh",
+			"date": "2023-03-16"
+		},
+		{
+			"title": "ステラ・イミグレーション",
+			"composer": "後藤 feat. リリカ",
+			"jacket_link": "/illust/1888_exh.jpeg",
+			"difficulty": "exh",
+			"date": "2023-03-30"
+		},
+		{
+			"title": "SuddeИDeath",
+			"composer": "xi vs. モリモリあつし",
+			"jacket_link": "/illust/1890_adv.jpeg",
+			"difficulty": "adv",
+			"date": "2023-03-30"
+		},
+		{
+			"title": "Garland",
+			"composer": "ミハイル + K.key",
+			"jacket_link": "/illust/1891_exh.jpeg",
+			"difficulty": "exh",
+			"date": "2023-03-30"
+		},
+		{
+			"title": "CUDDLIE CUDDLIE",
+			"composer": "ゆんゆん",
+			"jacket_link": "/illust/1892_exh.jpeg",
+			"difficulty": "exh",
+			"date": "2023-03-30"
+		},
+		{
+			"title": "Black or Red?",
+			"composer": "コスモドライバー  join. shully & Nimo",
+			"jacket_link": "/illust/1895_exh.jpeg",
+			"difficulty": "exh",
+			"date": "2023-04-13"
+		},
+		{
+			"title": "Aerial Skydive",
+			"composer": "Dirty Androids",
+			"jacket_link": "/illust/1898_exh.jpeg",
+			"difficulty": "exh",
+			"date": "2023-04-13"
+		},
+		{
+			"title": "Hello, Hologram",
+			"composer": "HIMEHINA",
+			"jacket_link": "/illust/1901_exh.jpeg",
+			"difficulty": "exh",
+			"date": "2023-04-27"
+		},
+		{
+			"title": "Chocolate Planet (いるちょこRemix)",
+			"composer": "irucaice feat. ちょこ",
+			"jacket_link": "/illust/1903_exh.jpeg",
+			"difficulty": "exh",
+			"date": "2023-04-27"
+		},
+		{
+			"title": "Zero-Day Exploit(One-Day Fusion Mix)",
+			"composer": "庭師",
+			"jacket_link": "/illust/1906_exh.jpeg",
+			"difficulty": "exh",
+			"date": "2023-04-27"
+		},
+		{
+			"title": "アルファ・スカイ",
+			"composer": "みーに feat. しろさきあや",
+			"jacket_link": "/illust/1909_exh.jpeg",
+			"difficulty": "exh",
+			"date": "2023-04-27"
+		},
+		{
+			"title": "無意識レクイエム",
+			"composer": "森羅万象",
+			"jacket_link": "/illust/1911_exh.jpeg",
+			"difficulty": "exh",
+			"date": "2023-05-18"
 		}
 	],
 	[
@@ -38796,6 +39454,104 @@
 			"jacket_link": "/illust/1879_mxm.jpeg",
 			"difficulty": "mxm",
 			"date": "2023-03-09"
+		},
+		{
+			"title": "少年リップルズ",
+			"composer": "常盤ゆう",
+			"jacket_link": "/illust/1881_exh.jpeg",
+			"difficulty": "exh",
+			"date": "2023-03-16"
+		},
+		{
+			"title": "アガット",
+			"composer": "Bazole",
+			"jacket_link": "/illust/1884_exh.jpeg",
+			"difficulty": "exh",
+			"date": "2023-03-16"
+		},
+		{
+			"title": "零天視",
+			"composer": "隣の庭は青い(庭師+Aoi)",
+			"jacket_link": "/illust/1885_exh.jpeg",
+			"difficulty": "exh",
+			"date": "2023-03-30"
+		},
+		{
+			"title": "Brave Power Leader 《 = Voltage = 》",
+			"composer": "概念",
+			"jacket_link": "/illust/1887_exh.jpeg",
+			"difficulty": "exh",
+			"date": "2023-03-30"
+		},
+		{
+			"title": "S(TAR)²☆pistol",
+			"composer": "Mono.",
+			"jacket_link": "/illust/1889_exh.jpeg",
+			"difficulty": "exh",
+			"date": "2023-03-30"
+		},
+		{
+			"title": "リリーゼと炎龍レーヴァテイン",
+			"composer": "黒猫ダンジョン",
+			"jacket_link": "/illust/1894_exh.jpeg",
+			"difficulty": "exh",
+			"date": "2023-04-13"
+		},
+		{
+			"title": "quaver♪",
+			"composer": "Risk Junk",
+			"jacket_link": "/illust/1897_exh.jpeg",
+			"difficulty": "exh",
+			"date": "2023-04-13"
+		},
+		{
+			"title": "Blossom",
+			"composer": "Synthion",
+			"jacket_link": "/illust/1899_exh.jpeg",
+			"difficulty": "exh",
+			"date": "2023-04-27"
+		},
+		{
+			"title": "Distorted Floor -Boosted-",
+			"composer": "M-UE vs. siromaru",
+			"jacket_link": "/illust/1902_exh.jpeg",
+			"difficulty": "exh",
+			"date": "2023-04-27"
+		},
+		{
+			"title": "ENERGY SYNERGY MATRIX",
+			"composer": "Tanchiky",
+			"jacket_link": "/illust/1907_exh.jpeg",
+			"difficulty": "exh",
+			"date": "2023-04-27"
+		},
+		{
+			"title": "マツヨイナイトバグ",
+			"composer": "ビートまりおとまろん",
+			"jacket_link": "/illust/1912_exh.jpeg",
+			"difficulty": "exh",
+			"date": "2023-05-18"
+		},
+		{
+			"title": "無意識レクイエム (cosmobsp rmx)",
+			"composer": "cosMo＠暴走P (original arranged by 森羅万象)",
+			"jacket_link": "/illust/1913_exh.jpeg",
+			"difficulty": "exh",
+			"date": "2023-05-18"
+		},
+		{
+			"title": "天穹のアルカナビット",
+			"composer": "打打だいず + Tanchiky + siromaru",
+			"jacket_link": "/illust/1915_exh.jpeg",
+			"difficulty": "exh",
+			"date": "2023-06-01"
+		},
+		{
+			"title": "CadenzaMaiden",
+			"composer": "u-z feat.紫咲ほたる",
+			"jacket_link": "/illust/1917_exh.jpeg",
+			"difficulty": "exh",
+			"date": "2023-06-01"
 		}
 	],
 	[
@@ -43348,6 +44104,132 @@
 			"jacket_link": "/illust/1878_mxm.jpeg",
 			"difficulty": "mxm",
 			"date": "2023-03-09"
+		},
+		{
+			"title": "[E]",
+			"composer": "dj MAX STEROID",
+			"jacket_link": "/illust/1882_mxm.jpeg",
+			"difficulty": "mxm",
+			"date": "2023-03-16"
+		},
+		{
+			"title": "HALO",
+			"composer": "Tatsunoshin",
+			"jacket_link": "/illust/1886_exh.jpeg",
+			"difficulty": "exh",
+			"date": "2023-03-30"
+		},
+		{
+			"title": "ステラ・イミグレーション",
+			"composer": "後藤 feat. リリカ",
+			"jacket_link": "/illust/1888_mxm.jpeg",
+			"difficulty": "mxm",
+			"date": "2023-03-30"
+		},
+		{
+			"title": "CUDDLIE CUDDLIE",
+			"composer": "ゆんゆん",
+			"jacket_link": "/illust/1892_mxm.jpeg",
+			"difficulty": "mxm",
+			"date": "2023-03-30"
+		},
+		{
+			"title": "赫焉のヴァルキュリア -Ragnarøk-",
+			"composer": "ryhki",
+			"jacket_link": "/illust/1893_exh.jpeg",
+			"difficulty": "exh",
+			"date": "2023-03-30"
+		},
+		{
+			"title": "Black or Red?",
+			"composer": "コスモドライバー  join. shully & Nimo",
+			"jacket_link": "/illust/1895_mxm.jpeg",
+			"difficulty": "mxm",
+			"date": "2023-04-13"
+		},
+		{
+			"title": "FUJIMORI -祭- FESTIVAL",
+			"composer": "VENUS",
+			"jacket_link": "/illust/1896_mxm.jpeg",
+			"difficulty": "mxm",
+			"date": "2023-04-13"
+		},
+		{
+			"title": "Aerial Skydive",
+			"composer": "Dirty Androids",
+			"jacket_link": "/illust/1898_mxm.jpeg",
+			"difficulty": "mxm",
+			"date": "2023-04-13"
+		},
+		{
+			"title": "ヒバナ-Reloaded-",
+			"composer": "DECO*27",
+			"jacket_link": "/illust/1900_mxm.jpeg",
+			"difficulty": "mxm",
+			"date": "2023-04-27"
+		},
+		{
+			"title": "Chocolate Planet (いるちょこRemix)",
+			"composer": "irucaice feat. ちょこ",
+			"jacket_link": "/illust/1903_mxm.jpeg",
+			"difficulty": "mxm",
+			"date": "2023-04-27"
+		},
+		{
+			"title": "チェイスチェイスジョーカーズのうた",
+			"composer": "カギコ&チノン（CV:金元寿子&大空直美）",
+			"jacket_link": "/illust/1904_mxm.jpeg",
+			"difficulty": "mxm",
+			"date": "2023-04-27"
+		},
+		{
+			"title": "WWW",
+			"composer": "HIMEHINA",
+			"jacket_link": "/illust/1905_mxm.jpeg",
+			"difficulty": "mxm",
+			"date": "2023-04-27"
+		},
+		{
+			"title": "いでぃおで結構！",
+			"composer": "諸星なな feat.加藤はるか",
+			"jacket_link": "/illust/1908_mxm.jpeg",
+			"difficulty": "mxm",
+			"date": "2023-04-27"
+		},
+		{
+			"title": "アルファ・スカイ",
+			"composer": "みーに feat. しろさきあや",
+			"jacket_link": "/illust/1909_mxm.jpeg",
+			"difficulty": "mxm",
+			"date": "2023-04-27"
+		},
+		{
+			"title": "Lost Emotion feat. nomico",
+			"composer": "Alstroemeria Records",
+			"jacket_link": "/illust/1910_mxm.jpeg",
+			"difficulty": "mxm",
+			"date": "2023-05-18"
+		},
+		{
+			"title": "無意識レクイエム",
+			"composer": "森羅万象",
+			"jacket_link": "/illust/1911_mxm.jpeg",
+			"difficulty": "mxm",
+			"date": "2023-05-18"
+		},
+		{
+			"title": "For.*tune",
+			"composer": "Capchii × low meow × Uzumaki",
+			"jacket_link": "/illust/1914_mxm.jpeg",
+			"difficulty": "mxm",
+			"date": "2023-06-01"
+		},
+		{
+			"title": "機械仕掛けの魔法使い",
+			"composer": "Tsubusare BOZZ feat.madoka*",
+			"jacket_link": "/illust/1916_mxm.jpeg",
+			"difficulty": "mxm",
+			"date": "2023-06-01"
 		}
 	],
 	[
@@ -46934,6 +47816,132 @@
 			"jacket_link": "/illust/1880_mxm.jpeg",
 			"difficulty": "mxm",
 			"date": "2023-03-09"
+		},
+		{
+			"title": "少年リップルズ",
+			"composer": "常盤ゆう",
+			"jacket_link": "/illust/1881_mxm.jpeg",
+			"difficulty": "mxm",
+			"date": "2023-03-16"
+		},
+		{
+			"title": "Welcome to the Mosh Pit",
+			"composer": "lapix",
+			"jacket_link": "/illust/1883_mxm.jpeg",
+			"difficulty": "mxm",
+			"date": "2023-03-16"
+		},
+		{
+			"title": "アガット",
+			"composer": "Bazole",
+			"jacket_link": "/illust/1884_mxm.jpeg",
+			"difficulty": "mxm",
+			"date": "2023-03-16"
+		},
+		{
+			"title": "零天視",
+			"composer": "隣の庭は青い(庭師+Aoi)",
+			"jacket_link": "/illust/1885_mxm.jpeg",
+			"difficulty": "mxm",
+			"date": "2023-03-30"
+		},
+		{
+			"title": "Brave Power Leader 《 = Voltage = 》",
+			"composer": "概念",
+			"jacket_link": "/illust/1887_mxm.jpeg",
+			"difficulty": "mxm",
+			"date": "2023-03-30"
+		},
+		{
+			"title": "S(TAR)²☆pistol",
+			"composer": "Mono.",
+			"jacket_link": "/illust/1889_mxm.jpeg",
+			"difficulty": "mxm",
+			"date": "2023-03-30"
+		},
+		{
+			"title": "SuddeИDeath",
+			"composer": "xi vs. モリモリあつし",
+			"jacket_link": "/illust/1890_exh.jpeg",
+			"difficulty": "exh",
+			"date": "2023-03-30"
+		},
+		{
+			"title": "Garland",
+			"composer": "ミハイル + K.key",
+			"jacket_link": "/illust/1891_mxm.jpeg",
+			"difficulty": "mxm",
+			"date": "2023-03-30"
+		},
+		{
+			"title": "リリーゼと炎龍レーヴァテイン",
+			"composer": "黒猫ダンジョン",
+			"jacket_link": "/illust/1894_mxm.jpeg",
+			"difficulty": "mxm",
+			"date": "2023-04-13"
+		},
+		{
+			"title": "quaver♪",
+			"composer": "Risk Junk",
+			"jacket_link": "/illust/1897_mxm.jpeg",
+			"difficulty": "mxm",
+			"date": "2023-04-13"
+		},
+		{
+			"title": "Blossom",
+			"composer": "Synthion",
+			"jacket_link": "/illust/1899_mxm.jpeg",
+			"difficulty": "mxm",
+			"date": "2023-04-27"
+		},
+		{
+			"title": "Hello, Hologram",
+			"composer": "HIMEHINA",
+			"jacket_link": "/illust/1901_mxm.jpeg",
+			"difficulty": "mxm",
+			"date": "2023-04-27"
+		},
+		{
+			"title": "Distorted Floor -Boosted-",
+			"composer": "M-UE vs. siromaru",
+			"jacket_link": "/illust/1902_mxm.jpeg",
+			"difficulty": "mxm",
+			"date": "2023-04-27"
+		},
+		{
+			"title": "Zero-Day Exploit(One-Day Fusion Mix)",
+			"composer": "庭師",
+			"jacket_link": "/illust/1906_mxm.jpeg",
+			"difficulty": "mxm",
+			"date": "2023-04-27"
+		},
+		{
+			"title": "ENERGY SYNERGY MATRIX",
+			"composer": "Tanchiky",
+			"jacket_link": "/illust/1907_mxm.jpeg",
+			"difficulty": "mxm",
+			"date": "2023-04-27"
+		},
+		{
+			"title": "マツヨイナイトバグ",
+			"composer": "ビートまりおとまろん",
+			"jacket_link": "/illust/1912_mxm.jpeg",
+			"difficulty": "mxm",
+			"date": "2023-05-18"
+		},
+		{
+			"title": "天穹のアルカナビット",
+			"composer": "打打だいず + Tanchiky + siromaru",
+			"jacket_link": "/illust/1915_mxm.jpeg",
+			"difficulty": "mxm",
+			"date": "2023-06-01"
+		},
+		{
+			"title": "CadenzaMaiden",
+			"composer": "u-z feat.紫咲ほたる",
+			"jacket_link": "/illust/1917_mxm.jpeg",
+			"difficulty": "mxm",
+			"date": "2023-06-01"
 		}
 	],
 	[
@@ -47783,6 +48791,27 @@
 			"jacket_link": "/illust/1877_mxm.jpeg",
 			"difficulty": "mxm",
 			"date": "2023-03-02"
+		},
+		{
+			"title": "HALO",
+			"composer": "Tatsunoshin",
+			"jacket_link": "/illust/1886_mxm.jpeg",
+			"difficulty": "mxm",
+			"date": "2023-03-30"
+		},
+		{
+			"title": "赫焉のヴァルキュリア -Ragnarøk-",
+			"composer": "ryhki",
+			"jacket_link": "/illust/1893_mxm.jpeg",
+			"difficulty": "mxm",
+			"date": "2023-03-30"
+		},
+		{
+			"title": "無意識レクイエム (cosmobsp rmx)",
+			"composer": "cosMo＠暴走P (original arranged by 森羅万象)",
+			"jacket_link": "/illust/1913_mxm.jpeg",
+			"difficulty": "mxm",
+			"date": "2023-05-18"
 		}
 	],
 	[
@@ -47925,6 +48954,13 @@
 			"jacket_link": "/illust/1836_mxm.jpeg",
 			"difficulty": "mxm",
 			"date": "2022-10-20"
+		},
+		{
+			"title": "SuddeИDeath",
+			"composer": "xi vs. モリモリあつし",
+			"jacket_link": "/illust/1890_mxm.jpeg",
+			"difficulty": "mxm",
+			"date": "2023-03-30"
 		}
 	]
 ]
