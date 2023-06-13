@@ -1,8 +1,8 @@
 {
 	"configs": [
 		{
-			"cnt": 1917,
-			"totalcnt": 6989
+			"cnt": 1918,
+			"totalcnt": 6993
 		}
 	],
 	"songs": [
@@ -39463,6 +39463,28 @@
 				"jacket_link": "/illust/1917_mxm.jpeg"
 			},
 			"date": "2023-06-01"
+		},
+		{
+			"num": 1918,
+			"title": "Redo／アニメ「Re:ゼロから始める異世界生活」より",
+			"composer": "鈴木このみ",
+			"nov": {
+				"level": 2,
+				"jacket_link": "/illust/1918_nov.jpeg"
+			},
+			"adv": {
+				"level": 10,
+				"jacket_link": "/illust/1918_adv.jpeg"
+			},
+			"exh": {
+				"level": 14,
+				"jacket_link": "/illust/1918_exh.jpeg"
+			},
+			"mxm": {
+				"level": 17,
+				"jacket_link": "/illust/1918_mxm.jpeg"
+			},
+			"date": "2023-06-08"
 		}
 	]
 }
