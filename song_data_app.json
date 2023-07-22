@@ -1,8 +1,8 @@
 {
 	"configs": [
 		{
-			"cnt": 1918,
-			"totalcnt": 6993
+			"cnt": 1932,
+			"totalcnt": 7049
 		}
 	],
 	"songs": [
@@ -39485,6 +39485,314 @@
 				"jacket_link": "/illust/1918_mxm.jpeg"
 			},
 			"date": "2023-06-08"
+		},
+		{
+			"num": 1919,
+			"title": "Realize／アニメ「Re:ゼロから始める異世界生活」より",
+			"composer": "鈴木このみ",
+			"nov": {
+				"level": 3,
+				"jacket_link": "/illust/1919_nov.jpeg"
+			},
+			"adv": {
+				"level": 9,
+				"jacket_link": "/illust/1919_adv.jpeg"
+			},
+			"exh": {
+				"level": 14,
+				"jacket_link": "/illust/1919_exh.jpeg"
+			},
+			"mxm": {
+				"level": 17,
+				"jacket_link": "/illust/1919_mxm.jpeg"
+			},
+			"date": "2023-06-22"
+		},
+		{
+			"num": 1920,
+			"title": "PRIDE of the FIREBALL",
+			"composer": "かぼちゃ feat. CO-DA",
+			"nov": {
+				"level": 5,
+				"jacket_link": "/illust/1920_nov.jpeg"
+			},
+			"adv": {
+				"level": 12,
+				"jacket_link": "/illust/1920_adv.jpeg"
+			},
+			"exh": {
+				"level": 15,
+				"jacket_link": "/illust/1920_exh.jpeg"
+			},
+			"mxm": {
+				"level": 17,
+				"jacket_link": "/illust/1920_mxm.jpeg"
+			},
+			"date": "2023-06-22"
+		},
+		{
+			"num": 1921,
+			"title": "ハッピーエンド",
+			"composer": "technoplanet feat. Kuroto Sion",
+			"nov": {
+				"level": 6,
+				"jacket_link": "/illust/1921_nov.jpeg"
+			},
+			"adv": {
+				"level": 13,
+				"jacket_link": "/illust/1921_adv.jpeg"
+			},
+			"exh": {
+				"level": 16,
+				"jacket_link": "/illust/1921_exh.jpeg"
+			},
+			"mxm": {
+				"level": 18,
+				"jacket_link": "/illust/1921_mxm.jpeg"
+			},
+			"date": "2023-06-22"
+		},
+		{
+			"num": 1922,
+			"title": "D.I.X.",
+			"composer": "日夜すずり feat. 凜々",
+			"nov": {
+				"level": 6,
+				"jacket_link": "/illust/1922_nov.jpeg"
+			},
+			"adv": {
+				"level": 13,
+				"jacket_link": "/illust/1922_adv.jpeg"
+			},
+			"exh": {
+				"level": 16,
+				"jacket_link": "/illust/1922_exh.jpeg"
+			},
+			"mxm": {
+				"level": 18,
+				"jacket_link": "/illust/1922_mxm.jpeg"
+			},
+			"date": "2023-06-22"
+		},
+		{
+			"num": 1923,
+			"title": "Second Game",
+			"composer": "Tracy feat. miko",
+			"nov": {
+				"level": 5,
+				"jacket_link": "/illust/1923_nov.jpeg"
+			},
+			"adv": {
+				"level": 11,
+				"jacket_link": "/illust/1923_adv.jpeg"
+			},
+			"exh": {
+				"level": 14,
+				"jacket_link": "/illust/1923_exh.jpeg"
+			},
+			"mxm": {
+				"level": 17,
+				"jacket_link": "/illust/1923_mxm.jpeg"
+			},
+			"date": "2023-06-22"
+		},
+		{
+			"num": 1924,
+			"title": "Juωpscare!!",
+			"composer": "coTatsu",
+			"nov": {
+				"level": 6,
+				"jacket_link": "/illust/1924_nov.jpeg"
+			},
+			"adv": {
+				"level": 12,
+				"jacket_link": "/illust/1924_adv.jpeg"
+			},
+			"exh": {
+				"level": 15,
+				"jacket_link": "/illust/1924_exh.jpeg"
+			},
+			"mxm": {
+				"level": 18,
+				"jacket_link": "/illust/1924_mxm.jpeg"
+			},
+			"date": "2023-06-22"
+		},
+		{
+			"num": 1925,
+			"title": "凛として咲く花の如く",
+			"composer": "大神ミオ",
+			"nov": {
+				"level": 3,
+				"jacket_link": "/illust/1925_nov.jpeg"
+			},
+			"adv": {
+				"level": 11,
+				"jacket_link": "/illust/1925_adv.jpeg"
+			},
+			"exh": {
+				"level": 14,
+				"jacket_link": "/illust/1925_exh.jpeg"
+			},
+			"mxm": {
+				"level": 17,
+				"jacket_link": "/illust/1925_mxm.jpeg"
+			},
+			"date": "2023-06-29"
+		},
+		{
+			"num": 1926,
+			"title": "Pixelated Platform (Super Honey!)",
+			"composer": "そよもぎ",
+			"nov": {
+				"level": 5,
+				"jacket_link": "/illust/1926_nov.jpeg"
+			},
+			"adv": {
+				"level": 12,
+				"jacket_link": "/illust/1926_adv.jpeg"
+			},
+			"exh": {
+				"level": 15,
+				"jacket_link": "/illust/1926_exh.jpeg"
+			},
+			"mxm": {
+				"level": 17,
+				"jacket_link": "/illust/1926_mxm.jpeg"
+			},
+			"date": "2023-07-06"
+		},
+		{
+			"num": 1927,
+			"title": "トーキョーサマーナイト（華金Remix）",
+			"composer": "あまみ×ひなみ",
+			"nov": {
+				"level": 4,
+				"jacket_link": "/illust/1927_nov.jpeg"
+			},
+			"adv": {
+				"level": 12,
+				"jacket_link": "/illust/1927_adv.jpeg"
+			},
+			"exh": {
+				"level": 14,
+				"jacket_link": "/illust/1927_exh.jpeg"
+			},
+			"mxm": {
+				"level": 17,
+				"jacket_link": "/illust/1927_mxm.jpeg"
+			},
+			"date": "2023-07-06"
+		},
+		{
+			"num": 1928,
+			"title": "The EXworld of sound",
+			"composer": "Remix by Aoi, Vocal by Kuroa*",
+			"nov": {
+				"level": 6,
+				"jacket_link": "/illust/1928_nov.jpeg"
+			},
+			"adv": {
+				"level": 13,
+				"jacket_link": "/illust/1928_adv.jpeg"
+			},
+			"exh": {
+				"level": 16,
+				"jacket_link": "/illust/1928_exh.jpeg"
+			},
+			"mxm": {
+				"level": 18,
+				"jacket_link": "/illust/1928_mxm.jpeg"
+			},
+			"date": "2023-07-06"
+		},
+		{
+			"num": 1929,
+			"title": "劇場版ムーニャポヨポヨスッポコニャーゴ~侵略だいず帝国！ドラマティック宇宙大戦争~",
+			"composer": "打打だいず",
+			"nov": {
+				"level": 6,
+				"jacket_link": "/illust/1929_nov.jpeg"
+			},
+			"adv": {
+				"level": 13,
+				"jacket_link": "/illust/1929_adv.jpeg"
+			},
+			"exh": {
+				"level": 16,
+				"jacket_link": "/illust/1929_exh.jpeg"
+			},
+			"mxm": {
+				"level": 18,
+				"jacket_link": "/illust/1929_mxm.jpeg"
+			},
+			"date": "2023-07-06"
+		},
+		{
+			"num": 1930,
+			"title": "Prayer",
+			"composer": "溝口ゆうま feat. 大瀬良あい",
+			"nov": {
+				"level": 6,
+				"jacket_link": "/illust/1930_nov.jpeg"
+			},
+			"adv": {
+				"level": 12,
+				"jacket_link": "/illust/1930_adv.jpeg"
+			},
+			"exh": {
+				"level": 15,
+				"jacket_link": "/illust/1930_exh.jpeg"
+			},
+			"mxm": {
+				"level": 18,
+				"jacket_link": "/illust/1930_mxm.jpeg"
+			},
+			"date": "2023-07-20"
+		},
+		{
+			"num": 1931,
+			"title": "birth",
+			"composer": "Yu_Asahina",
+			"nov": {
+				"level": 6,
+				"jacket_link": "/illust/1931_nov.jpeg"
+			},
+			"adv": {
+				"level": 13,
+				"jacket_link": "/illust/1931_adv.jpeg"
+			},
+			"exh": {
+				"level": 16,
+				"jacket_link": "/illust/1931_exh.jpeg"
+			},
+			"mxm": {
+				"level": 18,
+				"jacket_link": "/illust/1931_mxm.jpeg"
+			},
+			"date": "2023-07-20"
+		},
+		{
+			"num": 1932,
+			"title": "Shera",
+			"composer": "MYUKKE.",
+			"nov": {
+				"level": 5,
+				"jacket_link": "/illust/1932_nov.jpeg"
+			},
+			"adv": {
+				"level": 12,
+				"jacket_link": "/illust/1932_adv.jpeg"
+			},
+			"exh": {
+				"level": 15,
+				"jacket_link": "/illust/1932_exh.jpeg"
+			},
+			"mxm": {
+				"level": 18,
+				"jacket_link": "/illust/1932_mxm.jpeg"
+			},
+			"date": "2023-07-20"
 		}
 	]
 }
